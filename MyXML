@@ -1,0 +1,683 @@
+<?xml version="1.0"?>
+<Objects>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Latest Questions on SQL Server Q&amp;A from the SQL Server Central community</Property>
+    <Property Name="Title" Type="System.String">I need to create a relationship between 2 unrelated tables.</Property>
+    <Property Name="Description" Type="System.String">There is a **customer table** and **item cross reference table**.
+
+In order for a customer to order through EDI there must a customer item cross reference in the item cross reference table. There is no entry in the customer xref table if no xref. There can be many customers per item.
+
+Customer Table  
+Customer
+
+Item cross reference table  
+Customer  
+Item  
+Customer Xref
+
+I want to know which customers are not in the item cross refer table for each item.
+For example Item A may have customer xref</Property>
+    <Property Name="PubDate" Type="System.DateTime">21/07/2013 00:04:25</Property>
+    <Property Name="author" Type="System.String">slanders</Property>
+    <Property Name="link" Type="System.String">http://ask.sqlservercentral.com/questions/104610/i-need-to-create-a-relationship-between-2-unrelate.html</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Latest Questions on SQL Server Q&amp;A from the SQL Server Central community</Property>
+    <Property Name="Title" Type="System.String">Pls i have the following questions, i have attempted but i want to be sure</Property>
+    <Property Name="Description" Type="System.String">Pls i have the following questions. I have attempted to answer them but i want to be sure of my answers.. I'll be glad whoever can help
+
+A. Your company has four offices. Each office contains a server that runs SQL Server 2008.
+
+All corporate data is stored in a central location.
+
+You need to create a reporting solution. The solution must meet the following requirements:  
+. Minimize hardware costs  
+. Minimize administrative effort  
+. Minimize the time it takes to generate the reports  
+Enable</Property>
+    <Property Name="PubDate" Type="System.DateTime">20/07/2013 15:10:31</Property>
+    <Property Name="author" Type="System.String">Ptaa99</Property>
+    <Property Name="link" Type="System.String">http://ask.sqlservercentral.com/questions/104609/pls-i-have-the-following-questions-i-have-attempte.html</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Latest Questions on SQL Server Q&amp;A from the SQL Server Central community</Property>
+    <Property Name="Title" Type="System.String">SQL Code to Implement Goal seek Function in Excel</Property>
+    <Property Name="Description" Type="System.String">Hi,
+Need to write sql query to implement goal seek function in excel's formula in sql server.
+For example for a particular cell the formula D8 is 
+=NPV(D7/12,D10:D481)
+D7:IRR(Internal Rate Return)
+12:No Of months in a year
+D10:D481:The values present in the cell.
+
+Through sql code am able to get NPV(Net Present value). I need to find out the value of D7 which makes D8 to 0 through goal seek function.Meaning basing on the value of D7 the NPV will be 0.   
+
+Any help is appreciated.</Property>
+    <Property Name="PubDate" Type="System.DateTime">20/07/2013 13:42:36</Property>
+    <Property Name="author" Type="System.String">CoolDbGuy</Property>
+    <Property Name="link" Type="System.String">http://ask.sqlservercentral.com/questions/104608/sql-code-to-implement-goal-seek-function-in-excel.html</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Latest Questions on SQL Server Q&amp;A from the SQL Server Central community</Property>
+    <Property Name="Title" Type="System.String">Is this SQL Query on VBA valid?</Property>
+    <Property Name="Description" Type="System.String">Is this valid? I can't seem to make it work on macro?
+
+strQuery = strQuery &amp; " WHERE [Year] IN ('" &amp; Sheets("Clients").drpdwnYear.Value &amp; "')"
+
+Thanks :)</Property>
+    <Property Name="PubDate" Type="System.DateTime">20/07/2013 12:03:25</Property>
+    <Property Name="author" Type="System.String">jtedder00</Property>
+    <Property Name="link" Type="System.String">http://ask.sqlservercentral.com/questions/104607/is-this-sql-query-on-vba-valid.html</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Latest Questions on SQL Server Q&amp;A from the SQL Server Central community</Property>
+    <Property Name="Title" Type="System.String">what is best datatype to store IP Address ?</Property>
+    <Property Name="Description" Type="System.String">Dear Sir,
+
+I want to store ip address i have taken varchar(20) to store it is it best practice?</Property>
+    <Property Name="PubDate" Type="System.DateTime">20/07/2013 10:55:27</Property>
+    <Property Name="author" Type="System.String">bhanupratapsngh9</Property>
+    <Property Name="link" Type="System.String">http://ask.sqlservercentral.com/questions/104604/what-is-best-datatype-to-store-ip-address-.html</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Latest Questions on SQL Server Q&amp;A from the SQL Server Central community</Property>
+    <Property Name="Title" Type="System.String">Auto increment for a Varchar Column</Property>
+    <Property Name="Description" Type="System.String">At below I have written a script that will create a table Test and will insert 100 values.
+
+    CREATE TABLE dbo.Test(PRODID INT,PRODNAME varchar(30))
+    declare @PRODID int=1
+    while @PRODID&lt;= 100
+    begin 
+    insert dbo.Test values(@PRODID,'THREAD')
+    set @PRODID+=1
+    end
+
+It's Result is :
+
+    PRODID  PRODNAME
+    1	THREAD
+    2	THREAD
+    3	THREAD
+    4	THREAD
+    5	THREAD
+    6	THREAD
+    ....
+    100     THREAD
+
+But my point is rather than using that INT on PRODID I want to use VA</Property>
+    <Property Name="PubDate" Type="System.DateTime">20/07/2013 06:23:33</Property>
+    <Property Name="author" Type="System.String">skpani</Property>
+    <Property Name="link" Type="System.String">http://ask.sqlservercentral.com/questions/104602/auto-increment-for-a-varchar-column-1.html</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Latest Blog Posts - SQLServerCentral</Property>
+    <Property Name="Title" Type="System.String">Security Cameras in the Neighborhood</Property>
+    <Property Name="Description" Type="System.String">I live in a pleasant, calm, middle class neighborhood. Not much crime here, at most the rare break-in or vandalism, not a place where you worry about going out for a walk in the evening. Recently the HOA sent out a letter discussing the install of security cameras to increase security and that provoked some interesting responses. Not everyone ??? including me ??? thinks that cameras everywhere are a good thing.
+Will they reduce/deter crime? Maybe. Is it worth trading away some amount of privacy?</Property>
+    <Property Name="PubDate" Type="System.DateTime">20/07/2013 03:01:54</Property>
+    <Property Name="author" Type="" />
+    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/andy_warren/2013/07/19/security-cameras-in-the-neighborhood/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Latest Questions on SQL Server Q&amp;A from the SQL Server Central community</Property>
+    <Property Name="Title" Type="System.String">sql rows to columns conditional</Property>
+    <Property Name="Description" Type="System.String">i have 4 tables
+
+![alt text][1]
+
+
+i am trying to get ouput to new table as
+
+![alt text][2]
+
+
+  [1]: /storage/temp/1011-att.png
+
+
+  [2]: /storage/temp/1012-result-att.png
+
+
+
+
+
+**I TRIED WITH SQL PIVOT**
+
+http://sqlfiddle.com/#!3/7b946/13
+
+
+**BUT NOT GETTING THE RESULT.**
+
+
+**PLEASE HELP FOR MY QUERY.**</Property>
+    <Property Name="PubDate" Type="System.DateTime">20/07/2013 02:12:46</Property>
+    <Property Name="author" Type="System.String">manikishore</Property>
+    <Property Name="link" Type="System.String">http://ask.sqlservercentral.com/questions/104598/sql-rows-to-columns-conditional.html</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Latest Blog Posts - SQLServerCentral</Property>
+    <Property Name="Title" Type="System.String">The New PASS Executive Committee of 2014</Property>
+    <Property Name="Description" Type="System.String">I&amp;#8217;m sure you can understand the high level of interest I have in the internal affairs and governance of PASS.  After all, I was one of the founders of the organization way back in 1999 and was president for four years from 2003 through 2006 (fondly remembered as &amp;#8220;the hardest fricken years of my life&amp;#8221;).
+So I was keenly interested when the latest press release from PASS named the incoming PASS Executive Committee to take their seats on January 1st, 2014. The executive committee i</Property>
+    <Property Name="PubDate" Type="System.DateTime">19/07/2013 22:34:48</Property>
+    <Property Name="author" Type="" />
+    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/kevinekline/2013/07/19/the-new-pass-executive-committee-of-2014/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Latest Questions on SQL Server Q&amp;A from the SQL Server Central community</Property>
+    <Property Name="Title" Type="System.String">Cache to Find Index Usage</Property>
+    <Property Name="Description" Type="System.String">Hi All,
+
+I was watching a "How-To" Indexing video online and attempted to re-create the code for personal use.  I re-created two separate queries (see below).  The first worked without a flow and I was very pleased with the results.  Now, the second query gave me a lot of trouble.  
+For some reason I got the following error:  **"Msg 9500, Level 16, State 1, Line 5
+The data type 'system' used in the VALUE method is invalid."**
+
+I work with SQL Server 2008.  This issue might be related to permissi</Property>
+    <Property Name="PubDate" Type="System.DateTime">19/07/2013 21:59:45</Property>
+    <Property Name="author" Type="System.String">eaglescout</Property>
+    <Property Name="link" Type="System.String">http://ask.sqlservercentral.com/questions/104589/cache-to-find-index-usage.html</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Latest Questions on SQL Server Q&amp;A from the SQL Server Central community</Property>
+    <Property Name="Title" Type="System.String">BI Tools of sqlserver</Property>
+    <Property Name="Description" Type="System.String">Where do I ask question on BI tools (SSIS and SSAS)?</Property>
+    <Property Name="PubDate" Type="System.DateTime">19/07/2013 21:24:49</Property>
+    <Property Name="author" Type="System.String">chitrarekha.saha</Property>
+    <Property Name="link" Type="System.String">http://ask.sqlservercentral.com/questions/104586/bi-tools-of-sqlserver.html</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Latest Blog Posts - SQLServerCentral</Property>
+    <Property Name="Title" Type="System.String">Energy news that caught my eye</Property>
+    <Property Name="Description" Type="System.String">I???ve been a big fan of nuclear energy ever since I worked at a power plant. Before that I was terrified and didn???t think it was a good idea, but I learned quite a bit about how it works and while there are issues, I think it???s a good source to consider.
+If we redesign the reactors. Right now we use old designs, old technology, and we could make them more efficient and much more safe. 
+I ran across this piece on Small Nuclear reactors. These are in the 200-300MW range, as opposed to the 1,0</Property>
+    <Property Name="PubDate" Type="System.DateTime">19/07/2013 20:02:00</Property>
+    <Property Name="author" Type="" />
+    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/steve_jones/2013/07/19/energy-news-that-caught-my-eye/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Latest Blog Posts - SQLServerCentral</Property>
+    <Property Name="Title" Type="System.String">More on Finding Bad Links On Your Blog</Property>
+    <Property Name="Description" Type="System.String">Yesterday I mentioned using the Google Webmaster Tools to identify some bad URL???s here on the blog. I decided to do a little more checking to see what else might be wrong. First tool I found was http://www.brokenlinkcheck.com/, free for up to 3000 pages. I set it to run and waited a few minutes, when I checked back I had an assortment of 404 errors, timeouts, and bad hosts ??? more than a few!
+
+I started looking and a lot of them were in comments (the URL of the commenter). That???s almost imp</Property>
+    <Property Name="PubDate" Type="System.DateTime">19/07/2013 19:00:00</Property>
+    <Property Name="author" Type="" />
+    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/andy_warren/2013/07/19/more-on-finding-bad-links-on-your-blog/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Latest Questions on SQL Server Q&amp;A from the SQL Server Central community</Property>
+    <Property Name="Title" Type="System.String">Send Email script task</Property>
+    <Property Name="Description" Type="System.String">I have some packages in production which send emails through script task.
+They have been running for 2 years successfully.
+From past 2 weeks the users are not getting email attachments consistently.
+On some days they receive and some days they do not.
+The job status shows success.
+Any ideas why this could be happening?
+This is puzzling situation for me as they do not fail every day.
+Thanks a lot</Property>
+    <Property Name="PubDate" Type="System.DateTime">19/07/2013 15:03:05</Property>
+    <Property Name="author" Type="System.String">apple</Property>
+    <Property Name="link" Type="System.String">http://ask.sqlservercentral.com/questions/104579/send-email-script-task.html</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Latest Blog Posts - SQLServerCentral</Property>
+    <Property Name="Title" Type="System.String">Best SQL Server Podcast and Video Sites (Hangout)</Property>
+    <Property Name="Description" Type="System.String">My friend Boris Hristov (Blog | Twitter) continues his Google Hangouts initiative, and this week he invited me to talk about the best learning resources for SQL Server.
+We talked about the best Podcast and video sites out there. Due to some technical issues we couldn&amp;#8217;t talk about the best blogs, so we will probably have another session about them.
+
+Podcasts:
+
+RunAs Radio
+.NET Rocks
+SQL Down Under
+People Talking Tech
+
+Free Video Sites:
+Channel9
+SQLBits
+PASS Recordings
+TechNet
+Paid Video Sit</Property>
+    <Property Name="PubDate" Type="System.DateTime">19/07/2013 13:16:42</Property>
+    <Property Name="author" Type="" />
+    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/db-newsfeed/2013/07/19/best-sql-server-podcast-and-video-sites-hangout/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Latest Blog Posts - SQLServerCentral</Property>
+    <Property Name="Title" Type="System.String">Audio and slides are up for my webinar on SQL Server encryption</Property>
+    <Property Name="Description" Type="System.String">
+The webinar audio and slides/demo scripts are up for the presentation I did for the PASS Security virtual chapter.
+&amp;nbsp;
+PASS Security VC Meeting Archive
+&amp;nbsp;
+Make sure you grab both files(slides and demos + session recording). If you pull down the session recording, the audio is&amp;nbsp;fine but the screen never switches from that first slide. We'll have to see about fixing that for future presentations.
+&amp;nbsp;</Property>
+    <Property Name="PubDate" Type="System.DateTime">19/07/2013 13:15:00</Property>
+    <Property Name="author" Type="" />
+    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/brian_kelley/2013/07/19/audio-and-slides-are-up-for-my-webinar-on-sql-server-encryption/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Latest Blog Posts - SQLServerCentral</Property>
+    <Property Name="Title" Type="System.String">Rebuilding server level collation setting</Property>
+    <Property Name="Description" Type="System.String">Scenario You have just completed setting up a new development database server for a new project. After that, everyone in the team now starts working on implementing their design and starts to create their objects. When the time came for them to start adding test data, Chinese characters cannot be stored to the database. The [&amp;#8230;]</Property>
+    <Property Name="PubDate" Type="System.DateTime">19/07/2013 13:10:16</Property>
+    <Property Name="author" Type="" />
+    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/coffee-and-sql/2013/07/19/rebuilding-server-level-collation-setting/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Latest Questions on SQL Server Q&amp;A from the SQL Server Central community</Property>
+    <Property Name="Title" Type="System.String">Cannot excess temporary table</Property>
+    <Property Name="Description" Type="System.String">Dear all, 
+in my case i wish to excess a temporary table  which i am creating inside a query which is first build and then executed using execute command(e.g execute(@sql)  but after the successful execution i am not able to excess that table below execute command then i am not able to do so.</Property>
+    <Property Name="PubDate" Type="System.DateTime">19/07/2013 13:09:18</Property>
+    <Property Name="author" Type="System.String">ashish1983</Property>
+    <Property Name="link" Type="System.String">http://ask.sqlservercentral.com/questions/104570/cannot-excess-temporary-table.html</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Latest Questions on SQL Server Q&amp;A from the SQL Server Central community</Property>
+    <Property Name="Title" Type="System.String">which fields must be use in clustered index?</Property>
+    <Property Name="Description" Type="System.String">this is my table structure.
+
+tblMessages
+(
+ MessageId(int,unique, IDENTITY(1,1))
+ UserId (int)
+ PublishTime(datetime)
+ Body (nvarchar(max)
+)
+
+Usual queries for this table is 
+" select * from tblMessages where UserId=@userid order by PublishTime Desc " (60% of all queries) 
+
+" select * from tblMessages where MessageId=@messageId" (40% of all queries) 
+
+this table has more than 10,000,000 rows , averege rows for each user is 2000.
+
+which fields must be use in clustered index?  MessageId or UserId </Property>
+    <Property Name="PubDate" Type="System.DateTime">19/07/2013 12:08:12</Property>
+    <Property Name="author" Type="System.String">abid2010</Property>
+    <Property Name="link" Type="System.String">http://ask.sqlservercentral.com/questions/104567/which-fields-must-be-use-in-clustered-index.html</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Latest Blog Posts - SQLServerCentral</Property>
+    <Property Name="Title" Type="System.String">Webcast Presentation Materials: 5 Ways to Improve Performance through Indexing</Property>
+    <Property Name="Description" Type="System.String">This past Tuesday, I delivered a presentation for Pragmatic Works Training on the T&amp;#8217;s. The session I delivered was 5 Ways to Improve Performance through Indexing.
+The abstract for the sessions is:
+Sometimes the hardest performance issues in your environment have simple solutions. One of these simple solutions is through properly indexing the database. In this session, we???ll look at five ways that performance of a database can be improved through indexing. When we finish, you???ll be arme</Property>
+    <Property Name="PubDate" Type="System.DateTime">19/07/2013 02:30:48</Property>
+    <Property Name="author" Type="" />
+    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/stratesql/2013/07/18/webcast-presentation-materials-5-ways-to-improve-performance-through-indexing/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Latest Questions on SQL Server Q&amp;A from the SQL Server Central community</Property>
+    <Property Name="Title" Type="System.String">Solar Winds</Property>
+    <Property Name="Description" Type="System.String">Anyone else on here using Solar Winds for a SQL monitoring tool?  Looks like out of the box it captures a lot of good performance metrics.  It also has the ability to add an endless number of custom metrics.  
+
+For anyone using this product, what have you found as its strengths and weaknesses?  What custom monitors have you had to create to supplement the out of the box monitors?  
+
+For me, the company I work for already owns unlimited licenses for the tool so it would be senseless not to go all</Property>
+    <Property Name="PubDate" Type="System.DateTime">19/07/2013 02:04:31</Property>
+    <Property Name="author" Type="System.String">Tim</Property>
+    <Property Name="link" Type="System.String">http://ask.sqlservercentral.com/questions/104561/solar-winds.html</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Latest Questions on SQL Server Q&amp;A from the SQL Server Central community</Property>
+    <Property Name="Title" Type="System.String">Replicating CDC Table</Property>
+    <Property Name="Description" Type="System.String">Hello All,
+I have a request to add change data capture(CDC) table to existing replication. The CDC table does not have a primary key so therefore it cannot be added into the replication.
+The question I have is whether I can alter cdc table to create primary key? Will adding PK can break CDC altogether? How can I replicate CDC tables to another instance without breaking anything. We do not have test environment, all this will be done straight in production. 
+
+Thanks in advance.</Property>
+    <Property Name="PubDate" Type="System.DateTime">18/07/2013 23:12:31</Property>
+    <Property Name="author" Type="System.String">AliRashid</Property>
+    <Property Name="link" Type="System.String">http://ask.sqlservercentral.com/questions/104555/replicating-cdc-table.html</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Latest Questions on SQL Server Q&amp;A from the SQL Server Central community</Property>
+    <Property Name="Title" Type="System.String">Insert Statement</Property>
+    <Property Name="Description" Type="System.String">insert two phone no's into one column separated by comma  with single insert statement
+
+    CREATE table phone
+    (
+    name varchar(20),
+    contact  varchar(30)
+    )
+
+
+Output:
+
+name Contact
+
+SSC  123-45-6789,987-65-4321'</Property>
+    <Property Name="PubDate" Type="System.DateTime">18/07/2013 22:09:30</Property>
+    <Property Name="author" Type="System.String">sunil2711</Property>
+    <Property Name="link" Type="System.String">http://ask.sqlservercentral.com/questions/104552/insert-statement.html</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Latest Blog Posts - SQLServerCentral</Property>
+    <Property Name="Title" Type="System.String">Reblog: July 12 to July 18</Property>
+    <Property Name="Description" Type="System.String">I&amp;#8217;ve always been a fan of the feeling when I find an old blog post that&amp;#8217;s got just the information that I need to solve a problem or answer a question.  It&amp;#8217;s that whole &amp;#8220;cha-ching&amp;#8221; &amp;#8211; buried treasure! feeling.  That&amp;#8217;s kind of the aim of this blog post.  To provide a list of some posts that still have value that came out in previous years.
+The posts for this past week in previous years are:
+
+Volunteering and Resume Building (13 Jul, 2009)
+Resource Governor</Property>
+    <Property Name="PubDate" Type="System.DateTime">18/07/2013 21:00:29</Property>
+    <Property Name="author" Type="" />
+    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/stratesql/2013/07/18/reblog-july-12-to-july-18/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Latest Blog Posts - SQLServerCentral</Property>
+    <Property Name="Title" Type="System.String">Why You Need a Data Warehouse</Property>
+    <Property Name="Description" Type="System.String">Introduction
+You likely have heard about data warehousing, but are unsure exactly what it is and if your company needs one.  I will attempt to help you to fully understand what a data warehouse can do and the reasons to use one so that you will be convinced of the benefits and will proceed to build one.
+In my experience, not nearly as many companies have a data warehouse as I would have expected.  And many of those that say they have a data warehouse don&amp;#8217;t really have a true data warehouse</Property>
+    <Property Name="PubDate" Type="System.DateTime">18/07/2013 21:00:27</Property>
+    <Property Name="author" Type="" />
+    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/jamesserra/2013/07/18/why-you-need-a-data-warehouse/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Latest Blog Posts - SQLServerCentral</Property>
+    <Property Name="Title" Type="System.String">Check Constraints can help enforce the all or nothing approach when it comes to column updates</Property>
+    <Property Name="Description" Type="System.String">If you have a set of columns inside your table that you want to allow nulls in, however if one of the columns is updated force all columns in the set to be updated, use a check constraint. In my case, I had 3 columns for delete info, which were nullable. However, if one value was updated in there, I want all three of the delete columns to require updating. I created the script below to generate the creation and removal of these constraints on a list of tables./***********************************</Property>
+    <Property Name="PubDate" Type="System.DateTime">18/07/2013 20:26:55</Property>
+    <Property Name="author" Type="" />
+    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/bit-barbarian/2013/07/18/check-constraints-can-help-enforce-the-all-or-nothing-approach-when-it-comes-to-column-updates/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Latest Blog Posts - SQLServerCentral</Property>
+    <Property Name="Title" Type="System.String">Fixing Bad Links Found Using Google Webmaster Tools</Property>
+    <Property Name="Description" Type="System.String">I???ve been doing various clean up tasks this week related to the blog, with part of that being a review of the Google Webmaster Tools results. One of the things I noticed is that I had some crawl errors (URL???s that generated a page not found error). Here is the first part of that information showing 15 errors:
+&amp;nbsp;
+
+Drilling into the detail showed the 15 problematic URL???s. If you look you???ll see a pattern ??? something that looks like a ???good??? URL followed by what looks like another</Property>
+    <Property Name="PubDate" Type="System.DateTime">18/07/2013 19:00:00</Property>
+    <Property Name="author" Type="" />
+    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/andy_warren/2013/07/18/fixing-bad-links-found-using-google-webmaster-tools/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Simple-Talk blogs</Property>
+    <Property Name="Title" Type="System.String">Software Tuned to Humanity</Property>
+    <Property Name="Description" Type="System.String">I learned a great deal from a cynical old programmer who once told me that the ideal length of time for a compiler to do its work was the same time it took to roll a cigarette. For development work, this is oh so true. After intently looking at the editing window for an hour [...]</Property>
+    <Property Name="PubDate" Type="System.DateTime">18/07/2013 17:26:47</Property>
+    <Property Name="author" Type="System.String">Phil Factor</Property>
+    <Property Name="link" Type="System.String">https://www.simple-talk.com/blogs/2013/07/18/software-tuned-to-humanity/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Latest Blog Posts - SQLServerCentral</Property>
+    <Property Name="Title" Type="System.String">SQLSaturday#235 NYC - The Schedule You All Have Been Waiting For!</Property>
+    <Property Name="Description" Type="System.String">Late last night in the 
+Halls of Congress, a grand gathering of planners took place to form that
+ which we waited for many a days. Never the perfect finished work, but a
+ living document that is subject to popular change. In the smoky 
+chambers of shadowy figures, the pressure was on to get something to the
+ masses - so it was pushed through legislative legerdemain.And, finally, a spectacular super SQLSaturday #235 speaker schedule was adapted unanimously! &amp;nbsp;The ayes have it! &amp;nbsp;Ok, so no</Property>
+    <Property Name="PubDate" Type="System.DateTime">18/07/2013 15:44:00</Property>
+    <Property Name="author" Type="" />
+    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/pearlknows/2013/07/18/sqlsaturday-235-nyc-the-schedule-you-all-have-been-waiting-for/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Latest Blog Posts - SQLServerCentral</Property>
+    <Property Name="Title" Type="System.String">70-457 Reviewer #04, Implement a Migration Strategy</Property>
+    <Property Name="Description" Type="System.String">Upgrading an instance is a process in which you upgrade an existing instance of SQL Server to SQL Server 2012. Before proceeding to implement a migration strategy, you will need to ask yourself the following and evaluate From which edition do you need to upgrade or migrate? Your current SQL edition will tell you if [&amp;#8230;]</Property>
+    <Property Name="PubDate" Type="System.DateTime">18/07/2013 14:47:00</Property>
+    <Property Name="author" Type="" />
+    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/coffee-and-sql/2013/07/18/70-457-reviewer-04-implement-a-migration-strategy/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Latest Blog Posts - SQLServerCentral</Property>
+    <Property Name="Title" Type="System.String">Amusing SQL Trick ??? Hide yourself from SQL Server</Property>
+    <Property Name="Description" Type="System.String">I make a point of reading DBAReactions on a fairly regular basis and today while reading it I was lead to one of the most amusing SQL Blogs I&amp;#8217;ve ever read.  It&amp;#8217;s completely serious, and yet the trick discussed so fits my sense of humor I couldn&amp;#8217;t help but laugh.
+Do yourself a favor and read:
+SQL SERVER ??? How to Hide Yourself from SQL Server? ??? Guest Post by Balmukund Lakhani
+And to those of you that I work with (particularly you Andy), don&amp;#8217;t even think of trying it.
+F</Property>
+    <Property Name="PubDate" Type="System.DateTime">18/07/2013 02:36:29</Property>
+    <Property Name="author" Type="" />
+    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/sqlstudies/2013/07/17/amusing-sql-trick-hide-yourself-from-sql-server/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Latest Blog Posts - SQLServerCentral</Property>
+    <Property Name="Title" Type="System.String">PASS Security Virtual Chapter &amp; Security Topics at PASS Summit</Property>
+    <Property Name="Description" Type="System.String">I just saw a post from Brian Kelley about the new PASS Security Virtual Chapter launching and the first presentation (by Brian on encryption) is tomorrow. That seems like a great step after the observations Brian made back in May about there only being one security topic at the Summit this year. 
+It also makes me think about the concept of track chairs and how sessions get selected for the Summit. I???d like to see the virtual chapters consulted on whether they think there is enough/right focuse</Property>
+    <Property Name="PubDate" Type="System.DateTime">18/07/2013 02:06:09</Property>
+    <Property Name="author" Type="" />
+    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/andy_warren/2013/07/17/pass-security-virtual-chapter-security-topics-at-pass-summit/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Latest Blog Posts - SQLServerCentral</Property>
+    <Property Name="Title" Type="System.String">SQL Server: Performance Tuning :Understanding Set Statistics Time output</Property>
+    <Property Name="Description" Type="System.String">
+
+
+In the last post we have discussed about Set Statistics IO&amp;nbsp;and how it will help us in the performance tuning. In this post we will discuss about the Set Statistics Time which will give the statistics of time taken to execute a query.
+
+
+
+Let us start with a example.
+
+
+USE AdventureWorks2008
+GO
+&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; DBCC dropcleanbuffers
+&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;DBCC freeproccache
+
+GO
+SET STATISTICS TIME ON
+GO
+SELECT * &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;FROM </Property>
+    <Property Name="PubDate" Type="System.DateTime">18/07/2013 01:06:00</Property>
+    <Property Name="author" Type="" />
+    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/practicalsqldba/2013/07/17/sql-server-performance-tuning-understanding-set-statistics-time-output/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Latest Blog Posts - SQLServerCentral</Property>
+    <Property Name="Title" Type="System.String">The Stairway to Deployment</Property>
+    <Property Name="Description" Type="System.String">Next week I travel to Sacramento, CA for the SQL in the City Seminar ??? Stairway to Deployment on Friday, July 26, 2013. It???s a half day event where Grant Fritchey and I will look to lead you through the idea of implementing continuous integration and continuous deployment for databases (as well as other code).
+I have the first two talks to get you started: Team-based Version Control and Automated Build and Test. Grant will cover the Best Practices for Database Deployment and we???ll finish w</Property>
+    <Property Name="PubDate" Type="System.DateTime">18/07/2013 00:21:42</Property>
+    <Property Name="author" Type="" />
+    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/steve_jones/2013/07/17/the-stairway-to-deployment/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Latest Blog Posts - SQLServerCentral</Property>
+    <Property Name="Title" Type="System.String">Disable the Charms Bar ??? Making Windows 8 Better</Property>
+    <Property Name="Description" Type="System.String">One of the things that???s bothered me is the way the charms bar frequent popping out as my mouse moves to the upper or lower right. I do this as I???m trying to reach the ???x??? to close a window or adjust time zones. The bar pops out and it???s annoying.
+I initially searched for a way to stop this, but didn???t find one. However I must not have searched correctly as I found an article recently that shows how to do this.
+It???s a registry hack, so hit the Start menu and type ???regedt32??? and</Property>
+    <Property Name="PubDate" Type="System.DateTime">17/07/2013 23:42:00</Property>
+    <Property Name="author" Type="" />
+    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/steve_jones/2013/07/17/disable-the-charms-bar-making-windows-8-better/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Latest Blog Posts - SQLServerCentral</Property>
+    <Property Name="Title" Type="System.String">PowerShell ??? Identify and switch between installed PowerShell Versions</Property>
+    <Property Name="Description" Type="System.String">Most of the time we have been used to cmdlets and it&amp;#8217;s various features but do not know about the version and hence this post might help some of you to understand in finding different versions of PowerShell and how to switch between versions (provided multiple versions are installed on your Machine). I&amp;#8217;m using Where clause syntax to explain version switching.
+Code to find version-
+PS:\&amp;gt;Get-Host | Select-Object Version
+Version
+&amp;#8212;&amp;#8212;-
+2.0
+PS:\&amp;gt;$Host.Version
+Major  Minor </Property>
+    <Property Name="PubDate" Type="System.DateTime">17/07/2013 23:02:13</Property>
+    <Property Name="author" Type="" />
+    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/powersql-by-prashanth-jayaram/2013/07/17/powershell-identify-and-switch-between-installed-powershell-versions/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Simple Talk RSS Feed</Property>
+    <Property Name="Title" Type="System.String">Data Science Laboratory System - Key/Value Pair Systems</Property>
+    <Property Name="Description" Type="System.String">Though the Key/Value pair paradigm is common to almost every computer language, there is no clear agreement yet for the definition of a Key/Value Pair database. However, Key/Value pair databases are valuable for special applications where speed of writing data is more important than searching and  general versatility. It is certainly worth experimenting with in a data science lab.</Property>
+    <Property Name="PubDate" Type="System.DateTime">17/07/2013 01:00:00</Property>
+    <Property Name="author" Type="System.String">Buck Woody</Property>
+    <Property Name="link" Type="System.String">https://www.simple-talk.com/cloud/data-science/data-science-laboratory-system---keyvalue-pair-systems/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Simple Talk RSS Feed</Property>
+    <Property Name="Title" Type="System.String">Using Microsoft Excel to Retrieve SSAS Tabular Data</Property>
+    <Property Name="Description" Type="System.String">Although it is well-known how to create a tabular database in PowerPivot, it is less obvious that there are several useful options for retrieving SSAS tabular data into Excel. This provides an easy way of manipulating, visualizing and analyzing the data without needing to know the details of SSAS and the tabular model. </Property>
+    <Property Name="PubDate" Type="System.DateTime">16/07/2013 01:00:00</Property>
+    <Property Name="author" Type="System.String">Robert Sheldon</Property>
+    <Property Name="link" Type="System.String">https://www.simple-talk.com/sql/reporting-services/using-microsoft-excel-to-retrieve-ssas-tabular-data/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Simple Talk RSS Feed</Property>
+    <Property Name="Title" Type="System.String">Using Microsoft Excel to Retrieve SSAS Tabular Data</Property>
+    <Property Name="Description" Type="System.String">Although it is well-known how to create a tabular database in PowerPivot, it is less obvious that there are several useful options for retrieving SSAS tabular data into Excel. This provides an easy way of manipulating, visualizing and analyzing the data without needing to know the details of SSAS and the tabular model. </Property>
+    <Property Name="PubDate" Type="System.DateTime">16/07/2013 01:00:00</Property>
+    <Property Name="author" Type="System.String">Robert Sheldon</Property>
+    <Property Name="link" Type="System.String">https://www.simple-talk.com/sql/reporting-services/using-microsoft-excel-to-retrieve-ssas-tabular-data/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Simple Talk RSS Feed</Property>
+    <Property Name="Title" Type="System.String">Keeping an Eye on Your Storage</Property>
+    <Property Name="Description" Type="System.String">There are plenty of resources that advise you about looking for signs that your storage hardware is having problems. SQL Server Alerts for 823, 824 and 825 are covered here by Paul Randall of SQL Skills: http://www.sqlskills.com/blogs/paul/a-little-known-sign-of-impending-doom-error-825/ and here by me: https://www.simple-talk.com/blogs/2011/06/27/alerts-are-good-arent-they/. Now until very recently I wasn???t aware that there was a different way [...]</Property>
+    <Property Name="PubDate" Type="System.DateTime">15/07/2013 11:00:17</Property>
+    <Property Name="author" Type="System.String">Fatherjack</Property>
+    <Property Name="link" Type="System.String">https://www.simple-talk.com/blogs/2013/07/15/keeping-an-eye-on-your-storage/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Simple-Talk blogs</Property>
+    <Property Name="Title" Type="System.String">Keeping an Eye on Your Storage</Property>
+    <Property Name="Description" Type="System.String">There are plenty of resources that advise you about looking for signs that your storage hardware is having problems. SQL Server Alerts for 823, 824 and 825 are covered here by Paul Randall of SQL Skills: http://www.sqlskills.com/blogs/paul/a-little-known-sign-of-impending-doom-error-825/ and here by me: https://www.simple-talk.com/blogs/2011/06/27/alerts-are-good-arent-they/. Now until very recently I wasn???t aware that there was a different way [...]</Property>
+    <Property Name="PubDate" Type="System.DateTime">15/07/2013 10:00:17</Property>
+    <Property Name="author" Type="System.String">Fatherjack</Property>
+    <Property Name="link" Type="System.String">https://www.simple-talk.com/blogs/2013/07/15/keeping-an-eye-on-your-storage/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Simple-Talk blogs</Property>
+    <Property Name="Title" Type="System.String">Good DBAs Do Baselines</Property>
+    <Property Name="Description" Type="System.String">One morning, you wake up and feel funny. You can&amp;#8217;t quite put your finger on it, but something isn&amp;#8217;t quite right. What now? Unless you happen to be a hypochondriac, you likely drag yourself out of bed, get on with the day and gather more &amp;#8220;evidence&amp;#8221;. You check your symptoms over the next few days; [...]</Property>
+    <Property Name="PubDate" Type="System.DateTime">12/07/2013 05:20:10</Property>
+    <Property Name="author" Type="System.String">Louis Davidson</Property>
+    <Property Name="link" Type="System.String">https://www.simple-talk.com/blogs/2013/07/12/good-dbas-do-baselines/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Simple Talk RSS Feed</Property>
+    <Property Name="Title" Type="System.String">An Introduction to Windows Azure BLOB Storage </Property>
+    <Property Name="Description" Type="System.String">Azure BLOB storage is persistent Cloud data storage that serves a variety of purposes. Mike Wood shows the basics of  how to use it, from start through to snapshots and metadata; both from .NET, and by using the free tool, Cerebrata Azure Explorer. </Property>
+    <Property Name="PubDate" Type="System.DateTime">12/07/2013 01:00:00</Property>
+    <Property Name="author" Type="System.String">Mike Wood</Property>
+    <Property Name="link" Type="System.String">https://www.simple-talk.com/cloud/cloud-data/an-introduction-to-windows-azure-blob-storage-/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Simple Talk RSS Feed</Property>
+    <Property Name="Title" Type="System.String">An Introduction to Windows Azure BLOB Storage </Property>
+    <Property Name="Description" Type="System.String">Azure BLOB storage is persistent Cloud data storage that serves a variety of purposes. Mike Wood shows the basics of  how to use it, from start through to snapshots and metadata; both from .NET, and by using the free tool, Cerebrata Azure Explorer. </Property>
+    <Property Name="PubDate" Type="System.DateTime">12/07/2013 01:00:00</Property>
+    <Property Name="author" Type="System.String">Mike Wood</Property>
+    <Property Name="link" Type="System.String">https://www.simple-talk.com/cloud/cloud-data/an-introduction-to-windows-azure-blob-storage-/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Simple Talk RSS Feed</Property>
+    <Property Name="Title" Type="System.String">Fluent Code in C#</Property>
+    <Property Name="Description" Type="System.String">In LINQ, the 'fluent' method syntax  flows logically and intuitively, and allows them to be combined simply, because each method returns the appropriate type of object for the next. Can this fluent technique be extended as an API style to make it easier to develop C# team-based applications for enterprises? </Property>
+    <Property Name="PubDate" Type="System.DateTime">11/07/2013 01:00:00</Property>
+    <Property Name="author" Type="System.String">Tom Fischer</Property>
+    <Property Name="link" Type="System.String">https://www.simple-talk.com/dotnet/.net-framework/fluent-code-in-c/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Simple Talk RSS Feed</Property>
+    <Property Name="Title" Type="System.String">Fluent Code in C#</Property>
+    <Property Name="Description" Type="System.String">In LINQ, the 'fluent' method syntax  flows logically and intuitively, and allows them to be combined simply, because each method returns the appropriate type of object for the next. Can this fluent technique be extended as an API style to make it easier to develop C# team-based applications for enterprises? </Property>
+    <Property Name="PubDate" Type="System.DateTime">11/07/2013 01:00:00</Property>
+    <Property Name="author" Type="System.String">Tom Fischer</Property>
+    <Property Name="link" Type="System.String">https://www.simple-talk.com/dotnet/.net-framework/fluent-code-in-c/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Simple Talk RSS Feed</Property>
+    <Property Name="Title" Type="System.String">Continuous Integration for SQL Server Part III ??? Deployment</Property>
+    <Property Name="Description" Type="System.String">In this article, I&amp;#8217;ll describe the next stage in implementing a full Continuous Integration and Deployment process for SQL Server databases: Deployment. This post follows on directly from my previous post on Continuous Integration and testing for SQL Server. Following the steps in this previous post is a pre-requisite to following the steps below, though [...]</Property>
+    <Property Name="PubDate" Type="System.DateTime">10/07/2013 11:51:44</Property>
+    <Property Name="author" Type="System.String">Ben Rees</Property>
+    <Property Name="link" Type="System.String">https://www.simple-talk.com/blogs/2013/07/10/continuous-integration-for-sql-server-part-iii-deployment/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Simple-Talk blogs</Property>
+    <Property Name="Title" Type="System.String">Continuous Integration for SQL Server Part III ??? Deployment</Property>
+    <Property Name="Description" Type="System.String">In this article, I&amp;#8217;ll describe the next stage in implementing a full Continuous Integration and Deployment process for SQL Server databases: Deployment. This post follows on directly from my previous post on Continuous Integration and testing for SQL Server. Following the steps in this previous post is a pre-requisite to following the steps below, though [...]</Property>
+    <Property Name="PubDate" Type="System.DateTime">10/07/2013 10:51:44</Property>
+    <Property Name="author" Type="System.String">Ben Rees</Property>
+    <Property Name="link" Type="System.String">https://www.simple-talk.com/blogs/2013/07/10/continuous-integration-for-sql-server-part-iii-deployment/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Simple Talk RSS Feed</Property>
+    <Property Name="Title" Type="System.String">SQL Server ALTER TABLE syntax diagrams</Property>
+    <Property Name="Description" Type="System.String">The words in the documentation for the ALTER TABLE syntax on MSDN are accurate with forensic precision, but the potentially-useful 'syntax diagrams' look, to the untrained eye, to be the result of someone accidentally sitting on the keyboard. The answer for ordinary mortals like us who need to understand the syntax is to have railroad diagrams as well.</Property>
+    <Property Name="PubDate" Type="System.DateTime">09/07/2013 01:00:00</Property>
+    <Property Name="author" Type="System.String">Phil Factor</Property>
+    <Property Name="link" Type="System.String">https://www.simple-talk.com/sql/t-sql-programming/sql-server-alter-table-syntax-diagrams/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Simple Talk RSS Feed</Property>
+    <Property Name="Title" Type="System.String">SQL Server ALTER TABLE syntax diagrams</Property>
+    <Property Name="Description" Type="System.String">The words in the documentation for the ALTER TABLE syntax on MSDN are accurate with forensic precision, but the potentially-useful 'syntax diagrams' look, to the untrained eye, to be the result of someone accidentally sitting on the keyboard. The answer for ordinary mortals like us who need to understand the syntax is to have railroad diagrams as well.</Property>
+    <Property Name="PubDate" Type="System.DateTime">09/07/2013 01:00:00</Property>
+    <Property Name="author" Type="System.String">Phil Factor</Property>
+    <Property Name="link" Type="System.String">https://www.simple-talk.com/sql/t-sql-programming/sql-server-alter-table-syntax-diagrams/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Simple-Talk blogs</Property>
+    <Property Name="Title" Type="System.String">News From EAP Testing</Property>
+    <Property Name="Description" Type="System.String">There is a phrase that goes something like &amp;#8220;Watch the pennies and the pounds/dollars will take care of themselves&amp;#8221;, meaning that if you pay attention to the small things then the larger things are going to fare well too. I am lucky enough to be a Friend of Red Gate and once in a while [...]</Property>
+    <Property Name="PubDate" Type="System.DateTime">08/07/2013 15:16:23</Property>
+    <Property Name="author" Type="System.String">Fatherjack</Property>
+    <Property Name="link" Type="System.String">https://www.simple-talk.com/blogs/2013/07/08/news-from-eap-testing/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Simple Talk RSS Feed</Property>
+    <Property Name="Title" Type="System.String">Creating a Business Intelligence Dashboard with R and ASP.NET MVC: Part 1</Property>
+    <Property Name="Description" Type="System.String">It is possible to  use the R statistical package to extract Business Intelligence from the data in a SQL Server database, and render graphs and tables in HTML to give you a BI Dashboard in an ASP.NET MVC website. Sergei gives you a step-by-step guide. </Property>
+    <Property Name="PubDate" Type="System.DateTime">08/07/2013 01:00:00</Property>
+    <Property Name="author" Type="System.String">Sergei Dumnov</Property>
+    <Property Name="link" Type="System.String">https://www.simple-talk.com/dotnet/asp.net/creating-a-business-intelligence-dashboard-with-r-and-asp.net-mvc-part-1/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Simple Talk RSS Feed</Property>
+    <Property Name="Title" Type="System.String">Columnstore Queries in SQL Server 2012</Property>
+    <Property Name="Description" Type="System.String">On demo, the columnstore index of SQL Server 2012 gives dazzling performance, but it is optimised for data warehouse  queries so it is by no means a universal route to high-performance queries. Once you understand the context in which they are best used, and the ways of ensuring that they work as intended, they can be extremely useful.</Property>
+    <Property Name="PubDate" Type="System.DateTime">08/07/2013 01:00:00</Property>
+    <Property Name="author" Type="System.String">Roy Ernest</Property>
+    <Property Name="link" Type="System.String">https://www.simple-talk.com/sql/t-sql-programming/columnstore-queries-in-sql-server-2012/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Simple Talk RSS Feed</Property>
+    <Property Name="Title" Type="System.String">Columnstore Queries in SQL Server 2012</Property>
+    <Property Name="Description" Type="System.String">On demo, the columnstore index of SQL Server 2012 gives dazzling performance, but it is optimised for data warehouse  queries so it is by no means a universal route to high-performance queries. Once you understand the context in which they are best used, and the ways of ensuring that they work as intended, they can be extremely useful.</Property>
+    <Property Name="PubDate" Type="System.DateTime">08/07/2013 01:00:00</Property>
+    <Property Name="author" Type="System.String">Roy Ernest</Property>
+    <Property Name="link" Type="System.String">https://www.simple-talk.com/sql/t-sql-programming/columnstore-queries-in-sql-server-2012/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Simple Talk RSS Feed</Property>
+    <Property Name="Title" Type="System.String">Creating a Business Intelligence Dashboard with R and ASP.NET MVC: Part 1</Property>
+    <Property Name="Description" Type="System.String">It is possible to  use the R statistical package to extract Business Intelligence from the data in a SQL Server database, and render graphs and tables in HTML to give you a BI Dashboard in an ASP.NET MVC website. Sergei gives you a step-by-step guide. </Property>
+    <Property Name="PubDate" Type="System.DateTime">08/07/2013 01:00:00</Property>
+    <Property Name="author" Type="System.String">Sergei Dumnov</Property>
+    <Property Name="link" Type="System.String">https://www.simple-talk.com/dotnet/asp.net/creating-a-business-intelligence-dashboard-with-r-and-asp.net-mvc-part-1/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Simple-Talk blogs</Property>
+    <Property Name="Title" Type="System.String">Comparing Apples and Pairs</Property>
+    <Property Name="Description" Type="System.String">A recent study, High Costs and Negative Value of Pair Programming, by Capers Jones, pulls no punches in its assessment of the costs-to- benefits ratio of pair programming, two programmers working together, at a single computer, rather than separately. He implies that pair programming is a method rushed into production on a wave of enthusiasm [...]</Property>
+    <Property Name="PubDate" Type="System.DateTime">04/07/2013 14:09:02</Property>
+    <Property Name="author" Type="System.String">Tony Davis</Property>
+    <Property Name="link" Type="System.String">https://www.simple-talk.com/blogs/2013/07/04/comparing-apples-and-pairs/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Simple Talk RSS Feed</Property>
+    <Property Name="Title" Type="System.String">25 Secrets for Faster ASP.NET: the Eagle has landed!</Property>
+    <Property Name="Description" Type="System.String">On Friday we launched our new free eBook, 25 Secrets for Faster ASP.NET Applications! Heading for 1000 of you have picked it up already, but if you haven???t got your copy yet, you can grab it from http://www.red-gate.com/25secrets. It???s the follow up to the wildly successful 50 Ways to Avoid, Find and Fix ASP.NET Performance [...]</Property>
+    <Property Name="PubDate" Type="System.DateTime">02/07/2013 18:21:13</Property>
+    <Property Name="author" Type="System.String">Michaela Murray</Property>
+    <Property Name="link" Type="System.String">https://www.simple-talk.com/blogs/2013/07/02/25-secrets-for-faster-asp-net-the-eagle-has-landed/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Simple-Talk blogs</Property>
+    <Property Name="Title" Type="System.String">25 Secrets for Faster ASP.NET: the Eagle has landed!</Property>
+    <Property Name="Description" Type="System.String">On Friday we launched our new free eBook, 25 Secrets for Faster ASP.NET Applications! Heading for 1000 of you have picked it up already, but if you haven???t got your copy yet, you can grab it from http://www.red-gate.com/25secrets. It???s the follow up to the wildly successful 50 Ways to Avoid, Find and Fix ASP.NET Performance [...]</Property>
+    <Property Name="PubDate" Type="System.DateTime">02/07/2013 17:21:13</Property>
+    <Property Name="author" Type="System.String">Michaela Murray</Property>
+    <Property Name="link" Type="System.String">https://www.simple-talk.com/blogs/2013/07/02/25-secrets-for-faster-asp-net-the-eagle-has-landed/</Property>
+  </Object>
+</Objects>
