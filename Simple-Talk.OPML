@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<opml version="1.1">
+    <head>
+        <title>Database Weekly front page Subscriptions</title>
+        <dateModified>Mon, 22 jul 2013 07:21:56 GMT</dateModified>
+    </head>
+    <body>
+        <outline text="simple-talk">
+            <outline text="Home Page" title="Simple Talk Home Page" type="rss" xmlUrl="https://www.simple-talk.com/feed/" htmlUrl="https://www.simple-talk.com/"/>
+            <outline text="SQL Articles" title="SQL Home" type="rss" xmlUrl="https://www.simple-talk.com/sql/rss.aspx" htmlUrl="https://www.simple-talk.com/sql/"/>
+            <outline text=".NET Articles" title=".NET Articles" type="rss" xmlUrl="https://www.simple-talk.com/dotnet/rss.aspx" htmlUrl="https://www.simple-talk.com/dotnet/"/>
+            <outline text="SysAdmin Articles" title="SysAdmin Articles" type="rss" xmlUrl="https://www.simple-talk.com/sysadmin/rss.aspx" htmlUrl="https://www.simple-talk.com/sysadmin/"/>
+            <outline text="Opinion and Geeks" title="Opinion and Geeks" type="rss" xmlUrl="https://www.simple-talk.com/opinion/rss.aspx" htmlUrl="https://www.simple-talk.com/opinion/"/>
+            <outline text="Books and Book Reviews" title="Books and Book Reviews" type="rss" xmlUrl="https://www.simple-talk.com/books/rss.aspx" htmlUrl="https://www.simple-talk.com/books/"/>
+            <outline text="Cloud" title=".NET Articles" type="rss" xmlUrl="https://www.simple-talk.com/cloud/rss.aspx" htmlUrl="https://www.simple-talk.com/cloud/"/>
+            <outline text="Blogs" title=".NET Articles" type="rss" xmlUrl="https://www.simple-talk.com/blogs/feed/" htmlUrl="https://www.simple-talk.com/blogs/"/>
+        </outline>
+        <outline text="SQL Server Central">
+            <outline title="Editorials" text="www.sqlservercentral.com/Xml/Rss/Articles/Editorial/" type="rss" xmlUrl="www.sqlservercentral.com/Xml/Rss/Articles/Editorial/"/>
+            <outline title="Main Articles" text="www.sqlservercentral.com/Xml/Rss/articles" type="rss" xmlUrl="www.sqlservercentral.com/Xml/Rss/articles"/>
+            <outline title="SQL Server Central Blogs" text="www.sqlservercentral.com/blogs/feed/" type="rss" xmlUrl="http://www.sqlservercentral.com/blogs/feed/"/>
+            <outline title="Ask Sqlservercentral Questions" text="ask.sqlservercentral.com/feed/questions.rss" type="rss" xmlUrl="http://ask.sqlservercentral.com/feed/questions.rss"/>
+        </outline>
+        <outline text="Twitter feeds">
+        </outline>
+    </body>
+</opml>
