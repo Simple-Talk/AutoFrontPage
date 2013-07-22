@@ -8,14 +8,20 @@ function truncate([string]$value, [int]$MaxLength)
 }
 
 [xml]$opml= Get-Content $MyOPMLFile # grab the OPML file of feeds
-[xml]$Output=$opml.opml.body.outline.outline.xmlurl| Select -first 100 | # only the first few for testing
- foreach-object {
+[xml]$Output=$opml.opml.body.outline.outline | 
+   select @{name="Title"; Expression={$_.title}},
+			 @{name="Feed"; Expression={$_.xmlUrl}},
+			 @{name="PageURL"; Expression={$_.htmlUrl}},
+          @{name="Publication"; Expression={$_.ParentNode.text}} |
+foreach-object { 
 	$successful=$true #assume the best
 	try {
-      Invoke-WebRequest "$_" -outfile '.\tempXML'
+      Invoke-WebRequest $_.Feed -outfile '.\tempXML'
       [xml]$xml = Get-Content '.\tempXML'}
-# [xml]$xml=  Invoke-WebRequest "$_" }
 		catch{$successful=$false} #filter out 404s, malformed items  and bad links
+   $Publication=$_.Publication
+	$Stream=$_.Title
+	$PageURL=$_.PageURL
 	$FeedName=$xml.rss.channel.title #makes sure there is something in it
 	If ($successful)
 	 {
@@ -33,16 +39,19 @@ But you are also likely to find ..
 #>
      Select @{name="Feed"; Expression={$FeedName}}, 
 		@{name="Title"; Expression = {try {$_.title} catch {'Unknown title'}}}, 
-       @{name="Description"; # this isn't manatory, but you can get the content
+      @{name="Description"; # this isn't manatory, but you can get the content
          Expression ={try { if ($_.SelectSingleNode('description') -eq $null) 
                                  { truncate ($_.encoded.'#cdata-section' -replace "<.*?>") 500} 
                             elseif ( $_.description.ToString() -eq 'description') 
                                  {truncate ($_.description.'#cdata-section'  -replace "<.*?>") 500 } 
                             else {truncate ($_.description  -replace "<.*?>") 500 }} 
                       catch {'error'}}},
-       @{name="PubDate"; Expression = {try {get-date ($_.PubDate -replace  "UT")} # force it into a PS date  
+      @{name="Publication"; Expression={$Publication}},
+      @{name="Stream"; Expression={$Stream}},
+      @{name="PageURL"; Expression={$PageURL}},
+      @{name="PubDate"; Expression = {try {get-date ($_.PubDate -replace  "UT")} # force it into a PS date  
                                        catch {Get-Date '01 January 2006 00:00:00'}}}, 
-       @{name="author"; Expression = {try {if ( $_.author.length -eq 0) {$_.creator} 
+      @{name="author"; Expression = {try {if ( $_.author.length -eq 0) {$_.creator} 
                                            else {$_.author}} 
                                       catch{'Unknown Author'}}},
         link | #we already checked for a link!
