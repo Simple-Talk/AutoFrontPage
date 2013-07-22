@@ -11,7 +11,10 @@ function truncate([string]$value, [int]$MaxLength)
 [xml]$Output=$opml.opml.body.outline.outline.xmlurl| Select -first 100 | # only the first few for testing
  foreach-object {
 	$successful=$true #assume the best
-	try {[xml]$xml=  Invoke-WebRequest "$_" }
+	try {
+      Invoke-WebRequest "$_" -outfile '.\tempXML'
+      [xml]$xml = Get-Content '.\tempXML'}
+# [xml]$xml=  Invoke-WebRequest "$_" }
 		catch{$successful=$false} #filter out 404s, malformed items  and bad links
 	$FeedName=$xml.rss.channel.title #makes sure there is something in it
 	If ($successful)

@@ -1,0 +1,12 @@
+This is a simple project to make the front page of Database Weekly site more interesting without extra manpower.
+
+The aim is to construct an interesting page with the latest relevant articles, blogs and  so on.
+
+It would  take an OPML file and use it to gather the latest blogs and articles from a number of RSS/Atom sources. Each source will have its’ own settings in the OPML file to control the special treatment of a site, such as search strings, formatting, search interval, method of getting a description, or  selection of favourite authors.
+
+Each source item is searched  regularly for relevant information using a regex. If relevant, it is added to a list.  This list is used to populate a front page for http://www.databaseweekly.com/  and can then be used to supply interesting links selected by the editors for the DBW newsletter.
+
+It should be possible to colour-code articles by source, so SQL Server Central articles might have a blue band at the top, whereas Simple-talk SQL articles might be charcoal. 
+
+The OPML file would be easily editable so that the editors would then be able to fine-tune the selection and display process.
+
