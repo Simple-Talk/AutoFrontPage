@@ -8,13 +8,14 @@
 bin/
 tmp/
 *.tmp
-*.bak
+*.bak*
 *.swp
 *~.nib
 local.properties
 .classpath
 .settings/
 .loadpath
+Deleteme.*
 
 # External tool builders
 .externalToolBuilders/
