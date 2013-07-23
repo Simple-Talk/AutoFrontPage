@@ -1,5 +1,6 @@
 ﻿$MyOPMLFile= '.\simple-talk.opml' #change this to the name of your OPML file
 $MyListOfArticles='LatestStories.XML'
+$OldListOfArticles='NotSoLatestStories.XML'
 $MyXSLTTemplate='FeedItemToGridTransformer.xsl'
 $MyHTMLFile='DBW.HTML'
 $DaysBack=[int]-20 #the number of days back you want articles from
@@ -64,19 +65,27 @@ But you are also likely to find ..
 		        default {"$_ days ago"}
 		    }}},
         link | #we already checked for a link!
-			 where-object {$_.Pubdate -gt  (Get-Date).AddDays($DaysBack)}
+			 where-object {$_.Pubdate -gt  (Get-Date).AddDays($DaysBack)} #select only the young ones
 				# we only get the fresh news from the last couple of days.
     }
   else #we couldn't get the feed so write error
 	{
-	write-error " $_ didn't respond"
+	write-error " $_ didn't respond" #this will be logged in the working system
    }
   }|sort-object PubDate -descending |ConvertTo-XML #sort by date and convert to XML
 
 $Output.Save($MyListOfArticles) #save the list of articles ready for processing
-$xslt = New-Object System.Xml.Xsl.XslCompiledTransform #crank up the net library to do the job
-$xslt.Load($MyXSLTTemplate) #heave in the template
-$xslt.Transform($MyListOfArticles, $MyHTMLFile) #and create the HTML
-"saved $MyListOfArticles to $MyHTMLFile"
+
+if (!(Test-Path  $OldListOfArticles)) {'' > $OldListOfArticles}
+if (Test-Path  $MyListOfArticles) {
+	if (diff (ls $MyListOfArticles) (ls $OldListOfArticles) -Property Length) { 
+	 #not equal
+		$xslt = New-Object System.Xml.Xsl.XslCompiledTransform #crank up the net library to do the job
+		$xslt.Load($MyXSLTTemplate) #heave in the template
+		$xslt.Transform($MyListOfArticles, $MyHTMLFile) #and create the HTML
+		Copy-Item $MyListOfArticles $OldListOfArticles -force
+		"saved $MyListOfArticles to $MyHTMLFile"
+	}
+}
 'All done, master'
 
