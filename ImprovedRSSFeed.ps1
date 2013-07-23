@@ -1,4 +1,7 @@
 ﻿$MyOPMLFile= '.\simple-talk.opml' #change this to the name of your OPML file
+$MyListOfArticles='LatestStories.XML'
+$MyXSLTTemplate='FeedItemToGridTransformer.xsl'
+$MyHTMLFile='DBW.HTML'
 $DaysBack=[int]-20 #the number of days back you want articles from
 
 function truncate([string]$value, [int]$MaxLength)
@@ -54,6 +57,12 @@ But you are also likely to find ..
       @{name="author"; Expression = {try {if ( $_.author.length -eq 0) {$_.creator} 
                                            else {$_.author}} 
                                       catch{'Unknown Author'}}},
+      @{name="Ago"; Expression={switch ($([datetime]::Now - $(get-date ($_.PubDate -replace  "UT")) ).Days)
+		    { 
+		        0 {"Today"} 
+				  1 {"Yesterday"} 
+		        default {"$_ days ago"}
+		    }}},
         link | #we already checked for a link!
 			 where-object {$_.Pubdate -gt  (Get-Date).AddDays($DaysBack)}
 				# we only get the fresh news from the last couple of days.
@@ -63,6 +72,11 @@ But you are also likely to find ..
 	write-error " $_ didn't respond"
    }
   }|sort-object PubDate -descending |ConvertTo-XML #sort by date and convert to XML
-$Output.Save('LatestStories.XML')
+
+$Output.Save($MyListOfArticles) #save the list of articles ready for processing
+$xslt = New-Object System.Xml.Xsl.XslCompiledTransform #crank up the net library to do the job
+$xslt.Load($MyXSLTTemplate) #heave in the template
+$xslt.Transform($MyListOfArticles, $MyHTMLFile) #and create the HTML
+"saved $MyListOfArticles to $MyHTMLFile"
 'All done, master'
 
