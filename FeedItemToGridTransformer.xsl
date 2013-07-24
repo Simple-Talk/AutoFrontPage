@@ -3,21 +3,25 @@
 <xsl:stylesheet
   version="1.0"
   xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-  
-  <xsl:template match="Object">
-    <div class="span4" style="margin-right: 10px;">
-      <div class="item-box">
-        <xsl:apply-templates select="Property[@Name='Feed']" />
-        <xsl:apply-templates select="Property[@Name='Title']" />
-        <xsl:apply-templates select="Property[@Name='Description']" />
-        <xsl:apply-templates select="Property[@Name='author']" />
-        <xsl:apply-templates select="Property[@Name='PubDate']" />
-      </div>
+
+  <xsl:template match="/">
+    <div class="RootNode">
+      <xsl:apply-templates select="Objects/Object" />
+    </div>
+  </xsl:template>
+
+  <xsl:template match="Objects/Object">
+    <div class="item-box">
+      <xsl:apply-templates select="Property[@Name='Feed']" />
+      <xsl:apply-templates select="Property[@Name='Title']" />
+      <xsl:apply-templates select="Property[@Name='Description']" />
+      <xsl:apply-templates select="Property[@Name='author']" />
+      <xsl:apply-templates select="Property[@Name='PubDate']" />
     </div>
   </xsl:template>
 
   <xsl:template match="Property[@Name='Feed']">
-    <div class="item-header-bar">
+    <div class="item-header-bar simple-talk">
       <xsl:value-of select="." disable-output-escaping="yes"/>
     </div>
   </xsl:template>
