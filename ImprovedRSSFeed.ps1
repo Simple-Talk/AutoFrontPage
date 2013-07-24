@@ -1,8 +1,10 @@
 ﻿$MyOPMLFile= '.\simple-talk.opml' #change this to the name of your OPML file
-$MyListOfArticles='LatestStories.XML'
-$OldListOfArticles='NotSoLatestStories.XML'
-$MyXSLTTemplate='FeedItemToGridTransformer.xsl'
-$MyHTMLFile='DBW.HTML'
+$dir = Split-Path  ($MyInvocation.MyCommand.Path)
+$MyListOfArticles="$dir\LatestStories.XML"
+$OldListOfArticles="$dir\NotSoLatestStories.XML"
+$MyXSLTTemplate="$dir\FeedItemToGridTransformer.xsl"
+$MyHTMLFile="$dir\DBW.HTML"
+
 $DaysBack=[int]-20 #the number of days back you want articles from
 
 function truncate([string]$value, [int]$MaxLength)
