@@ -466,7 +466,7 @@ Thanks for watching!
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/blogs/</Property>
     <Property Name="PubDate" Type="System.DateTime">23/07/2013 18:01:48</Property>
     <Property Name="author" Type="" />
-    <Property Name="Ago" Type="System.String">Today</Property>
+    <Property Name="Ago" Type="System.String">Yesterday</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/aschenbrenner/2013/07/23/sql-server-quickie-7-tempdb-latch-contention/</Property>
   </Object>
   <Object Type="System.Management.Automation.PSCustomObject">
@@ -584,8 +584,7 @@ Thanks</Property>
   <Object Type="System.Management.Automation.PSCustomObject">
     <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles</Property>
     <Property Name="Title" Type="System.String">Survey: Understanding SQL Code</Property>
-    <Property Name="Description" Type="System.String">Understanding thousands of lines of code of an existing database is very time-consuming and tedious, prone to inadvertent oversight of key logic points. We are looking at advanced ways to provide greater insight into your code base while reducing the numerous demands placed on the developer. Please help us by completing this short survey to help us define the requirements.
-                   Total DeploymentEnjoy easy release management for your .NET apps, services, and databases with Deployment</Property>
+    <Property Name="Description" Type="System.String">Understanding thousands of lines of code of an existing database is very time-consuming and tedious, prone to inadvertent oversight of key logic points. We are looking at advanced ways to provide greater insight into your code base while reducing the numerous demands placed on the developer. Please help us by completing this short survey to help us define the requirements.</Property>
     <Property Name="Publication" Type="System.String">SQL Server Central</Property>
     <Property Name="Stream" Type="System.String">Main Articles</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
@@ -597,8 +596,7 @@ Thanks</Property>
   <Object Type="System.Management.Automation.PSCustomObject">
     <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles</Property>
     <Property Name="Title" Type="System.String">Are my actual worker threads exceeding the sp_configure 'max worker threads' value?</Property>
-    <Property Name="Description" Type="System.String">Tom Stringer (@SQLife) was working on some HADR testing for a customer to simulate many availability groups and introduce significant load into the system to measure overhead and such. In his quest to do that he was seeing behavior that he couldn’t really explain and so worked with him to uncover what was happening under the covers. 
-                   ‘10 Tips for Efficient Disaster Recovery’Steve Jones gives the final lesson in the ‘Top 5 Hard-earned Lessons of a DBA’.  Read now and learn from</Property>
+    <Property Name="Description" Type="System.String">Tom Stringer (@SQLife) was working on some HADR testing for a customer to simulate many availability groups and introduce significant load into the system to measure overhead and such. In his quest to do that he was seeing behavior that he couldn’t really explain and so worked with him to uncover what was happening under the covers. </Property>
     <Property Name="Publication" Type="System.String">SQL Server Central</Property>
     <Property Name="Stream" Type="System.String">Main Articles</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
@@ -730,7 +728,10 @@ Thanks</Property>
   <Object Type="System.Management.Automation.PSCustomObject">
     <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles</Property>
     <Property Name="Title" Type="System.String">Disaster Recovery Tip #4 - Learn about partial restores! </Property>
-    <Property Name="Description" Type="System.String">Sometimes recovery simply entails rerunning a failed process.</Property>
+    <Property Name="Description" Type="System.String">Sometimes recovery simply entails rerunning a failed process.
+                   12 essential tools for database professionalsThe SQL Developer Bundle contains 12 tools designed with the SQL Server developer and DBA in mind.  Try it now.   
+
+</Property>
     <Property Name="Publication" Type="System.String">SQL Server Central</Property>
     <Property Name="Stream" Type="System.String">Main Articles</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
@@ -876,7 +877,8 @@ There is also a pre-conference session presented by Bill Pearson on Practical Se
     <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles</Property>
     <Property Name="Title" Type="System.String">Biml Workshop presented by Varigence and Linchpin People</Property>
     <Property Name="Description" Type="System.String">Business Intelligence Markup Language (Biml) automates your BI patterns and eliminates the manual repetition that consumes most of your time. On October 15th come see why BI professionals around the world think Biml is the future of data integration and BI.  
-                   ‘10 Tips for Efficient Disaster Recovery’Steve Jones gives the final lesson in the ‘Top 5 Hard-earned Lessons of a DBA’.  Read now and learn from the best.    
+                   Total DeploymentEnjoy easy release management for your .NET apps, services, and databases with Deployment Manager.  Get your free Starter edition now   
+
 
 
 

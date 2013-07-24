@@ -1,5 +1,5 @@
-﻿$MyOPMLFile= '.\simple-talk.opml' #change this to the name of your OPML file
-$dir = Split-Path  ($MyInvocation.MyCommand.Path)
+﻿$dir = Split-Path  ($MyInvocation.MyCommand.Path)
+$MyOPMLFile= "$dir\simple-talk.opml" #change this to the name of your OPML file
 $MyListOfArticles="$dir\LatestStories.XML"
 $OldListOfArticles="$dir\NotSoLatestStories.XML"
 $MyXSLTTemplate="$dir\FeedItemToGridTransformer.xsl"
