@@ -1,4 +1,4 @@
-﻿$dir = Split-Path  ($MyInvocation.MyCommand.Path)
+﻿$dir="$(Split-Path -Parent $MyInvocation.MyCommand.Definition)"
 $MyOPMLFile= "$dir\simple-talk.opml" #change this to the name of your OPML file
 $MyListOfArticles="$dir\LatestStories.XML"
 $OldListOfArticles="$dir\NotSoLatestStories.XML"

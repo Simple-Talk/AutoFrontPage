@@ -266,7 +266,12 @@ thanks</Property>
   <Object Type="System.Management.Automation.PSCustomObject">
     <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles tagged Editorial</Property>
     <Property Name="Title" Type="System.String">Moving to the Heartland</Property>
-    <Property Name="Description" Type="System.String">With companies like Microsoft and Google building data centers in small towns, Steve Jones has some comments about how this might affect IT jobs.</Property>
+    <Property Name="Description" Type="System.String">With companies like Microsoft and Google building data centers in small towns, Steve Jones has some comments about how this might affect IT jobs.
+                   Get your SQL Server database under version control now!Version control is standard for applications, but databases haven’t caught up. So how can you bring database development up to speed? Why should you start?  Find out…   
+
+
+
+</Property>
     <Property Name="Publication" Type="System.String">SQL Server Central</Property>
     <Property Name="Stream" Type="System.String">Editorials</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/Editorial</Property>
@@ -450,7 +455,7 @@ The chance to follow in the footsteps of someone like Brent Ozar (Blog|Twitter) 
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/blogs/</Property>
     <Property Name="PubDate" Type="System.DateTime">23/07/2013 18:47:18</Property>
     <Property Name="author" Type="" />
-    <Property Name="Ago" Type="System.String">Today</Property>
+    <Property Name="Ago" Type="System.String">Yesterday</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/richard-douglas/2013/07/23/sql-server-webcast-the-day-after-tomorrow-why-you-need-to-baseline/</Property>
   </Object>
   <Object Type="System.Management.Automation.PSCustomObject">
@@ -584,7 +589,8 @@ Thanks</Property>
   <Object Type="System.Management.Automation.PSCustomObject">
     <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles</Property>
     <Property Name="Title" Type="System.String">Survey: Understanding SQL Code</Property>
-    <Property Name="Description" Type="System.String">Understanding thousands of lines of code of an existing database is very time-consuming and tedious, prone to inadvertent oversight of key logic points. We are looking at advanced ways to provide greater insight into your code base while reducing the numerous demands placed on the developer. Please help us by completing this short survey to help us define the requirements.</Property>
+    <Property Name="Description" Type="System.String">Understanding thousands of lines of code of an existing database is very time-consuming and tedious, prone to inadvertent oversight of key logic points. We are looking at advanced ways to provide greater insight into your code base while reducing the numerous demands placed on the developer. Please help us by completing this short survey to help us define the requirements.
+                   Free eBook! SQL Server Transaction Log ManagementFind out how understanding how log files work makes all </Property>
     <Property Name="Publication" Type="System.String">SQL Server Central</Property>
     <Property Name="Stream" Type="System.String">Main Articles</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
@@ -680,7 +686,8 @@ Thanks</Property>
   <Object Type="System.Management.Automation.PSCustomObject">
     <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles</Property>
     <Property Name="Title" Type="System.String">SQL Monitor Custom Metric: Top Buffer Cache Object</Property>
-    <Property Name="Description" Type="System.String">This metric measures the amount of memory used in the buffer cache by the largest object (based on the number of pages). It checks the sys.dm_os_buffer_descriptors to identify the object, and returns the relative percentage used. You should use this metric if you want to monitor what is in the buffer area, or if you are having performance-related disk read problems.</Property>
+    <Property Name="Description" Type="System.String">This metric measures the amount of memory used in the buffer cache by the largest object (based on the number of pages). It checks the sys.dm_os_buffer_descriptors to identify the object, and returns the relative percentage used. You should use this metric if you want to monitor what is in the buffer area, or if you are having performance-related disk read problems.
+                   ‘10 Tips for Efficient Disaster Recovery’Steve Jones gives the final lesson in the ‘Top 5 Hard-earned Lessons of</Property>
     <Property Name="Publication" Type="System.String">SQL Server Central</Property>
     <Property Name="Stream" Type="System.String">Main Articles</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
@@ -728,10 +735,7 @@ Thanks</Property>
   <Object Type="System.Management.Automation.PSCustomObject">
     <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles</Property>
     <Property Name="Title" Type="System.String">Disaster Recovery Tip #4 - Learn about partial restores! </Property>
-    <Property Name="Description" Type="System.String">Sometimes recovery simply entails rerunning a failed process.
-                   12 essential tools for database professionalsThe SQL Developer Bundle contains 12 tools designed with the SQL Server developer and DBA in mind.  Try it now.   
-
-</Property>
+    <Property Name="Description" Type="System.String">Sometimes recovery simply entails rerunning a failed process.</Property>
     <Property Name="Publication" Type="System.String">SQL Server Central</Property>
     <Property Name="Stream" Type="System.String">Main Articles</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
@@ -786,7 +790,7 @@ There is also a pre-conference session presented by Bill Pearson on Practical Se
     <Property Name="PageURL" Type="System.String">https://www.simple-talk.com/</Property>
     <Property Name="PubDate" Type="System.DateTime">18/07/2013 18:26:47</Property>
     <Property Name="author" Type="System.String">Phil Factor</Property>
-    <Property Name="Ago" Type="System.String">5 days ago</Property>
+    <Property Name="Ago" Type="System.String">6 days ago</Property>
     <Property Name="link" Type="System.String">https://www.simple-talk.com/blogs/2013/07/18/software-tuned-to-humanity/</Property>
   </Object>
   <Object Type="System.Management.Automation.PSCustomObject">
@@ -816,7 +820,12 @@ There is also a pre-conference session presented by Bill Pearson on Practical Se
   <Object Type="System.Management.Automation.PSCustomObject">
     <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles</Property>
     <Property Name="Title" Type="System.String">SQL Saturday #239 East Iowa</Property>
-    <Property Name="Description" Type="System.String">SQL Saturday will be in Iowa City on July 27, 2013. This free day of SQL Server Training and Networking will also have pay-for pre-conference sessions presented by Bill Pearson, Louis Davidson and Tim Mitchell.</Property>
+    <Property Name="Description" Type="System.String">SQL Saturday will be in Iowa City on July 27, 2013. This free day of SQL Server Training and Networking will also have pay-for pre-conference sessions presented by Bill Pearson, Louis Davidson and Tim Mitchell.
+                   Make working with SQL a breezeSQL Prompt 5 is the effortless way to write, edit, and explore SQL. It's packed with features such as code completion, script summaries, and SQL reformatting, that make working with SQL a breeze.  Try it now.   
+
+
+
+</Property>
     <Property Name="Publication" Type="System.String">SQL Server Central</Property>
     <Property Name="Stream" Type="System.String">Main Articles</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
@@ -876,13 +885,7 @@ There is also a pre-conference session presented by Bill Pearson on Practical Se
   <Object Type="System.Management.Automation.PSCustomObject">
     <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles</Property>
     <Property Name="Title" Type="System.String">Biml Workshop presented by Varigence and Linchpin People</Property>
-    <Property Name="Description" Type="System.String">Business Intelligence Markup Language (Biml) automates your BI patterns and eliminates the manual repetition that consumes most of your time. On October 15th come see why BI professionals around the world think Biml is the future of data integration and BI.  
-                   Total DeploymentEnjoy easy release management for your .NET apps, services, and databases with Deployment Manager.  Get your free Starter edition now   
-
-
-
-
-</Property>
+    <Property Name="Description" Type="System.String">Business Intelligence Markup Language (Biml) automates your BI patterns and eliminates the manual repetition that consumes most of your time. On October 15th come see why BI professionals around the world think Biml is the future of data integration and BI.  </Property>
     <Property Name="Publication" Type="System.String">SQL Server Central</Property>
     <Property Name="Stream" Type="System.String">Main Articles</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
@@ -930,7 +933,10 @@ There is also a pre-conference session presented by Bill Pearson on Practical Se
   <Object Type="System.Management.Automation.PSCustomObject">
     <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles</Property>
     <Property Name="Title" Type="System.String">SQL Server Transactions and Locking – Part 2</Property>
-    <Property Name="Description" Type="System.String">This article looks at SQL Server locking and transaction isolation levels, how to set the transaction isolation level, and how some isolation levels use locking, while others use row versioning. It also explains what type of locks data update requires.</Property>
+    <Property Name="Description" Type="System.String">This article looks at SQL Server locking and transaction isolation levels, how to set the transaction isolation level, and how some isolation levels use locking, while others use row versioning. It also explains what type of locks data update requires.
+                   Free eBook! SQL Server Transaction Log ManagementFind out how understanding how log files work makes all the difference in a crisis. Then try SQL Backup Pro to put the tips into practice.  Download your free resources now.    
+
+</Property>
     <Property Name="Publication" Type="System.String">SQL Server Central</Property>
     <Property Name="Stream" Type="System.String">Main Articles</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
@@ -1182,7 +1188,12 @@ There is also a pre-conference session presented by Bill Pearson on Practical Se
   <Object Type="System.Management.Automation.PSCustomObject">
     <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles tagged Editorial</Property>
     <Property Name="Title" Type="System.String">Programming</Property>
-    <Property Name="Description" Type="System.String">Programming is an important skill, perhaps extremely important for the future. Steve Jones thinks that's true.</Property>
+    <Property Name="Description" Type="System.String">Programming is an important skill, perhaps extremely important for the future. Steve Jones thinks that's true.
+                   Make working with SQL a breezeSQL Prompt 5 is the effortless way to write, edit, and explore SQL. It's packed with features such as code completion, script summaries, and SQL reformatting, that make working with SQL a breeze.  Try it now.   
+
+
+
+</Property>
     <Property Name="Publication" Type="System.String">SQL Server Central</Property>
     <Property Name="Stream" Type="System.String">Editorials</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/Editorial</Property>
@@ -1194,13 +1205,7 @@ There is also a pre-conference session presented by Bill Pearson on Practical Se
   <Object Type="System.Management.Automation.PSCustomObject">
     <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles tagged Editorial</Property>
     <Property Name="Title" Type="System.String">Reporting on Data</Property>
-    <Property Name="Description" Type="System.String">Reporting is an important skill for many data professionals. Steve Jones has a few things you might consider working on as a data professional.
-                   Top 5 Hard-earned Lessons of a DBA ‘10 Tips for Efficient Disaster Recovery’ by Steve Jones.  Prepare for any future disaster by reading Steve’s tips today.   
-
-
-
-
-</Property>
+    <Property Name="Description" Type="System.String">Reporting is an important skill for many data professionals. Steve Jones has a few things you might consider working on as a data professional.</Property>
     <Property Name="Publication" Type="System.String">SQL Server Central</Property>
     <Property Name="Stream" Type="System.String">Editorials</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/Editorial</Property>
@@ -1308,13 +1313,7 @@ There is also a pre-conference session presented by Bill Pearson on Practical Se
   <Object Type="System.Management.Automation.PSCustomObject">
     <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles tagged Editorial</Property>
     <Property Name="Title" Type="System.String">A Better Conference</Property>
-    <Property Name="Description" Type="System.String">Is there a better way to put together a conference or event? Today Steve Jones speculates on how events are run and how we might change things.
-                   Free eBook! SQL Server Transaction Log ManagementFind out how understanding how log files work makes all the difference in a crisis. Then try SQL Backup Pro to put the tips into practice.  Download your free resources now.    
-
-
-
-
-</Property>
+    <Property Name="Description" Type="System.String">Is there a better way to put together a conference or event? Today Steve Jones speculates on how events are run and how we might change things.</Property>
     <Property Name="Publication" Type="System.String">SQL Server Central</Property>
     <Property Name="Stream" Type="System.String">Editorials</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/Editorial</Property>

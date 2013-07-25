@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Latest Questions on SQL Server Q&amp;A from the SQL Server Central community</title>
+    <link>http://ask.sqlservercentral.com/questions/index.html</link>
+    <description>The latest questions</description>
+    <item>
+      <title>Why does my 2008 SSIS logging provider type change automatically?</title>
+      <link>http://ask.sqlservercentral.com/questions/104725/why-does-my-2008-ssis-logging-provider-type-change.html</link>
+      <description>I am trying to set up logging within a 2008 SSIS package but the provider type changes from SSIS log provider for SQL Server to SSIS log provider for Windows Event Log. I'm selecting SSIS,Logging and completing the screens but the provider type keeps changing. Is there a setting I need to add/update/change? I have search the internet, referenced books but haven't found the answer. Any help is greatly appreciated.</description>
+      <pubDate>Wed, 24 Jul 2013 16:28:22 GMT</pubDate>
+      <author>Susan</author>
+    </item>
+    <item>
+      <title>Creating target files in a directory created at runtime</title>
+      <link>http://ask.sqlservercentral.com/questions/104723/creating-target-files-in-a-directory-created-at-ru.html</link>
+      <description>The package has to create a new directory with current date attached and the destination files have to be created in this directory.
+I am able to create the directory but the target files are getting created from where I am getting the template files and not in the newly created directory.
+Would greatly appreciate any suggestions
+thanks a lot</description>
+      <pubDate>Wed, 24 Jul 2013 15:09:35 GMT</pubDate>
+      <author>apple</author>
+    </item>
+    <item>
+      <title>Flagging records in SQL 2005</title>
+      <link>http://ask.sqlservercentral.com/questions/104717/flagging-records-in-sql-2005.html</link>
+      <description>I have a process that flags 3 records per segment_code based on a condition. Probably 95% of the records get flagged based on this condition but the remaining 5% do not. Say segment_code "1A" gets 3 records flagged which is exact but segment_code "2A" only gets 2 records flagged or 1 record flagged. How would I go in and flag the additional records for "2A" to make up the total of 3. Thanks!</description>
+      <pubDate>Wed, 24 Jul 2013 14:11:07 GMT</pubDate>
+      <author>red68</author>
+    </item>
+    <item>
+      <title>Different date formats into one standardize format(mm/dd/yyyy)</title>
+      <link>http://ask.sqlservercentral.com/questions/104713/different-date-formats-into-one-standardize-format.html</link>
+      <description>The following formats need to be converted in MM/DD/YYYY format in sql server
+25-May-13
+27/06/2013
+Mon 06/17/2013
+Mon 20/05/2013
+4-Jul-13
+7/6/2013
+6/19/2013
+5-Jul
+Jul-5</description>
+      <pubDate>Wed, 24 Jul 2013 12:56:06 GMT</pubDate>
+      <author>Mohan</author>
+    </item>
+    <item>
+      <title>how to create a database</title>
+      <link>http://ask.sqlservercentral.com/questions/104696/how-to-create-a-database.html</link>
+      <description>Please can  you   suggest me a video that shows the hole procedure of creating  database in mysql server? it should contain table, relationships, code.. thank you</description>
+      <pubDate>Wed, 24 Jul 2013 09:28:22 GMT</pubDate>
+      <author>joana</author>
+    </item>
+    <item>
+      <title>How to get data as date wise.</title>
+      <link>http://ask.sqlservercentral.com/questions/104692/how-to-get-data-as-date-wise.html</link>
+      <description>I have a HPSM database. I have to retrieve the last 7 days open tickets count from query.
+can any one help.</description>
+      <pubDate>Wed, 24 Jul 2013 07:40:13 GMT</pubDate>
+      <author>gsiva_1985</author>
+    </item>
+    <item>
+      <title>how to start BI with visual studio 2010?</title>
+      <link>http://ask.sqlservercentral.com/questions/104691/how-to-start-bi-with-visual-studio-2010.html</link>
+      <description>I be new for BI and I want to start work BI using visual studio 2010.
+How I can configure the BI with VS2010 and sql server 2008r2.
+Please suggest me to start with BI.
+thanks</description>
+      <pubDate>Wed, 24 Jul 2013 07:32:53 GMT</pubDate>
+      <author>vishuaaryan</author>
+    </item>
+    <item>
+      <title>Credibility of Microsoft Certifications?</title>
+      <link>http://ask.sqlservercentral.com/questions/104687/credibility-of-microsoft-certifications.html</link>
+      <description>Hi All,
+
+I've been an ETL assistant for about the past 2 years now.  I am quickly learned the basic of using T-SQL, SSIS, and other various Microsoft tools (like Access).  I am liking this field of work and possibly want to continue on this career path through college and couple of years after I get out of college. I've met several ETL specialists and DBA's and none of which spoke positively about Microsoft Certifications.  So, for those of you have attempted or even have any of the Microsoft Certifications, here are my questions:
+
+ 1. Are they credible to employers?
+ 2. Because of the fast pace changes in the IT world, is it worth getting certified on a specific area?
+ 3. What are the major Pros and Cons of spending money to obtain a Microsoft Certification?
+
+ALL opinions are welcome!
+
+Thank You
+
+
+
+**Additional Questions:** 
+
+Thank you all for the insight guys, I appreciate it.  This is an important topic especially for young SQL newbies like myself and it’s even more important to hear from experts like yourself who have interviewed and hired people in this line of work.  
+If none of you mined it, I have another question!  When you were and have hired DBA’s, ETL Specialists, etc., what are key skills and characteristics did you most noticed as “WOW” I want that guy on my team?
+
+Thank you again!</description>
+      <pubDate>Tue, 23 Jul 2013 20:12:24 GMT</pubDate>
+      <author>eaglescout</author>
+    </item>
+    <item>
+      <title>DB Object Access From One Schema to another schema</title>
+      <link>http://ask.sqlservercentral.com/questions/104683/db-object-access-from-one-schema-to-another-schema.html</link>
+      <description>Scenario: I have denied permissions from table1 for USER1. DENY SELECT, INSERT, UPDATE, DELETE ON OBJECT :: dbo.table1 TO USER1
+
+Instead, I have allowed access to a view(vw_table1) which will select from table1 and filter some data using where clause. The idea is, users won't be able to see entire data of the table. To support insert, update and delete, I have created instead of triggers.
+
+The above scenario works fine when Table1 and VW_table1 are on same schema.
+
+Now, I have a requirement to move the view only in a different schema called sec (sec.vw_table1). After moving the view, when I do "select * From sec.vw_table1" It gives access denied error when the view tries to access dbo.table1.
+
+How can we achieve this? I don't want to give access to dbo.Table1 to User1. But should work when it is called from sec.vw_table1.
+
+Any help would be highly appreciated!!</description>
+      <pubDate>Tue, 23 Jul 2013 19:14:38 GMT</pubDate>
+      <author>debkumar</author>
+    </item>
+    <item>
+      <title>weekno in scripttask</title>
+      <link>http://ask.sqlservercentral.com/questions/104679/weekno-in-scripttask.html</link>
+      <description>I need to create a directory every week in the format week-mm-dd-yyyy to upload my files.
+for the first week of month it should come as week 1 
+
+I used a script  task and file system task to create the directory.
+I am having issues in getting the week.
+This is the .Net code I am using to get the day,month and year
+ Dts.Variables("User::dir").Value = "C:\test" + Date.Today.Date.ToString + Date.Today.Year.ToString _
+       + Date.Today.Month.ToString + Date.Today.Day.ToString
+
+with this code I am getting year month and day attached to the folder name
+how do I get the week no?
+Thanks a lot</description>
+      <pubDate>Tue, 23 Jul 2013 18:11:34 GMT</pubDate>
+      <author>apple</author>
+    </item>
+    <item>
+      <title>Why does SSRS email with embedded (MHTML) report grows from 450 KB to 3+ MB when people reply or forward email?</title>
+      <link>http://ask.sqlservercentral.com/questions/104671/why-does-ssrs-email-with-embedded-mhtml-report-gro.html</link>
+      <description>Hello,
+
+I have not been able to find a solution to this issue anywhere and its driving everyone crazy!
+
+I have several subscriptions to email embedded (MHTML) report to a set of users. The reports are fairly long , with several charts, tables, and matrices. What I don't understand is why on Outlook the original email is 450 KB, it takes just a few seconds to open it. But as soon as someone forwards or replies to the original email, it grows to 3-4 MBs, taking forever to open. I've confirmed Outlook is not loading a 'preview' of the original report, it loads everything. The issue happens when someone forwards, or replies to the original email.
+
+Please help!!</description>
+      <pubDate>Tue, 23 Jul 2013 16:59:44 GMT</pubDate>
+      <author>diegochacon</author>
+    </item>
+    <item>
+      <title>How to export data onto 1 single csv with multi tab?</title>
+      <link>http://ask.sqlservercentral.com/questions/104665/how-to-export-data-onto-1-single-csv-with-multi-ta.html</link>
+      <description>Hi,
+
+With Windows 2003 server and MS SQL 2005, I am trying to export data onto 1 single csv but different tabs. Another I am trying to create one csv file and has 4 reports/tabs.
+
+Wonder if anyone could shed light? Thanks.
+Chris</description>
+      <pubDate>Tue, 23 Jul 2013 15:50:56 GMT</pubDate>
+      <author>Chris 2</author>
+    </item>
+    <item>
+      <title>Command to load index into cache</title>
+      <link>http://ask.sqlservercentral.com/questions/104657/command-to-load-index-into-cache.html</link>
+      <description>Is there a T-SQL command to load an index into cach (pre-use in a query)?
+
+Thanks.</description>
+      <pubDate>Tue, 23 Jul 2013 13:32:53 GMT</pubDate>
+      <author>Moz</author>
+    </item>
+    <item>
+      <title>certification sql</title>
+      <link>http://ask.sqlservercentral.com/questions/104656/certification-sql.html</link>
+      <description>I have 3 years of SQL experience using SQL server 2005 and 2008 R2. I was wanting to know if there is a list of certification sites to get certified in SQL Server 2005 or 2008R2. I mainly write queries. I do not deal with Database Administration or anything higher that that, just writing queries. I know that Microsoft has a certification and Brainbench also. I looked at Comptia but i did not see a certification for any sql. I looked at sql-ex.ru but i do not feel comfortable giving them information since it is in another country.</description>
+      <pubDate>Tue, 23 Jul 2013 13:23:17 GMT</pubDate>
+      <author>cdurham</author>
+    </item>
+    <item>
+      <title>Server DDL trigger history</title>
+      <link>http://ask.sqlservercentral.com/questions/104651/server-ddl-trigger-history.html</link>
+      <description>Hi all
+
+Is it possible to see when and by whom a Server DDL trigger was enabled/disabled? SQL does not store this info in the logs.
+
+I have queried sys.triggers with no luck, any ideas?
+
+
+Thanks</description>
+      <pubDate>Tue, 23 Jul 2013 10:36:30 GMT</pubDate>
+      <author>ruancra</author>
+    </item>
+  </channel>
+</rss>
+
