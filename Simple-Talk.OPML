@@ -5,7 +5,7 @@
         <dateModified>Mon, 22 jul 2013 07:21:56 GMT</dateModified>
     </head>
     <body>
-        <outline text="simple-talk">
+        <outline text="Simple-Talk">
             <outline text="Home Page" title="Home Page" type="rss" xmlUrl="https://www.simple-talk.com/feed/" htmlUrl="https://www.simple-talk.com/"/>
             <outline text="SQL Articles" title="SQL Articles" type="rss" xmlUrl="https://www.simple-talk.com/sql/rss.aspx" htmlUrl="https://www.simple-talk.com/sql/"/>
             <outline text=".NET Articles" title=".NET Articles" type="rss" xmlUrl="https://www.simple-talk.com/dotnet/rss.aspx" htmlUrl="https://www.simple-talk.com/dotnet/"/>
