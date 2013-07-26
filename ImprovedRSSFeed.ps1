@@ -18,6 +18,7 @@ function truncate([string]$value, [int]$MaxLength)
    select @{name="Title"; Expression={$_.title}},
 			 @{name="Feed"; Expression={$_.xmlUrl}},
 			 @{name="PageURL"; Expression={$_.htmlUrl}},
+            @{name="Color"; Expression={$_.color}},
           @{name="Publication"; Expression={$_.ParentNode.text}} |
 foreach-object { 
 	$successful=$true #assume the best
@@ -29,6 +30,7 @@ foreach-object {
 	$Stream=$_.Title
 	$PageURL=$_.PageURL
 	$FeedName=$xml.rss.channel.title #makes sure there is something in it
+    $Color=$_.Color
 	If ($successful)
 	 {
     $xml.rss.channel.item | # flag if an error happened
@@ -60,6 +62,7 @@ But you are also likely to find ..
       @{name="author"; Expression = {try {if ( $_.author.length -eq 0) {$_.creator} 
                                            else {$_.author}} 
                                       catch{'Unknown Author'}}},
+      @{name="Color"; Expression={$Color}},
       @{name="Ago"; Expression={switch ($([datetime]::Now - $(get-date ($_.PubDate -replace  "UT")) ).Days)
 		    { 
 		        0 {"Today"} 
@@ -80,14 +83,14 @@ $Output.Save($MyListOfArticles) #save the list of articles ready for processing
 
 if (!(Test-Path  $OldListOfArticles)) {'' > $OldListOfArticles}
 if (Test-Path  $MyListOfArticles) {
-	if (diff (ls $MyListOfArticles) (ls $OldListOfArticles) -Property Length) { 
+	#if (diff (ls $MyListOfArticles) (ls $OldListOfArticles) -Property Length) { 
 	 #not equal
 		$xslt = New-Object System.Xml.Xsl.XslCompiledTransform #crank up the net library to do the job
 		$xslt.Load($MyXSLTTemplate) #heave in the template
 		$xslt.Transform($MyListOfArticles, $MyHTMLFile) #and create the HTML
 		Copy-Item $MyListOfArticles $OldListOfArticles -force
 		"saved $MyListOfArticles to $MyHTMLFile"
-	}
+	#}
 }
 'All done, master'
 

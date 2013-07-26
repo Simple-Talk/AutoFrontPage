@@ -23,7 +23,9 @@
   </xsl:template>
 
   <xsl:template match="Property[@Name='Publication']">
-    <div class="item-header-bar simple-talk">
+    <div class="item-header-bar">
+      <xsl:attribute name="style">color: white; background-color: #<xsl:value-of select="../Property[@Name='Color']" />
+      </xsl:attribute>
       <xsl:value-of select="." disable-output-escaping="yes"/> 
       - 
       <xsl:apply-templates select="../Property[@Name='Stream']" />

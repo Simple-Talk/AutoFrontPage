@@ -6,20 +6,20 @@
     </head>
     <body>
         <outline text="Simple-Talk">
-            <outline text="Home Page" title="Home Page" type="rss" xmlUrl="https://www.simple-talk.com/feed/" htmlUrl="https://www.simple-talk.com/"/>
-            <outline text="SQL Articles" title="SQL Articles" type="rss" xmlUrl="https://www.simple-talk.com/sql/rss.aspx" htmlUrl="https://www.simple-talk.com/sql/"/>
-            <outline text=".NET Articles" title=".NET Articles" type="rss" xmlUrl="https://www.simple-talk.com/dotnet/rss.aspx" htmlUrl="https://www.simple-talk.com/dotnet/"/>
-            <outline text="SysAdmin Articles" title="SysAdmin Articles" type="rss" xmlUrl="https://www.simple-talk.com/sysadmin/rss.aspx" htmlUrl="https://www.simple-talk.com/sysadmin/"/>
-            <outline text="Opinion and Geeks" title="Opinion and Geeks" type="rss" xmlUrl="https://www.simple-talk.com/opinion/rss.aspx" htmlUrl="https://www.simple-talk.com/opinion/"/>
-            <outline text="Books and Book Reviews" title="Books and Book Reviews" type="rss" xmlUrl="https://www.simple-talk.com/books/rss.aspx" htmlUrl="https://www.simple-talk.com/books/"/>
-            <outline text="Cloud" title="Cloud Articles" type="rss" xmlUrl="https://www.simple-talk.com/cloud/rss.aspx" htmlUrl="https://www.simple-talk.com/cloud/"/>
-            <outline text="Blogs" title="Blogs" type="rss" xmlUrl="https://www.simple-talk.com/blogs/feed/" htmlUrl="https://www.simple-talk.com/blogs/"/>
+            <outline text="Home Page" title="Home Page" type="rss" xmlUrl="https://www.simple-talk.com/feed/" htmlUrl="https://www.simple-talk.com/" color="92171a"/>
+            <outline text="SQL Articles" title="SQL Articles" type="rss" xmlUrl="https://www.simple-talk.com/sql/rss.aspx" htmlUrl="https://www.simple-talk.com/sql/" color="92171a"/>
+            <outline text=".NET Articles" title=".NET Articles" type="rss" xmlUrl="https://www.simple-talk.com/dotnet/rss.aspx" htmlUrl="https://www.simple-talk.com/dotnet/" color="92171a"/>
+            <outline text="SysAdmin Articles" title="SysAdmin Articles" type="rss" xmlUrl="https://www.simple-talk.com/sysadmin/rss.aspx" htmlUrl="https://www.simple-talk.com/sysadmin/" color="92171a"/>
+            <outline text="Opinion and Geeks" title="Opinion and Geeks" type="rss" xmlUrl="https://www.simple-talk.com/opinion/rss.aspx" htmlUrl="https://www.simple-talk.com/opinion/" color="92171a"/>
+            <outline text="Books and Book Reviews" title="Books and Book Reviews" type="rss" xmlUrl="https://www.simple-talk.com/books/rss.aspx" htmlUrl="https://www.simple-talk.com/books/" color="92171a"/>
+            <outline text="Cloud" title="Cloud Articles" type="rss" xmlUrl="https://www.simple-talk.com/cloud/rss.aspx" htmlUrl="https://www.simple-talk.com/cloud/" color="92171a"/>
+            <outline text="Blogs" title="Blogs" type="rss" xmlUrl="https://www.simple-talk.com/blogs/feed/" htmlUrl="https://www.simple-talk.com/blogs/" color="92171a"/>
         </outline>
         <outline text="SQL Server Central">
-            <outline title="Editorials" text="http://www.sqlservercentral.com/Xml/Rss/Articles/Editorial/" type="rss" xmlUrl="http://www.sqlservercentral.com/Xml/Rss/Articles/Editorial/" htmlUrl="http://www.sqlservercentral.com/Articles/Editorial"/>
-            <outline title="Main Articles" text="http://www.sqlservercentral.com/Xml/Rss/articles" type="rss" xmlUrl="http://www.sqlservercentral.com/Xml/Rss/articles" htmlUrl="http://www.sqlservercentral.com/Articles/"/>
-            <outline title="Blogs" text="www.sqlservercentral.com/blogs/feed/" type="rss" xmlUrl="http://www.sqlservercentral.com/blogs/feed/" htmlUrl="http://www.sqlservercentral.com/blogs/"/>
-            <outline title="Questions" text="ask.sqlservercentral.com/feed/questions.rss" type="rss" xmlUrl="http://ask.sqlservercentral.com/feed/questions.rss" htmlUrl="http://ask.sqlservercentral.com/index.html"/>
+            <outline title="Editorials" text="http://www.sqlservercentral.com/Xml/Rss/Articles/Editorial/" type="rss" xmlUrl="http://www.sqlservercentral.com/Xml/Rss/Articles/Editorial/" htmlUrl="http://www.sqlservercentral.com/Articles/Editorial" color="325181"/>
+            <outline title="Main Articles" text="http://www.sqlservercentral.com/Xml/Rss/articles" type="rss" xmlUrl="http://www.sqlservercentral.com/Xml/Rss/articles" htmlUrl="http://www.sqlservercentral.com/Articles/" color="325181"/>
+            <outline title="Blogs" text="www.sqlservercentral.com/blogs/feed/" type="rss" xmlUrl="http://www.sqlservercentral.com/blogs/feed/" htmlUrl="http://www.sqlservercentral.com/blogs/" color="325181"/>
+            <outline title="Questions" text="ask.sqlservercentral.com/feed/questions.rss" type="rss" xmlUrl="http://ask.sqlservercentral.com/feed/questions.rss" htmlUrl="http://ask.sqlservercentral.com/index.html" color="325181"/>
         </outline>
         <outline text="Twitter feeds">
         </outline>
