@@ -57,7 +57,10 @@ But you are also likely to find ..
       @{name="Publication"; Expression={$Publication}},
       @{name="Stream"; Expression={$Stream}},
       @{name="PageURL"; Expression={$PageURL}},
-      @{name="PubDate"; Expression = {try {get-date ($_.PubDate -replace  "UT")} # force it into a PS date  
+      @{name="PubDate"; Expression = {try {
+                                        $givenDate = get-date($_.PubDate -replace "UT", "+05:00")
+                                        [system.timezoneinfo]::ConvertTimeToUtc($givenDate)
+                                        } # force it into a PS date  
                                        catch {Get-Date '01 January 2006 00:00:00'}}}, 
       @{name="author"; Expression = {try {if ( $_.author.length -eq 0) {$_.creator} 
                                            else {$_.author}} 
@@ -83,14 +86,14 @@ $Output.Save($MyListOfArticles) #save the list of articles ready for processing
 
 if (!(Test-Path  $OldListOfArticles)) {'' > $OldListOfArticles}
 if (Test-Path  $MyListOfArticles) {
-	#if (diff (ls $MyListOfArticles) (ls $OldListOfArticles) -Property Length) { 
+	if (diff (ls $MyListOfArticles) (ls $OldListOfArticles) -Property Length) { 
 	 #not equal
 		$xslt = New-Object System.Xml.Xsl.XslCompiledTransform #crank up the net library to do the job
 		$xslt.Load($MyXSLTTemplate) #heave in the template
 		$xslt.Transform($MyListOfArticles, $MyHTMLFile) #and create the HTML
 		Copy-Item $MyListOfArticles $OldListOfArticles -force
 		"saved $MyListOfArticles to $MyHTMLFile"
-	#}
+  }
 }
 'All done, master'
 
