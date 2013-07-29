@@ -2,230 +2,480 @@
 <Objects>
   <Object Type="System.Management.Automation.PSCustomObject">
     <Property Name="Feed" Type="System.String">Latest Blog Posts - SQLServerCentral</Property>
-    <Property Name="Title" Type="System.String">Shortcut to reference examples, syntax, and definitions straight from SSMS</Property>
-    <Property Name="Description" Type="System.String">I&amp;#8217;ve never really used the F1 key for help files with most applications. I was surprised at the usefulness in SSMS I discovered today that uses scripting to actually get you MSDN articles relevant to your current selection in the query editor.
-If you have a keyword selected and want to view details, definition, and examples on it, you can highlight the phrase or select the word, press F1, and SSMS will pull up the appropriate MSDN article. The only issue I ran into was that it pulls up the</Property>
+    <Property Name="Title" Type="System.String">Free Ebooks! Free Ebooks!</Property>
+    <Property Name="Description" Type="System.String">There&amp;#8217;s a lot to smile on a cool Monday like this. One, it&amp;#8217;s 27C outside here in Singapore, a lot less humid than most days. Two, a smiling barista in Starbucks served my coffee this morning, she must&amp;#8217;ve a great morning start too and three, free ebooks from the Red-Gate community, http://www.red-gate.com/community/books/index! I started to [&amp;#8230;]</Property>
     <Property Name="Publication" Type="System.String">SQL Server Central</Property>
     <Property Name="Stream" Type="System.String">Blogs</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/blogs/</Property>
-    <Property Name="PubDate" Type="System.DateTime">24/07/2013 20:49:55</Property>
+    <Property Name="PubDate" Type="System.DateTime">29/07/2013 13:27:45</Property>
     <Property Name="author" Type="" />
     <Property Name="Ago" Type="System.String">Today</Property>
-    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/bit-barbarian/2013/07/24/shortcut-to-reference-examples-syntax-and-definitions-straight-from-ssms/</Property>
+    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/coffee-and-sql/2013/07/29/free-ebooks-free-ebooks/</Property>
   </Object>
   <Object Type="System.Management.Automation.PSCustomObject">
     <Property Name="Feed" Type="System.String">Latest Blog Posts - SQLServerCentral</Property>
-    <Property Name="Title" Type="System.String">SQL Community Speakers â€“ Why We Do It</Property>
-    <Property Name="Description" Type="System.String">
-I started this post over a year ago and have just now come back around to finish it.  Over the years I have been asked about a few misconceptions about speakers for SQL Saturday&amp;#8217;s.
-Over the past several years as I have been involved with speaking and organizing SQL Saturday&amp;#8217;s. Like many I love hanging out with the other speakers, catching up and meeting new people attending the event. There are few greater rewards than being able to share knowledge and empower others with what you k</Property>
+    <Property Name="Title" Type="System.String">Encourage Someone You Respect To Run For The PASS Board of Directors</Property>
+    <Property Name="Description" Type="System.String">PASS is accepting candidate applications for the 2013 election through August 7th, 2013.&amp;nbsp; Later this year we â€“ the PASS membership â€“ will be voting to fill three seats on the Board. To have a good election we need a great selection of candidates. I hope for a slate of candidates so good that we want them all to be elected. I hope we donâ€™t have an election where three people run for three seats, making it a non-election election.
+I believe itâ€™s our job to do more than just vote. If w</Property>
     <Property Name="Publication" Type="System.String">SQL Server Central</Property>
     <Property Name="Stream" Type="System.String">Blogs</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/blogs/</Property>
-    <Property Name="PubDate" Type="System.DateTime">24/07/2013 20:00:32</Property>
+    <Property Name="PubDate" Type="System.DateTime">29/07/2013 08:07:14</Property>
     <Property Name="author" Type="" />
     <Property Name="Ago" Type="System.String">Today</Property>
-    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/timradney/2013/07/24/sql-community-speakers-why-we-do-it/</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">Latest Blog Posts - SQLServerCentral</Property>
-    <Property Name="Title" Type="System.String">Moving The Bottleneck</Property>
-    <Property Name="Description" Type="System.String">Most of you probably get that there will always be a bottleneck in a system. You implement a fix in one place, now something else becomes the constraint. The hard lesson to learn is that there is point of diminishing returns on optimizing (anything). Doesnâ€™t mean you should stop, just that you should think about whether the possible gain is worth chasing. Perf tuning 101, right?
-All of that flew through my head recently on a drive-through trip to McDonalds for iced tea. Recently it had been to</Property>
-    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
-    <Property Name="Stream" Type="System.String">Blogs</Property>
-    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/blogs/</Property>
-    <Property Name="PubDate" Type="System.DateTime">24/07/2013 20:00:00</Property>
-    <Property Name="author" Type="" />
-    <Property Name="Ago" Type="System.String">Today</Property>
-    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/andy_warren/2013/07/24/moving-the-bottleneck/</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">Latest Blog Posts - SQLServerCentral</Property>
-    <Property Name="Title" Type="System.String">24 Hours of Education</Property>
-    <Property Name="Description" Type="System.String">You absolutely need to learn more. I need to learn more (lots more). We all should be constantly learning more about our jobs, our businesses and the technology that makes it all happen. When presented with the opportunity, especially a free one, you should jump on it, with both feet.
-Here you go. Beginning at 12:00 GMT on the 31st of July you can attend the 24 Hours of PASS, for free.
-24 Hours of PASS has been put on several years now in various forms. This year it&amp;#8217;s being put on as a &amp;#8</Property>
-    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
-    <Property Name="Stream" Type="System.String">Blogs</Property>
-    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/blogs/</Property>
-    <Property Name="PubDate" Type="System.DateTime">24/07/2013 19:58:55</Property>
-    <Property Name="author" Type="" />
-    <Property Name="Ago" Type="System.String">Today</Property>
-    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/scarydba/2013/07/24/24-hours-of-education/</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">Latest Blog Posts - SQLServerCentral</Property>
-    <Property Name="Title" Type="System.String">Iâ€™m going to my first SQL Saturday!</Property>
-    <Property Name="Description" Type="System.String">I got to go to the Pass Summit in 2011 and had a fantastic time despite some travel issues caused by my own stupidity.  Shortly after that I got to go to the Pass Rally in Dallas and had an even more fantastic time (no travel problems this time).  My boss paid for the Summit and the Rally but training is tight for us just like it seems to be everywhere so while he might be able to pay for something next year or the year after in the mean time Iâ€™m on my own.  Unfortunately my personal travel bu</Property>
-    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
-    <Property Name="Stream" Type="System.String">Blogs</Property>
-    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/blogs/</Property>
-    <Property Name="PubDate" Type="System.DateTime">24/07/2013 19:00:33</Property>
-    <Property Name="author" Type="" />
-    <Property Name="Ago" Type="System.String">Today</Property>
-    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/sqlstudies/2013/07/24/im-going-to-my-first-sql-saturday/</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">Latest Blog Posts - SQLServerCentral</Property>
-    <Property Name="Title" Type="System.String">New on DBTA.com: Database Benchmarking Tools, the final article in the database benchmarking series</Property>
-    <Property Name="Description" Type="System.String">In the last several articles on Database Trends &amp;amp; Applications, I&amp;#8217;ve been describing the benefits of reading and analyzing the benchmarking case studies released by the Transaction Processing Council. I&amp;#8217;ve given you from a broad overview of the TPC benchmarks and shown ways that the vendor-published TPC benchmarks can help you save money and how the vendor-published TPC benchmarks must explain in disclaimers how they tweak their workloads. I have described how to run your own ben</Property>
-    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
-    <Property Name="Stream" Type="System.String">Blogs</Property>
-    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/blogs/</Property>
-    <Property Name="PubDate" Type="System.DateTime">24/07/2013 18:04:31</Property>
-    <Property Name="author" Type="" />
-    <Property Name="Ago" Type="System.String">Today</Property>
-    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/kevinekline/2013/07/24/new-on-dbtacom-database-benchmarking-tools-the-final-article-in-the-database-benchmarking-series/</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">Latest Questions on SQL Server Q&amp;A from the SQL Server Central community</Property>
-    <Property Name="Title" Type="System.String">Why does my 2008 SSIS logging provider type change automatically?</Property>
-    <Property Name="Description" Type="System.String">I am trying to set up logging within a 2008 SSIS package but the provider type changes from SSIS log provider for SQL Server to SSIS log provider for Windows Event Log. I'm selecting SSIS,Logging and completing the screens but the provider type keeps changing. Is there a setting I need to add/update/change? I have search the internet, referenced books but haven't found the answer. Any help is greatly appreciated.</Property>
-    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
-    <Property Name="Stream" Type="System.String">Questions</Property>
-    <Property Name="PageURL" Type="System.String">http://ask.sqlservercentral.com/index.html</Property>
-    <Property Name="PubDate" Type="System.DateTime">24/07/2013 17:28:22</Property>
-    <Property Name="author" Type="System.String">Susan</Property>
-    <Property Name="Ago" Type="System.String">Today</Property>
-    <Property Name="link" Type="System.String">http://ask.sqlservercentral.com/questions/104725/why-does-my-2008-ssis-logging-provider-type-change.html</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">Latest Questions on SQL Server Q&amp;A from the SQL Server Central community</Property>
-    <Property Name="Title" Type="System.String">Creating target files in a directory created at runtime</Property>
-    <Property Name="Description" Type="System.String">The package has to create a new directory with current date attached and the destination files have to be created in this directory.
-I am able to create the directory but the target files are getting created from where I am getting the template files and not in the newly created directory.
-Would greatly appreciate any suggestions
-thanks a lot</Property>
-    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
-    <Property Name="Stream" Type="System.String">Questions</Property>
-    <Property Name="PageURL" Type="System.String">http://ask.sqlservercentral.com/index.html</Property>
-    <Property Name="PubDate" Type="System.DateTime">24/07/2013 16:09:35</Property>
-    <Property Name="author" Type="System.String">apple</Property>
-    <Property Name="Ago" Type="System.String">Today</Property>
-    <Property Name="link" Type="System.String">http://ask.sqlservercentral.com/questions/104723/creating-target-files-in-a-directory-created-at-ru.html</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">Latest Blog Posts - SQLServerCentral</Property>
-    <Property Name="Title" Type="System.String">SQL Saturday Sacramento This Weekend</Property>
-    <Property Name="Description" Type="System.String">SQL Saturday #222 in Sacramento, CA, is coming fast! This Saturday, July 27, I will be presenting a little pre-show for my larger presentation this fall at the SQL PASS Summit conference. The session is entitled &amp;#8216;Squeezing the Most Performance from VMware-Based SQL Servers&amp;#8217;, and is in the Sacramento Room at 2:45p. I&amp;#8217;ll see you there!
-Abstract:&amp;nbsp;Sure, your SQL Server is up and running. Anyone can click through a SQL Server install nowadays. Butâ€¦ is it running at its peak p</Property>
-    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
-    <Property Name="Stream" Type="System.String">Blogs</Property>
-    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/blogs/</Property>
-    <Property Name="PubDate" Type="System.DateTime">24/07/2013 15:38:14</Property>
-    <Property Name="author" Type="" />
-    <Property Name="Ago" Type="System.String">Today</Property>
-    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/technobabble-by-klee-from-kleegeek/2013/07/24/sql-saturday-sacramento-this-weekend/</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">Latest Questions on SQL Server Q&amp;A from the SQL Server Central community</Property>
-    <Property Name="Title" Type="System.String">Flagging records in SQL 2005</Property>
-    <Property Name="Description" Type="System.String">I have a process that flags 3 records per segment_code based on a condition. Probably 95% of the records get flagged based on this condition but the remaining 5% do not. Say segment_code "1A" gets 3 records flagged which is exact but segment_code "2A" only gets 2 records flagged or 1 record flagged. How would I go in and flag the additional records for "2A" to make up the total of 3. Thanks!</Property>
-    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
-    <Property Name="Stream" Type="System.String">Questions</Property>
-    <Property Name="PageURL" Type="System.String">http://ask.sqlservercentral.com/index.html</Property>
-    <Property Name="PubDate" Type="System.DateTime">24/07/2013 15:11:07</Property>
-    <Property Name="author" Type="System.String">red68</Property>
-    <Property Name="Ago" Type="System.String">Today</Property>
-    <Property Name="link" Type="System.String">http://ask.sqlservercentral.com/questions/104717/flagging-records-in-sql-2005.html</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">Latest Blog Posts - SQLServerCentral</Property>
-    <Property Name="Title" Type="System.String">Understanding Contained Database in SQL Server 2012</Property>
-    <Property Name="Description" Type="System.String">SQL Server 2012 supports contained databases and partially contained databases, which provide a high degree of isolation from the database engine instance but are not fully contained. The contained database becomes highly portable that you can migrate it to any instance or even in SQL Azure. In SQL Server 2012, the implementation of partially contained [&amp;#8230;]</Property>
-    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
-    <Property Name="Stream" Type="System.String">Blogs</Property>
-    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/blogs/</Property>
-    <Property Name="PubDate" Type="System.DateTime">24/07/2013 14:40:08</Property>
-    <Property Name="author" Type="" />
-    <Property Name="Ago" Type="System.String">Today</Property>
-    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/coffee-and-sql/2013/07/24/understanding-contained-database-in-sql-server-2012/</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">Latest Questions on SQL Server Q&amp;A from the SQL Server Central community</Property>
-    <Property Name="Title" Type="System.String">Different date formats into one standardize format(mm/dd/yyyy)</Property>
-    <Property Name="Description" Type="System.String">The following formats need to be converted in MM/DD/YYYY format in sql server
-25-May-13
-27/06/2013
-Mon 06/17/2013
-Mon 20/05/2013
-4-Jul-13
-7/6/2013
-6/19/2013
-5-Jul
-Jul-5</Property>
-    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
-    <Property Name="Stream" Type="System.String">Questions</Property>
-    <Property Name="PageURL" Type="System.String">http://ask.sqlservercentral.com/index.html</Property>
-    <Property Name="PubDate" Type="System.DateTime">24/07/2013 13:56:06</Property>
-    <Property Name="author" Type="System.String">Mohan</Property>
-    <Property Name="Ago" Type="System.String">Today</Property>
-    <Property Name="link" Type="System.String">http://ask.sqlservercentral.com/questions/104713/different-date-formats-into-one-standardize-format.html</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">Latest Blog Posts - SQLServerCentral</Property>
-    <Property Name="Title" Type="System.String">70-457 Reviewer #06, Configuring and Managing Database in SQL Server 2012</Property>
-    <Property Name="Description" Type="System.String">DBAs are most responsible for configuring and managing of database infrastructure, database file locations, database encryption which do not have direct impact on users and applications. This lesson, which is still part of Configuring SQL Server 2012 Components, covers the following topics; Designing and Managing Filegroups Configuring and Standardizing Database Using Data Compression Transparent Data [&amp;#8230;]</Property>
-    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
-    <Property Name="Stream" Type="System.String">Blogs</Property>
-    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/blogs/</Property>
-    <Property Name="PubDate" Type="System.DateTime">24/07/2013 12:48:30</Property>
-    <Property Name="author" Type="" />
-    <Property Name="Ago" Type="System.String">Today</Property>
-    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/coffee-and-sql/2013/07/24/70-457-reviewer-06-configuring-and-managing-database-in-sql-server-2012/</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">Latest Questions on SQL Server Q&amp;A from the SQL Server Central community</Property>
-    <Property Name="Title" Type="System.String">how to create a database</Property>
-    <Property Name="Description" Type="System.String">Please can  you   suggest me a video that shows the hole procedure of creating  database in mysql server? it should contain table, relationships, code.. thank you</Property>
-    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
-    <Property Name="Stream" Type="System.String">Questions</Property>
-    <Property Name="PageURL" Type="System.String">http://ask.sqlservercentral.com/index.html</Property>
-    <Property Name="PubDate" Type="System.DateTime">24/07/2013 10:28:22</Property>
-    <Property Name="author" Type="System.String">joana</Property>
-    <Property Name="Ago" Type="System.String">Today</Property>
-    <Property Name="link" Type="System.String">http://ask.sqlservercentral.com/questions/104696/how-to-create-a-database.html</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">Latest Questions on SQL Server Q&amp;A from the SQL Server Central community</Property>
-    <Property Name="Title" Type="System.String">How to get data as date wise.</Property>
-    <Property Name="Description" Type="System.String">I have a HPSM database. I have to retrieve the last 7 days open tickets count from query.
-can any one help.</Property>
-    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
-    <Property Name="Stream" Type="System.String">Questions</Property>
-    <Property Name="PageURL" Type="System.String">http://ask.sqlservercentral.com/index.html</Property>
-    <Property Name="PubDate" Type="System.DateTime">24/07/2013 08:40:13</Property>
-    <Property Name="author" Type="System.String">gsiva_1985</Property>
-    <Property Name="Ago" Type="System.String">Today</Property>
-    <Property Name="link" Type="System.String">http://ask.sqlservercentral.com/questions/104692/how-to-get-data-as-date-wise.html</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">Latest Questions on SQL Server Q&amp;A from the SQL Server Central community</Property>
-    <Property Name="Title" Type="System.String">how to start BI with visual studio 2010?</Property>
-    <Property Name="Description" Type="System.String">I be new for BI and I want to start work BI using visual studio 2010.
-How I can configure the BI with VS2010 and sql server 2008r2.
-Please suggest me to start with BI.
-thanks</Property>
-    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
-    <Property Name="Stream" Type="System.String">Questions</Property>
-    <Property Name="PageURL" Type="System.String">http://ask.sqlservercentral.com/index.html</Property>
-    <Property Name="PubDate" Type="System.DateTime">24/07/2013 08:32:53</Property>
-    <Property Name="author" Type="System.String">vishuaaryan</Property>
-    <Property Name="Ago" Type="System.String">Today</Property>
-    <Property Name="link" Type="System.String">http://ask.sqlservercentral.com/questions/104691/how-to-start-bi-with-visual-studio-2010.html</Property>
+    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/andy_warren/2013/07/29/encourage-someone-you-respect-to-run-for-the-pass-board-of-directors/</Property>
   </Object>
   <Object Type="System.Management.Automation.PSCustomObject">
     <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles</Property>
-    <Property Name="Title" Type="System.String">SQL Saturday #236 St Louis, MO</Property>
-    <Property Name="Description" Type="System.String">SQL Saturday is returning to St Louis for a full day of free SQL Server training and networking. This year's event will be on August 3, 2013 at the Saint Louis University's Center for Workforce &amp;amp; Organizational Development. We hope to see you there. </Property>
+    <Property Name="Title" Type="System.String">VMware High Availability in SQL Server</Property>
+    <Property Name="Description" Type="System.String">With the massive number of servers running SQL Server within virtual machines (VMs), it's critically important for DBAs to understand the high availability options available when SQL Server is running within a VM. </Property>
     <Property Name="Publication" Type="System.String">SQL Server Central</Property>
     <Property Name="Stream" Type="System.String">Main Articles</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
-    <Property Name="PubDate" Type="System.DateTime">24/07/2013 06:00:00</Property>
+    <Property Name="PubDate" Type="System.DateTime">29/07/2013 07:00:00</Property>
     <Property Name="author" Type="" />
     <Property Name="Ago" Type="System.String">Today</Property>
-    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/redirect/articles/99776/</Property>
+    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/redirect/articles/100382/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles</Property>
+    <Property Name="Title" Type="System.String">Using Lookup Function to Bridge Datasets in Report Builder</Property>
+    <Property Name="Description" Type="System.String">The report function, lookup, can be used to link two independent datesets.</Property>
+    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
+    <Property Name="Stream" Type="System.String">Main Articles</Property>
+    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
+    <Property Name="PubDate" Type="System.DateTime">29/07/2013 07:00:00</Property>
+    <Property Name="author" Type="" />
+    <Property Name="Ago" Type="System.String">Today</Property>
+    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/articles/Lookup/100391/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles tagged Editorial</Property>
+    <Property Name="Title" Type="System.String">How to understand NoSQL Databases</Property>
+    <Property Name="Description" Type="System.String">Today we have a guest editorial from Phil Factor that looks at NoSQL databases.</Property>
+    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
+    <Property Name="Stream" Type="System.String">Editorials</Property>
+    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/Editorial</Property>
+    <Property Name="PubDate" Type="System.DateTime">29/07/2013 07:00:00</Property>
+    <Property Name="author" Type="" />
+    <Property Name="Ago" Type="System.String">Today</Property>
+    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/articles/Editorial/100746/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Latest Blog Posts - SQLServerCentral</Property>
+    <Property Name="Title" Type="System.String">SQL Saturday #252, Christchurch New Zealand</Property>
+    <Property Name="Description" Type="System.String">TweetSQL Saturday #252 Christchurch, New Zealand
+G&amp;#8217;day,
+Well, these are exciting times for the Christchurch SQL SERVER User Group.
+After a period of fragmentation where our meetings seemed to be at random intervals &amp;#8211; mainly due to certain major events outside our control &amp;#8211; such as earthquakes, the city being rebuilt and accomodation challenges, we regrouped and relauched with a new leadership team. We had a local company &amp;#8211; SQL Services - step up and offer us regular accom</Property>
+    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
+    <Property Name="Stream" Type="System.String">Blogs</Property>
+    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/blogs/</Property>
+    <Property Name="PubDate" Type="System.DateTime">29/07/2013 04:29:50</Property>
+    <Property Name="author" Type="" />
+    <Property Name="Ago" Type="System.String">Today</Property>
+    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/martin_catherall/2013/07/28/sql-saturday-252-christchurch-new-zealand/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Latest Blog Posts - SQLServerCentral</Property>
+    <Property Name="Title" Type="System.String">SQL Saturday Sacramento was terrific</Property>
+    <Property Name="Description" Type="System.String">This year&amp;#8217;s SQL Saturday #222 in Sacramento was a blast. This event was certainly the high point of my summer, and am very thankful to have been selected to speak here.
+Yesterday I&amp;nbsp;presented two sessions&amp;nbsp;at the SQL Saturday event in Sacramento, CA. First up was the session called &amp;#8220;It&amp;#8217;s All About the Performance, Right?&amp;#8220;. The slides for this presentation are available here. My second session was entitled &amp;#8220;Squeezing the Most Performance from your&amp;nbsp;VMware</Property>
+    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
+    <Property Name="Stream" Type="System.String">Blogs</Property>
+    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/blogs/</Property>
+    <Property Name="PubDate" Type="System.DateTime">29/07/2013 00:57:15</Property>
+    <Property Name="author" Type="" />
+    <Property Name="Ago" Type="System.String">Today</Property>
+    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/technobabble-by-klee-from-kleegeek/2013/07/28/sql-saturday-sacramento-was-terrific/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Latest Blog Posts - SQLServerCentral</Property>
+    <Property Name="Title" Type="System.String">Security Questions: Recommended Security Book</Property>
+    <Property Name="Description" Type="System.String">As I mentioned in the introductory post, during the Introduction to SQL Server Security session for Pragmatic Work&amp;#8217;s Training on the T&amp;#8217;s, I received a large number of questions that there wasn&amp;#8217;t time to answer.  Instead of just a re-cap of all of the questions, instead I&amp;#8217;ve opted to put together a post per topic.  Hopefully, this will help, not just those that attended the session, but also anyone searching for the same questions later on.
+Security question
+The next quest</Property>
+    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
+    <Property Name="Stream" Type="System.String">Blogs</Property>
+    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/blogs/</Property>
+    <Property Name="PubDate" Type="System.DateTime">27/07/2013 22:00:21</Property>
+    <Property Name="author" Type="" />
+    <Property Name="Ago" Type="System.String">Yesterday</Property>
+    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/stratesql/2013/07/27/security-questions-recommended-security-book/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Latest Blog Posts - SQLServerCentral</Property>
+    <Property Name="Title" Type="System.String">Go ahead. Laugh.</Property>
+    <Property Name="Description" Type="System.String">I came across one of my twitter friends @DBAReactions tumblr site and gosh! I cannot stop laughing! Here is one link that is so true, http://dbareactions.tumblr.com/post/47021713946/after-the-san-admin-says-wow-you-were-right. Tell me you haven&amp;#8217;t had any issues with the SAN team in your organization. I had. When they gave me a disk on RAID 5 when in my specs docs [&amp;#8230;]</Property>
+    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
+    <Property Name="Stream" Type="System.String">Blogs</Property>
+    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/blogs/</Property>
+    <Property Name="PubDate" Type="System.DateTime">27/07/2013 08:09:23</Property>
+    <Property Name="author" Type="" />
+    <Property Name="Ago" Type="System.String">2 days ago</Property>
+    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/coffee-and-sql/2013/07/27/go-ahead-laugh/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Latest Blog Posts - SQLServerCentral</Property>
+    <Property Name="Title" Type="System.String">Hardware 201: Selecting and Sizing Database Hardware</Property>
+    <Property Name="Description" Type="System.String">On July 25, I had the opportunity to present Hardware 201 for the PASS Performance Virtual Chapter. You can download my deck here.
+Hardware 201: Selecting and Sizing Database Hardware for OLTP Performance
+The foundation of database performance is the underlying server hardware and storage subsystem. Even the best designed and optimized database application can be crippled by an inadequate hardware and storage infrastructure. Recent advances in new processors and chipsets, along with improvements</Property>
+    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
+    <Property Name="Stream" Type="System.String">Blogs</Property>
+    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/blogs/</Property>
+    <Property Name="PubDate" Type="System.DateTime">27/07/2013 03:43:29</Property>
+    <Property Name="author" Type="" />
+    <Property Name="Ago" Type="System.String">2 days ago</Property>
+    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/glennberry/2013/07/26/hardware-201-selecting-and-sizing-database-hardware/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Latest Blog Posts - SQLServerCentral</Property>
+    <Property Name="Title" Type="System.String">SQL Server Login Errors</Property>
+    <Property Name="Description" Type="System.String">Hello Dear Reader.&amp;nbsp; Quick blog today.&amp;nbsp; If you are working in the SQL Server world eventually you will try to connect to a SQL Server and get an error.&amp;nbsp; A beautiful wonderful descriptive error that reads, pausesâ€¦ looks aroundâ€¦ stands straightâ€¦. In my best impersonation of a classic English poet proceeds to read, â€œError: 18456, Severity:&amp;nbsp; 14, State: Xâ€. Ahhh sweet music.&amp;nbsp; Okay Dear Reader I confess, itâ€™s definitely not Lord Tennyson.&amp;nbsp; But the important par</Property>
+    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
+    <Property Name="Stream" Type="System.String">Blogs</Property>
+    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/blogs/</Property>
+    <Property Name="PubDate" Type="System.DateTime">27/07/2013 00:43:00</Property>
+    <Property Name="author" Type="" />
+    <Property Name="Ago" Type="System.String">2 days ago</Property>
+    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/sqlballs/2013/07/26/sql-server-login-errors/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Latest Blog Posts - SQLServerCentral</Property>
+    <Property Name="Title" Type="System.String">Webcast Presentation Materials: 5 Amazing Reasons DBAs Need to Love Extended Events</Property>
+    <Property Name="Description" Type="System.String">If you are looking for a presentation that brings together bacon, unicorns, and lightsabers, then you should have seen my presentation this past Thursday for Pragmatic Works Training on the T&amp;#8217;s. The session was 5 Amazing Reasons DBAs Need to Love Extended Events.  In it, I ran through a list of reasons on why extended events gets me pumped up for performance tuning.
+The abstract for the sessions is:
+Extended events provide DBAs with a powerful tool that can be used to troubleshoot and inve</Property>
+    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
+    <Property Name="Stream" Type="System.String">Blogs</Property>
+    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/blogs/</Property>
+    <Property Name="PubDate" Type="System.DateTime">27/07/2013 00:20:55</Property>
+    <Property Name="author" Type="" />
+    <Property Name="Ago" Type="System.String">2 days ago</Property>
+    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/stratesql/2013/07/26/webcast-presentation-materials-5-amazing-reasons-dbas-need-to-love-extended-events/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Latest Blog Posts - SQLServerCentral</Property>
+    <Property Name="Title" Type="System.String">Disaster Recovery - Part 1 - Possibly Almost Everything But the Kit</Property>
+    <Property Name="Description" Type="System.String">Over the years I have been fortunate or unfortunate enough, depending on who you are to have experienced several disasters along with a couple of very near misses. &amp;nbsp;In this post I am going to explore some of the areas of DR that are not related to the physical kit. &amp;nbsp;Let me just start by defining what I mean by a disaster, a disaster is not a cluster fail-over, it is not a drive failure in a RAID array and it is not a UPS failure. &amp;nbsp;Disasters can be classified in two categories. &amp;nb</Property>
+    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
+    <Property Name="Stream" Type="System.String">Blogs</Property>
+    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/blogs/</Property>
+    <Property Name="PubDate" Type="System.DateTime">26/07/2013 22:24:00</Property>
+    <Property Name="author" Type="" />
+    <Property Name="Ago" Type="System.String">2 days ago</Property>
+    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/sqlserver365/2013/07/26/disaster-recovery-part-1-possibly-almost-everything-but-the-kit/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Latest Blog Posts - SQLServerCentral</Property>
+    <Property Name="Title" Type="System.String">Reblog: July 19 to July 25</Property>
+    <Property Name="Description" Type="System.String">I&amp;#8217;ve always been a fan of the feeling when I find an old blog post that&amp;#8217;s got just the information that I need to solve a problem or answer a question.  It&amp;#8217;s that whole &amp;#8220;cha-ching&amp;#8221; &amp;#8211; buried treasure! feeling.  That&amp;#8217;s kind of the aim of this blog post.  To provide a list of some posts that still have value that came out in previous years.
+The posts for this past week in previous years are:
+
+Analyzing Your Indexes with a Custom Report (20 Jul, 2009)
+Moving</Property>
+    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
+    <Property Name="Stream" Type="System.String">Blogs</Property>
+    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/blogs/</Property>
+    <Property Name="PubDate" Type="System.DateTime">26/07/2013 22:00:30</Property>
+    <Property Name="author" Type="" />
+    <Property Name="Ago" Type="System.String">2 days ago</Property>
+    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/stratesql/2013/07/26/reblog-july-19-to-july-25/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Latest Blog Posts - SQLServerCentral</Property>
+    <Property Name="Title" Type="System.String">Headed to Cocoa for SQLSaturday #231</Property>
+    <Property Name="Description" Type="System.String">Iâ€™m leaving mid-morning today to drive to Cocoa with my family for a beach weekend and SQLSaturday #231. Iâ€™ll be presenting PCI for the SQL DBA and Iâ€™m really looking forward to it. I did a virtual presentation of it earlier this month and it ran long, so Iâ€™ve made some adjustments and canâ€™t wait to get the immediate feedback from interacting with the attendees.
+Itâ€™s also the un-official end of summer for me. Kids go back to school in mid August so there are things to do to get ready</Property>
+    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
+    <Property Name="Stream" Type="System.String">Blogs</Property>
+    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/blogs/</Property>
+    <Property Name="PubDate" Type="System.DateTime">26/07/2013 21:00:00</Property>
+    <Property Name="author" Type="" />
+    <Property Name="Ago" Type="System.String">2 days ago</Property>
+    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/andy_warren/2013/07/26/headed-to-cocoa-for-sqlsaturday-231/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Latest Blog Posts - SQLServerCentral</Property>
+    <Property Name="Title" Type="System.String">The SQLAndy Rules for Storing Credit Card Numbers</Property>
+    <Property Name="Description" Type="System.String">Iâ€™ll try to write more about these over the next couple months, but I wanted to write down a quick reference for those that have to deal with storing credit card numbers. These rules cover the basics â€“ the full topic of protecting card data is easily a book or two. These are my rules, when in doubt consult with your compliance team for final guidance.
+
+Donâ€™t Store Them! PCI compliance is complex and expensive. Getting hacked and dealing with the consequences is more complex and more expens</Property>
+    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
+    <Property Name="Stream" Type="System.String">Blogs</Property>
+    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/blogs/</Property>
+    <Property Name="PubDate" Type="System.DateTime">26/07/2013 20:00:00</Property>
+    <Property Name="author" Type="" />
+    <Property Name="Ago" Type="System.String">2 days ago</Property>
+    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/andy_warren/2013/07/26/the-sqlandy-rules-for-storing-credit-card-numbers/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Latest Blog Posts - SQLServerCentral</Property>
+    <Property Name="Title" Type="System.String">Page Split Mini-Series - Part II - Page Latch Contention</Property>
+    <Property Name="Description" Type="System.String">
+
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+
+
+ 
+  
+  
+ 
+
+ 
+  Normal
+  0
+  false
+  
+  
+  
+  false
+  false
+  false
+  
+  EN-US
+  X-NONE
+  X-NONE
+  
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+  
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+
+ &lt;w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="267"&gt;
+  &lt;w:LsdExcepti</Property>
+    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
+    <Property Name="Stream" Type="System.String">Blogs</Property>
+    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/blogs/</Property>
+    <Property Name="PubDate" Type="System.DateTime">26/07/2013 19:33:00</Property>
+    <Property Name="author" Type="" />
+    <Property Name="Ago" Type="System.String">2 days ago</Property>
+    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/pearlknows/2013/07/26/page-split-mini-series-part-ii-page-latch-contention/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles</Property>
+    <Property Name="Title" Type="System.String">Configuring Database Mirroring</Property>
+    <Property Name="Description" Type="System.String">This article contains a set of instructions for configuring SQL Server mirroring, including pre-requisites. It also includes notes on how to resolve a few issues that I have encountered.</Property>
+    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
+    <Property Name="Stream" Type="System.String">Main Articles</Property>
+    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
+    <Property Name="PubDate" Type="System.DateTime">26/07/2013 07:00:00</Property>
+    <Property Name="author" Type="" />
+    <Property Name="Ago" Type="System.String">3 days ago</Property>
+    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/articles/Database+Mirroring/72009/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles</Property>
+    <Property Name="Title" Type="System.String">PowerShell the SQL Server Way</Property>
+    <Property Name="Description" Type="System.String">Although Windows PowerShell has been available to IT professionals going on seven years, there are still many IT pros who are just now deciding to see what the fuss is all about. Depending on your job, you might find PowerShell an invaluable tool. Microsoft's plan is that PowerShell will be the management tool for all of its servers and platforms. For most IT pros, it's not a matter of if you'll be using PowerShell, only a matter of when.</Property>
+    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
+    <Property Name="Stream" Type="System.String">Main Articles</Property>
+    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
+    <Property Name="PubDate" Type="System.DateTime">26/07/2013 07:00:00</Property>
+    <Property Name="author" Type="" />
+    <Property Name="Ago" Type="System.String">3 days ago</Property>
+    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/redirect/articles/100381/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles tagged Editorial</Property>
+    <Property Name="Title" Type="System.String">Could You Live Like a DBA?</Property>
+    <Property Name="Description" Type="System.String">A light-hearted take on the life of a DBA.</Property>
+    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
+    <Property Name="Stream" Type="System.String">Editorials</Property>
+    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/Editorial</Property>
+    <Property Name="PubDate" Type="System.DateTime">26/07/2013 07:00:00</Property>
+    <Property Name="author" Type="" />
+    <Property Name="Ago" Type="System.String">3 days ago</Property>
+    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/articles/humor/99113/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Latest Blog Posts - SQLServerCentral</Property>
+    <Property Name="Title" Type="System.String">SQL â€“ Query to find data,log,Total Size and other Useful information of all databases â€“ SQL 2000/2005/2008/R2</Property>
+    <Property Name="Description" Type="System.String">I&amp;#8217;ve encountered a situation where I need to find out the database file,log file, total size and other useful information about a database on SQL Server 2000/2005/2008/R2 versions. The requirement is to use same query and it has to be executed across all version of SQL SERVER.  We can  also do this using dynamic SQL&amp;#8217;s.
+Here is the T-SQL which you can use to run on any version of SQL Server to fetch the result.
+USE MASTER
+Go
+SELECT @@SERVERNAME Servername,
+CONVERT(VARCHAR(25), DB.name</Property>
+    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
+    <Property Name="Stream" Type="System.String">Blogs</Property>
+    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/blogs/</Property>
+    <Property Name="PubDate" Type="System.DateTime">25/07/2013 23:21:22</Property>
+    <Property Name="author" Type="" />
+    <Property Name="Ago" Type="System.String">3 days ago</Property>
+    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/powersql-by-prashanth-jayaram/2013/07/25/sql-query-to-find-datalogtotal-size-and-other-useful-information-of-all-databases-sql-200020052008r2/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Latest Blog Posts - SQLServerCentral</Property>
+    <Property Name="Title" Type="System.String">TechEd Europe 2013 videos online</Property>
+    <Property Name="Description" Type="System.String">Microsoft has posted ALL the session videos for TechEd Europe 2013 and they are available for free!  Some great videos on the latest products and versions.  Check them out here.  There are four videos on SQL Server 2014:
+Microsoft SQL Server 2014 In-Memory OLTP: Overview
+Microsoft SQL Server 2014: Future and Features
+Microsoft SQL Server 2014 In-Memory OLTP: DB Developer Deep Dive
+Microsoft SQL Server 2014 In-Memory OLTP: Management Deep Dive
+
+       
+</Property>
+    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
+    <Property Name="Stream" Type="System.String">Blogs</Property>
+    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/blogs/</Property>
+    <Property Name="PubDate" Type="System.DateTime">25/07/2013 22:00:21</Property>
+    <Property Name="author" Type="" />
+    <Property Name="Ago" Type="System.String">3 days ago</Property>
+    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/jamesserra/2013/07/25/teched-europe-2013-videos-online/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Latest Blog Posts - SQLServerCentral</Property>
+    <Property Name="Title" Type="System.String">First Time Speaker</Property>
+    <Property Name="Description" Type="System.String">So this week was another first for me, I finally bit the bullet and gave a talk at the Leeds SQL Server User Group and it was great, I thoroughly enjoyed it!Public speaking is something that I have wanted to do for a while now but have put off because of nerves to be honest. &amp;nbsp;I have given plenty talks to colleagues at a number of previous employers but never publicly, I had the mindset that I would be more comfortable speaking to my peers, rather than as I had previously envisaged a "rowdy </Property>
+    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
+    <Property Name="Stream" Type="System.String">Blogs</Property>
+    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/blogs/</Property>
+    <Property Name="PubDate" Type="System.DateTime">25/07/2013 20:58:00</Property>
+    <Property Name="author" Type="" />
+    <Property Name="Ago" Type="System.String">3 days ago</Property>
+    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/sqlserver365/2013/07/25/first-time-speaker/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Latest Blog Posts - SQLServerCentral</Property>
+    <Property Name="Title" Type="System.String">Blog Images and PNG Compression</Property>
+    <Property Name="Description" Type="System.String">Iâ€™m not terribly good at putting at least one image in every post. The images I do use are either screen captures from Snagit or photos from my phone.  I rarely do much in the way of editing them, a luxury of running a low key blog. As far as process, I typically just insert the image into Livewriter and let it do its magic. That works pretty well for me.
+Below is a capture of some of the filenames of images on my blog. The filenames are blah. Does it matter? I hardly ever re-use an image and </Property>
+    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
+    <Property Name="Stream" Type="System.String">Blogs</Property>
+    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/blogs/</Property>
+    <Property Name="PubDate" Type="System.DateTime">25/07/2013 20:00:00</Property>
+    <Property Name="author" Type="" />
+    <Property Name="Ago" Type="System.String">3 days ago</Property>
+    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/andy_warren/2013/07/25/blog-images-and-png-compression/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Latest Blog Posts - SQLServerCentral</Property>
+    <Property Name="Title" Type="System.String">Crash when inserting to a FileTable with a parallel plan</Property>
+    <Property Name="Description" Type="System.String">Whilst doing some ad-hoc work on some data on a 2012 SP1 instance I came across an issue with the SQL server raising a sev 20 error with a script that I was attempting to run. The work that I was doing was that I was exporting some binary data (basic text files) that is stored in one table to the file system via a filetable within the same database. It came as bit of a surprise when I saw this error message:
+Location:&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; "xact.cpp":4175Expression:&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; !m_</Property>
+    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
+    <Property Name="Stream" Type="System.String">Blogs</Property>
+    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/blogs/</Property>
+    <Property Name="PubDate" Type="System.DateTime">25/07/2013 19:43:23</Property>
+    <Property Name="author" Type="" />
+    <Property Name="Ago" Type="System.String">3 days ago</Property>
+    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/rocks/2013/07/25/crash-when-inserting-to-a-filetable-with-a-parallel-plan/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">Latest Blog Posts - SQLServerCentral</Property>
+    <Property Name="Title" Type="System.String">70-457 Reviewer #07, Resolving Concurrency Problems in SQL Server 2012</Property>
+    <Property Name="Description" Type="System.String">This topic is part of the lessons covered in Optimization and Troubleshooting SQL Server 2012 which is 14% of overall scoring in the exam. For this article, I will cover the following subtopics; Resolving Concurrency Problems Blocks and Deadlocks Identifying Issues Resolving Issues Resolving Concurrency Problems Many factors can affect the concurrency of a database [&amp;#8230;]</Property>
+    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
+    <Property Name="Stream" Type="System.String">Blogs</Property>
+    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/blogs/</Property>
+    <Property Name="PubDate" Type="System.DateTime">25/07/2013 17:23:10</Property>
+    <Property Name="author" Type="" />
+    <Property Name="Ago" Type="System.String">3 days ago</Property>
+    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/coffee-and-sql/2013/07/25/70-457-reviewer-07-resolving-concurrency-problems-in-sql-server-2012/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles</Property>
+    <Property Name="Title" Type="System.String">Disaster Recovery Tip #6 - Monitor Your Systems</Property>
+    <Property Name="Description" Type="System.String">Today's complex systems are too large to be able to rely on any DBA's memory for knowledge of each component, and its configuration options and settings. </Property>
+    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
+    <Property Name="Stream" Type="System.String">Main Articles</Property>
+    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
+    <Property Name="PubDate" Type="System.DateTime">25/07/2013 07:00:00</Property>
+    <Property Name="author" Type="" />
+    <Property Name="Ago" Type="System.String">4 days ago</Property>
+    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/redirect/articles/100752/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles tagged Editorial</Property>
+    <Property Name="Title" Type="System.String">Data Farming</Property>
+    <Property Name="Description" Type="System.String">Another spy story involving data that's not true, and perhaps not plausible, but it makes Steve Jones think about data shadows.</Property>
+    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
+    <Property Name="Stream" Type="System.String">Editorials</Property>
+    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/Editorial</Property>
+    <Property Name="PubDate" Type="System.DateTime">25/07/2013 07:00:00</Property>
+    <Property Name="author" Type="" />
+    <Property Name="Ago" Type="System.String">4 days ago</Property>
+    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/articles/Editorial/64575/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles</Property>
+    <Property Name="Title" Type="System.String">Finding lost or forgotten SQL Servers</Property>
+    <Property Name="Description" Type="System.String">This article will show a way to find all SQL Servers, particularly those that have been forgotten about or lost.</Property>
+    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
+    <Property Name="Stream" Type="System.String">Main Articles</Property>
+    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
+    <Property Name="PubDate" Type="System.DateTime">25/07/2013 07:00:00</Property>
+    <Property Name="author" Type="" />
+    <Property Name="Ago" Type="System.String">4 days ago</Property>
+    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/articles/powershell/72809/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles</Property>
+    <Property Name="Title" Type="System.String">SQLServerCentral.com Users Survey 2013</Property>
+    <Property Name="Description" Type="System.String">We want to make sure we're covering the things that are relevant to you, so we're asking for some feedback on what you use on SSC, where we need to improve, and what you'd like to see.
+
+It should only take a few minutes, and three randomly-selected people will win a $100 Amazon gift card for their efforts.
+
+                   Get your SQL Server database under version control now!Version control is standard for applications, but databases haven’t caught up. So how can you bring database developm</Property>
+    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
+    <Property Name="Stream" Type="System.String">Main Articles</Property>
+    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
+    <Property Name="PubDate" Type="System.DateTime">25/07/2013 07:00:00</Property>
+    <Property Name="author" Type="" />
+    <Property Name="Ago" Type="System.String">4 days ago</Property>
+    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/redirect/articles/100841/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles</Property>
+    <Property Name="Title" Type="System.String">AlwaysOn in SQL Server 2014 CTP1</Property>
+    <Property Name="Description" Type="System.String">AlwaysOn encompasses the SQL Server solutions for mission-critical high availability and disaster recovery. Two solutions were included under the AlwaysOn umbrella in SQL Server 2012: Availability Groups and Failover Cluster Instances. Each solution has different characteristics, making them appropriate for different scenarios, and both can be combined in the same deployment.</Property>
+    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
+    <Property Name="Stream" Type="System.String">Main Articles</Property>
+    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
+    <Property Name="PubDate" Type="System.DateTime">25/07/2013 07:00:00</Property>
+    <Property Name="author" Type="" />
+    <Property Name="Ago" Type="System.String">4 days ago</Property>
+    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/redirect/articles/100380/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles tagged Editorial</Property>
+    <Property Name="Title" Type="System.String">Moving to the Heartland</Property>
+    <Property Name="Description" Type="System.String">With companies like Microsoft and Google building data centers in small towns, Steve Jones has some comments about how this might affect IT jobs.
+                   Check SQL Server performance at a glanceWe consulted 1000 SQL Server professionals to make SQL Monitor’s UI as clear as possible.  Start monitoring with a free trial.   
+</Property>
+    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
+    <Property Name="Stream" Type="System.String">Editorials</Property>
+    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/Editorial</Property>
+    <Property Name="PubDate" Type="System.DateTime">24/07/2013 07:00:00</Property>
+    <Property Name="author" Type="" />
+    <Property Name="Ago" Type="System.String">5 days ago</Property>
+    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/articles/Editorial/64681/</Property>
   </Object>
   <Object Type="System.Management.Automation.PSCustomObject">
     <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles</Property>
@@ -234,21 +484,26 @@ thanks</Property>
     <Property Name="Publication" Type="System.String">SQL Server Central</Property>
     <Property Name="Stream" Type="System.String">Main Articles</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
-    <Property Name="PubDate" Type="System.DateTime">24/07/2013 06:00:00</Property>
+    <Property Name="PubDate" Type="System.DateTime">24/07/2013 07:00:00</Property>
     <Property Name="author" Type="" />
-    <Property Name="Ago" Type="System.String">Today</Property>
+    <Property Name="Ago" Type="System.String">5 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/redirect/articles/100379/</Property>
   </Object>
   <Object Type="System.Management.Automation.PSCustomObject">
     <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles</Property>
     <Property Name="Title" Type="System.String">Stairway to Server-side Tracing - Level 3: Creating a SQL Trace Using SQL Server Profiler</Property>
-    <Property Name="Description" Type="System.String">In this third article of our Stairway Series on tracing, Dan Guzman goes into the method of using Profiler to help you create a custom trace of the events that you need to monitor.</Property>
+    <Property Name="Description" Type="System.String">In this third article of our Stairway Series on tracing, Dan Guzman goes into the method of using Profiler to help you create a custom trace of the events that you need to monitor.
+                   ‘10 Tips for Efficient Disaster Recovery’Steve Jones gives the final lesson in the ‘Top 5 Hard-earned Lessons of a DBA’.  Read now and learn from the best.    
+
+
+
+</Property>
     <Property Name="Publication" Type="System.String">SQL Server Central</Property>
     <Property Name="Stream" Type="System.String">Main Articles</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
-    <Property Name="PubDate" Type="System.DateTime">24/07/2013 06:00:00</Property>
+    <Property Name="PubDate" Type="System.DateTime">24/07/2013 07:00:00</Property>
     <Property Name="author" Type="" />
-    <Property Name="Ago" Type="System.String">Today</Property>
+    <Property Name="Ago" Type="System.String">5 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/articles/SQL+Trace/71839/</Property>
   </Object>
   <Object Type="System.Management.Automation.PSCustomObject">
@@ -258,302 +513,22 @@ thanks</Property>
     <Property Name="Publication" Type="System.String">SQL Server Central</Property>
     <Property Name="Stream" Type="System.String">Main Articles</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
-    <Property Name="PubDate" Type="System.DateTime">24/07/2013 06:00:00</Property>
+    <Property Name="PubDate" Type="System.DateTime">24/07/2013 07:00:00</Property>
     <Property Name="author" Type="" />
-    <Property Name="Ago" Type="System.String">Today</Property>
+    <Property Name="Ago" Type="System.String">5 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/redirect/articles/100634/</Property>
   </Object>
   <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles tagged Editorial</Property>
-    <Property Name="Title" Type="System.String">Moving to the Heartland</Property>
-    <Property Name="Description" Type="System.String">With companies like Microsoft and Google building data centers in small towns, Steve Jones has some comments about how this might affect IT jobs.
-                   Get your SQL Server database under version control now!Version control is standard for applications, but databases haven’t caught up. So how can you bring database development up to speed? Why should you start?  Find out…   
-
-
-
-</Property>
+    <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles</Property>
+    <Property Name="Title" Type="System.String">SQL Saturday #236 St Louis, MO</Property>
+    <Property Name="Description" Type="System.String">SQL Saturday is returning to St Louis for a full day of free SQL Server training and networking. This year's event will be on August 3, 2013 at the Saint Louis University's Center for Workforce &amp;amp; Organizational Development. We hope to see you there. </Property>
     <Property Name="Publication" Type="System.String">SQL Server Central</Property>
-    <Property Name="Stream" Type="System.String">Editorials</Property>
-    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/Editorial</Property>
-    <Property Name="PubDate" Type="System.DateTime">24/07/2013 06:00:00</Property>
+    <Property Name="Stream" Type="System.String">Main Articles</Property>
+    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
+    <Property Name="PubDate" Type="System.DateTime">24/07/2013 07:00:00</Property>
     <Property Name="author" Type="" />
-    <Property Name="Ago" Type="System.String">Today</Property>
-    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/articles/Editorial/64681/</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">Latest Blog Posts - SQLServerCentral</Property>
-    <Property Name="Title" Type="System.String">SQL Server 2008 Service Pack 3 CU12</Property>
-    <Property Name="Description" Type="System.String">On July 15, Microsoft released SQL Server 2008 Service Pack 3 Cumulative Update 12, which is Build 10.0.5844. I count six fixes in the public fix list.
-If you are still running SQL Server 2008 (and I know many people are), you should be aware that only Service Pack 3 is still a supported Service Pack. You should also keep in mind that SQL Server 2008 will fall out of Mainstream Support from Microsoft on July 8, 2014, which is not that far away.
-I am curious about whether there will be a SQL Serv</Property>
-    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
-    <Property Name="Stream" Type="System.String">Blogs</Property>
-    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/blogs/</Property>
-    <Property Name="PubDate" Type="System.DateTime">24/07/2013 04:37:38</Property>
-    <Property Name="author" Type="" />
-    <Property Name="Ago" Type="System.String">Today</Property>
-    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/glennberry/2013/07/23/sql-server-2008-service-pack-3-cu12/</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">Latest Blog Posts - SQLServerCentral</Property>
-    <Property Name="Title" Type="System.String">SQL Server 2012 Service Pack 1 CU5</Property>
-    <Property Name="Description" Type="System.String">On July 15, Microsoft released SQL Server 2012 Service Pack 1 Cumulative Update 5. This is Build 11.0.3373, and I count 30 fixes in the public fix list. This CU is only for SQL Server 2012 Service Pack 1.
-If you are running SQL Server 2012, I think you should be on Service Pack 1 by now. If you are on SQL Server 2012 Service Pack 1, I also think you should make an effort to stay on the latest Cumulative Update, even more so than for older versions of SQL Server, because of the large numbers of s</Property>
-    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
-    <Property Name="Stream" Type="System.String">Blogs</Property>
-    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/blogs/</Property>
-    <Property Name="PubDate" Type="System.DateTime">24/07/2013 04:22:52</Property>
-    <Property Name="author" Type="" />
-    <Property Name="Ago" Type="System.String">Today</Property>
-    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/glennberry/2013/07/23/sql-server-2012-service-pack-1-cu5/</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">Latest Blog Posts - SQLServerCentral</Property>
-    <Property Name="Title" Type="System.String">Gap issue in SQL Server 2012 IDENTITY column</Property>
-    <Property Name="Description" Type="System.String">Found a gap issue when using&amp;nbsp;IDENTITY column in SQL Server 2012, every time I restarted sql server service, the current identity number will jump to 1000. here is the repro scriptCREATE TABLE MYTEST (ID INT IDENTITY(1,1),CREATE_DATE datetime);GOINSERT INTO MYTEST(CREATE_DATE)VALUES (GETDATE())GO 10DBCC CHECKIDENT ('MYTEST')GOthe output will be likeChecking identity information: current identity value '10', current column value '10'.DBCC execution completed. If DBCC printed error messages, c</Property>
-    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
-    <Property Name="Stream" Type="System.String">Blogs</Property>
-    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/blogs/</Property>
-    <Property Name="PubDate" Type="System.DateTime">24/07/2013 00:24:00</Property>
-    <Property Name="author" Type="" />
-    <Property Name="Ago" Type="System.String">Today</Property>
-    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/james-sql-footprint/2013/07/23/gap-issue-in-sql-server-2012-identity-column/</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">Latest Blog Posts - SQLServerCentral</Property>
-    <Property Name="Title" Type="System.String">SQL Server : Understanding Differential Changes Map (DCM) and Differential Backups</Property>
-    <Property Name="Description" Type="System.String">
-
-
-
-
-In our earlier posts, we have discussed about different types of pages.Data Pages, GAM and SGAM,PFS page&amp;nbsp;and&amp;nbsp;IAM page. In this post, we will try to understand the Differential Change Map (DCM) pages and differential backups.
-
-
-
-Differential Change Map(DMC):&amp;nbsp;SQL Server uses&amp;nbsp;Differential Changes Map (DCM) page&amp;nbsp;&amp;nbsp;to track extent modified after the last full backup operation.&amp;nbsp;DCM page is the 6th page in the data file.DCM page track the extents modified after th</Property>
-    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
-    <Property Name="Stream" Type="System.String">Blogs</Property>
-    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/blogs/</Property>
-    <Property Name="PubDate" Type="System.DateTime">24/07/2013 00:19:00</Property>
-    <Property Name="author" Type="" />
-    <Property Name="Ago" Type="System.String">Today</Property>
-    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/practicalsqldba/2013/07/23/sql-server-understanding-differential-changes-map-dcm-and-differential-backups/</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">Latest Blog Posts - SQLServerCentral</Property>
-    <Property Name="Title" Type="System.String">Moving Files with Open Source Software, cURL and winSCP</Property>
-    <Property Name="Description" Type="System.String">Open Source, ON WINDOWS!
-I&amp;#8217;m still stunned in this day and age that people pay obscene amounts of money on tools that are easily replaced in most cases with quality and stable open source alternatives. Part of the problem is that a lot of OSS tools don&amp;#8217;t work well on Windows or require some fiddling which can scare off some people. The two tools I&amp;#8217;ll be chatting about today don&amp;#8217;t fall under that category. In one or two steps you have them installed and ready to rock. I&amp;#8</Property>
-    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
-    <Property Name="Stream" Type="System.String">Blogs</Property>
-    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/blogs/</Property>
-    <Property Name="PubDate" Type="System.DateTime">23/07/2013 23:27:39</Property>
-    <Property Name="author" Type="" />
-    <Property Name="Ago" Type="System.String">Today</Property>
-    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/sqlmanofmystery/2013/07/23/moving-files-with-open-source-software-curl-and-winscp/</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">Latest Questions on SQL Server Q&amp;A from the SQL Server Central community</Property>
-    <Property Name="Title" Type="System.String">Credibility of Microsoft Certifications?</Property>
-    <Property Name="Description" Type="System.String">Hi All,
-
-I've been an ETL assistant for about the past 2 years now.  I am quickly learned the basic of using T-SQL, SSIS, and other various Microsoft tools (like Access).  I am liking this field of work and possibly want to continue on this career path through college and couple of years after I get out of college. I've met several ETL specialists and DBA's and none of which spoke positively about Microsoft Certifications.  So, for those of you have attempted or even have any of the Microsoft Ce</Property>
-    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
-    <Property Name="Stream" Type="System.String">Questions</Property>
-    <Property Name="PageURL" Type="System.String">http://ask.sqlservercentral.com/index.html</Property>
-    <Property Name="PubDate" Type="System.DateTime">23/07/2013 21:12:24</Property>
-    <Property Name="author" Type="System.String">eaglescout</Property>
-    <Property Name="Ago" Type="System.String">Today</Property>
-    <Property Name="link" Type="System.String">http://ask.sqlservercentral.com/questions/104687/credibility-of-microsoft-certifications.html</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">Latest Blog Posts - SQLServerCentral</Property>
-    <Property Name="Title" Type="System.String">SQL Server 2014: In-memory OLTP Engine, code-name: Hekaton</Property>
-    <Property Name="Description" Type="System.String">What looks to be the biggest and best new feature in SQL Server 2014 is called the &amp;#8220;In-memory OLTP Engine&amp;#8221;, code-name: Hekaton.  In short, Hekaton is a SQL Server In-memory OLTP Engine.  Hekaton provides in-memory OLTP capabilities built into core SQL Server database to significantly improve the performance of your database application.  Hekaton is installed with the SQL Server 2014 Engine without requiring any additional actions and allows in-memory performance benefits without rewr</Property>
-    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
-    <Property Name="Stream" Type="System.String">Blogs</Property>
-    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/blogs/</Property>
-    <Property Name="PubDate" Type="System.DateTime">23/07/2013 21:00:26</Property>
-    <Property Name="author" Type="" />
-    <Property Name="Ago" Type="System.String">Today</Property>
-    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/jamesserra/2013/07/23/sql-server-2014-in-memory-oltp-engine-code-name-hekaton/</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">Latest Questions on SQL Server Q&amp;A from the SQL Server Central community</Property>
-    <Property Name="Title" Type="System.String">DB Object Access From One Schema to another schema</Property>
-    <Property Name="Description" Type="System.String">Scenario: I have denied permissions from table1 for USER1. DENY SELECT, INSERT, UPDATE, DELETE ON OBJECT :: dbo.table1 TO USER1
-
-Instead, I have allowed access to a view(vw_table1) which will select from table1 and filter some data using where clause. The idea is, users won't be able to see entire data of the table. To support insert, update and delete, I have created instead of triggers.
-
-The above scenario works fine when Table1 and VW_table1 are on same schema.
-
-Now, I have a requirement to m</Property>
-    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
-    <Property Name="Stream" Type="System.String">Questions</Property>
-    <Property Name="PageURL" Type="System.String">http://ask.sqlservercentral.com/index.html</Property>
-    <Property Name="PubDate" Type="System.DateTime">23/07/2013 20:14:38</Property>
-    <Property Name="author" Type="System.String">debkumar</Property>
-    <Property Name="Ago" Type="System.String">Today</Property>
-    <Property Name="link" Type="System.String">http://ask.sqlservercentral.com/questions/104683/db-object-access-from-one-schema-to-another-schema.html</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">Latest Blog Posts - SQLServerCentral</Property>
-    <Property Name="Title" Type="System.String">A Vacation and Traveling to Sacramento</Property>
-    <Property Name="Description" Type="System.String">Iâ€™ve got a couple days off, starting today after my webinar on Preparing for When Disaster Strikes. Iâ€™ve got some family in town, and since I havenâ€™t taken vacation in some time, Iâ€™m looking forward to being unwired for a couple days.
-On Thursday my daughter and I head to Sacramento where weâ€™ll have a SQL in the City Seminar on Development Friday before we attend SQL Saturday #222 in Sacramento. I have a session there on Full Text Search before I take a few more days off and spend some</Property>
-    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
-    <Property Name="Stream" Type="System.String">Blogs</Property>
-    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/blogs/</Property>
-    <Property Name="PubDate" Type="System.DateTime">23/07/2013 20:12:00</Property>
-    <Property Name="author" Type="" />
-    <Property Name="Ago" Type="System.String">Today</Property>
-    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/steve_jones/2013/07/23/a-vacation-and-traveling-to-sacramento/</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">Latest Blog Posts - SQLServerCentral</Property>
-    <Property Name="Title" Type="System.String">I Learned Something From You</Property>
-    <Property Name="Description" Type="System.String">I learned something from you â€“ that was something someone said to me at the end of a recent consulting engagement. I wasnâ€™t teaching, just doing, so that it made it all the more interesting to hear. Part compliment, part acknowledgement, maybe even part surprise, regardless, it was a very nice thing to be told.
-Itâ€™s easy to forget that we all shape each other in the work place by the things we do and the things we donâ€™t do and how we do (or donâ€™t) do them. Iâ€™ve long been a believer i</Property>
-    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
-    <Property Name="Stream" Type="System.String">Blogs</Property>
-    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/blogs/</Property>
-    <Property Name="PubDate" Type="System.DateTime">23/07/2013 20:01:00</Property>
-    <Property Name="author" Type="" />
-    <Property Name="Ago" Type="System.String">Today</Property>
-    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/andy_warren/2013/07/23/i-learned-something-from-you/</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">Latest Questions on SQL Server Q&amp;A from the SQL Server Central community</Property>
-    <Property Name="Title" Type="System.String">weekno in scripttask</Property>
-    <Property Name="Description" Type="System.String">I need to create a directory every week in the format week-mm-dd-yyyy to upload my files.
-for the first week of month it should come as week 1 
-
-I used a script  task and file system task to create the directory.
-I am having issues in getting the week.
-This is the .Net code I am using to get the day,month and year
- Dts.Variables("User::dir").Value = "C:\test" + Date.Today.Date.ToString + Date.Today.Year.ToString _
-       + Date.Today.Month.ToString + Date.Today.Day.ToString
-
-with this code I am </Property>
-    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
-    <Property Name="Stream" Type="System.String">Questions</Property>
-    <Property Name="PageURL" Type="System.String">http://ask.sqlservercentral.com/index.html</Property>
-    <Property Name="PubDate" Type="System.DateTime">23/07/2013 19:11:34</Property>
-    <Property Name="author" Type="System.String">apple</Property>
-    <Property Name="Ago" Type="System.String">Today</Property>
-    <Property Name="link" Type="System.String">http://ask.sqlservercentral.com/questions/104679/weekno-in-scripttask.html</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">Latest Blog Posts - SQLServerCentral</Property>
-    <Property Name="Title" Type="System.String">SQL Server Webcast: The Day After Tomorrow; Why YOU need to Baseline</Property>
-    <Property Name="Description" Type="System.String">Every day I consider myself extremely fortunate to be in a profession that I really enjoy, as thereâ€™s always something new to learn and experiment with. We also have a fantastic SQL Server community which I am proud to be a part of.
-After being approached by Quest (now Dell Software) , I jumped at the chance to work for them because of their community involvement.
-The chance to follow in the footsteps of someone like Brent Ozar (Blog|Twitter) who was so instrumental in creating SQLServerPedia </Property>
-    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
-    <Property Name="Stream" Type="System.String">Blogs</Property>
-    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/blogs/</Property>
-    <Property Name="PubDate" Type="System.DateTime">23/07/2013 18:47:18</Property>
-    <Property Name="author" Type="" />
-    <Property Name="Ago" Type="System.String">Yesterday</Property>
-    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/richard-douglas/2013/07/23/sql-server-webcast-the-day-after-tomorrow-why-you-need-to-baseline/</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">Latest Blog Posts - SQLServerCentral</Property>
-    <Property Name="Title" Type="System.String">SQL Server Quickie #7 â€“ TempDb Latch Contention</Property>
-    <Property Name="Description" Type="System.String">Today I have uploaded the 7th SQL Server Quickie to YouTube. This time I&amp;#8217;m talking about Latch Contention in TempDb. You can find the script used during the demonstration here as a download.
-
-Thanks for watching!
--Klaus
-</Property>
-    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
-    <Property Name="Stream" Type="System.String">Blogs</Property>
-    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/blogs/</Property>
-    <Property Name="PubDate" Type="System.DateTime">23/07/2013 18:01:48</Property>
-    <Property Name="author" Type="" />
-    <Property Name="Ago" Type="System.String">Yesterday</Property>
-    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/aschenbrenner/2013/07/23/sql-server-quickie-7-tempdb-latch-contention/</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">Latest Questions on SQL Server Q&amp;A from the SQL Server Central community</Property>
-    <Property Name="Title" Type="System.String">Why does SSRS email with embedded (MHTML) report grows from 450 KB to 3+ MB when people reply or forward email?</Property>
-    <Property Name="Description" Type="System.String">Hello,
-
-I have not been able to find a solution to this issue anywhere and its driving everyone crazy!
-
-I have several subscriptions to email embedded (MHTML) report to a set of users. The reports are fairly long , with several charts, tables, and matrices. What I don't understand is why on Outlook the original email is 450 KB, it takes just a few seconds to open it. But as soon as someone forwards or replies to the original email, it grows to 3-4 MBs, taking forever to open. I've confirmed Outl</Property>
-    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
-    <Property Name="Stream" Type="System.String">Questions</Property>
-    <Property Name="PageURL" Type="System.String">http://ask.sqlservercentral.com/index.html</Property>
-    <Property Name="PubDate" Type="System.DateTime">23/07/2013 17:59:44</Property>
-    <Property Name="author" Type="System.String">diegochacon</Property>
-    <Property Name="Ago" Type="System.String">Yesterday</Property>
-    <Property Name="link" Type="System.String">http://ask.sqlservercentral.com/questions/104671/why-does-ssrs-email-with-embedded-mhtml-report-gro.html</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">Latest Blog Posts - SQLServerCentral</Property>
-    <Property Name="Title" Type="System.String">Using Change Data Capture and CLR to Transfer Data to the Cloud</Property>
-    <Property Name="Description" Type="System.String">We were three: A DBA, a developer and a tester.
-Our mission: To develop an ongoing process that will transfer one of our biggest and busiest tables to the cloud. Here&amp;#8217;s the story of how we did it:
-The Requirements
-
-Transfer the table insert and updates to Azure in a tab-delimited format
-Do it in a reasonable time &amp;#8211; no more than a few minutes delay between On-premise table state and Azure state
-
-So we had to
-
-Decide from which server we want to transfer the data
-Find a method to detec</Property>
-    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
-    <Property Name="Stream" Type="System.String">Blogs</Property>
-    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/blogs/</Property>
-    <Property Name="PubDate" Type="System.DateTime">23/07/2013 17:00:13</Property>
-    <Property Name="author" Type="" />
-    <Property Name="Ago" Type="System.String">Yesterday</Property>
-    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/db-newsfeed/2013/07/23/using-change-data-capture-and-clr-to-transfer-data-to-the-cloud/</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">Latest Questions on SQL Server Q&amp;A from the SQL Server Central community</Property>
-    <Property Name="Title" Type="System.String">How to export data onto 1 single csv with multi tab?</Property>
-    <Property Name="Description" Type="System.String">Hi,
-
-With Windows 2003 server and MS SQL 2005, I am trying to export data onto 1 single csv but different tabs. Another I am trying to create one csv file and has 4 reports/tabs.
-
-Wonder if anyone could shed light? Thanks.
-Chris</Property>
-    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
-    <Property Name="Stream" Type="System.String">Questions</Property>
-    <Property Name="PageURL" Type="System.String">http://ask.sqlservercentral.com/index.html</Property>
-    <Property Name="PubDate" Type="System.DateTime">23/07/2013 16:50:56</Property>
-    <Property Name="author" Type="System.String">Chris 2</Property>
-    <Property Name="Ago" Type="System.String">Yesterday</Property>
-    <Property Name="link" Type="System.String">http://ask.sqlservercentral.com/questions/104665/how-to-export-data-onto-1-single-csv-with-multi-ta.html</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">Latest Questions on SQL Server Q&amp;A from the SQL Server Central community</Property>
-    <Property Name="Title" Type="System.String">Command to load index into cache</Property>
-    <Property Name="Description" Type="System.String">Is there a T-SQL command to load an index into cach (pre-use in a query)?
-
-Thanks.</Property>
-    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
-    <Property Name="Stream" Type="System.String">Questions</Property>
-    <Property Name="PageURL" Type="System.String">http://ask.sqlservercentral.com/index.html</Property>
-    <Property Name="PubDate" Type="System.DateTime">23/07/2013 14:32:53</Property>
-    <Property Name="author" Type="System.String">Moz</Property>
-    <Property Name="Ago" Type="System.String">Yesterday</Property>
-    <Property Name="link" Type="System.String">http://ask.sqlservercentral.com/questions/104657/command-to-load-index-into-cache.html</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">Latest Questions on SQL Server Q&amp;A from the SQL Server Central community</Property>
-    <Property Name="Title" Type="System.String">certification sql</Property>
-    <Property Name="Description" Type="System.String">I have 3 years of SQL experience using SQL server 2005 and 2008 R2. I was wanting to know if there is a list of certification sites to get certified in SQL Server 2005 or 2008R2. I mainly write queries. I do not deal with Database Administration or anything higher that that, just writing queries. I know that Microsoft has a certification and Brainbench also. I looked at Comptia but i did not see a certification for any sql. I looked at sql-ex.ru but i do not feel comfortable giving them informat</Property>
-    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
-    <Property Name="Stream" Type="System.String">Questions</Property>
-    <Property Name="PageURL" Type="System.String">http://ask.sqlservercentral.com/index.html</Property>
-    <Property Name="PubDate" Type="System.DateTime">23/07/2013 14:23:17</Property>
-    <Property Name="author" Type="System.String">cdurham</Property>
-    <Property Name="Ago" Type="System.String">Yesterday</Property>
-    <Property Name="link" Type="System.String">http://ask.sqlservercentral.com/questions/104656/certification-sql.html</Property>
+    <Property Name="Ago" Type="System.String">5 days ago</Property>
+    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/redirect/articles/99776/</Property>
   </Object>
   <Object Type="System.Management.Automation.PSCustomObject">
     <Property Name="Feed" Type="System.String">Simple-Talk blogs</Property>
@@ -564,51 +539,20 @@ Thanks.</Property>
     <Property Name="PageURL" Type="System.String">https://www.simple-talk.com/blogs/</Property>
     <Property Name="PubDate" Type="System.DateTime">23/07/2013 13:15:39</Property>
     <Property Name="author" Type="System.String">Damon Armstrong</Property>
-    <Property Name="Ago" Type="System.String">Yesterday</Property>
+    <Property Name="Ago" Type="System.String">5 days ago</Property>
     <Property Name="link" Type="System.String">https://www.simple-talk.com/blogs/2013/07/23/sql-query-for-determining-sharepoint-acl-sizes/</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">Latest Questions on SQL Server Q&amp;A from the SQL Server Central community</Property>
-    <Property Name="Title" Type="System.String">Server DDL trigger history</Property>
-    <Property Name="Description" Type="System.String">Hi all
-
-Is it possible to see when and by whom a Server DDL trigger was enabled/disabled? SQL does not store this info in the logs.
-
-I have queried sys.triggers with no luck, any ideas?
-
-
-Thanks</Property>
-    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
-    <Property Name="Stream" Type="System.String">Questions</Property>
-    <Property Name="PageURL" Type="System.String">http://ask.sqlservercentral.com/index.html</Property>
-    <Property Name="PubDate" Type="System.DateTime">23/07/2013 11:36:30</Property>
-    <Property Name="author" Type="System.String">ruancra</Property>
-    <Property Name="Ago" Type="System.String">Yesterday</Property>
-    <Property Name="link" Type="System.String">http://ask.sqlservercentral.com/questions/104651/server-ddl-trigger-history.html</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles</Property>
-    <Property Name="Title" Type="System.String">Survey: Understanding SQL Code</Property>
-    <Property Name="Description" Type="System.String">Understanding thousands of lines of code of an existing database is very time-consuming and tedious, prone to inadvertent oversight of key logic points. We are looking at advanced ways to provide greater insight into your code base while reducing the numerous demands placed on the developer. Please help us by completing this short survey to help us define the requirements.
-                   Free eBook! SQL Server Transaction Log ManagementFind out how understanding how log files work makes all </Property>
-    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
-    <Property Name="Stream" Type="System.String">Main Articles</Property>
-    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
-    <Property Name="PubDate" Type="System.DateTime">23/07/2013 06:00:00</Property>
-    <Property Name="author" Type="" />
-    <Property Name="Ago" Type="System.String">Yesterday</Property>
-    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/redirect/articles/100783/</Property>
   </Object>
   <Object Type="System.Management.Automation.PSCustomObject">
     <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles</Property>
     <Property Name="Title" Type="System.String">Are my actual worker threads exceeding the sp_configure 'max worker threads' value?</Property>
-    <Property Name="Description" Type="System.String">Tom Stringer (@SQLife) was working on some HADR testing for a customer to simulate many availability groups and introduce significant load into the system to measure overhead and such. In his quest to do that he was seeing behavior that he couldn’t really explain and so worked with him to uncover what was happening under the covers. </Property>
+    <Property Name="Description" Type="System.String">Tom Stringer (@SQLife) was working on some HADR testing for a customer to simulate many availability groups and introduce significant load into the system to measure overhead and such. In his quest to do that he was seeing behavior that he couldn’t really explain and so worked with him to uncover what was happening under the covers. 
+                   12 essential tools for database professionalsThe SQL Developer Bundle contains 12 tools designed with the SQL Server developer and DBA in mind.  </Property>
     <Property Name="Publication" Type="System.String">SQL Server Central</Property>
     <Property Name="Stream" Type="System.String">Main Articles</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
-    <Property Name="PubDate" Type="System.DateTime">23/07/2013 06:00:00</Property>
+    <Property Name="PubDate" Type="System.DateTime">23/07/2013 07:00:00</Property>
     <Property Name="author" Type="" />
-    <Property Name="Ago" Type="System.String">Yesterday</Property>
+    <Property Name="Ago" Type="System.String">6 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/redirect/articles/100378/</Property>
   </Object>
   <Object Type="System.Management.Automation.PSCustomObject">
@@ -618,9 +562,9 @@ Thanks</Property>
     <Property Name="Publication" Type="System.String">SQL Server Central</Property>
     <Property Name="Stream" Type="System.String">Editorials</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/Editorial</Property>
-    <Property Name="PubDate" Type="System.DateTime">23/07/2013 06:00:00</Property>
+    <Property Name="PubDate" Type="System.DateTime">23/07/2013 07:00:00</Property>
     <Property Name="author" Type="" />
-    <Property Name="Ago" Type="System.String">Yesterday</Property>
+    <Property Name="Ago" Type="System.String">6 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/articles/Editorial/64356/</Property>
   </Object>
   <Object Type="System.Management.Automation.PSCustomObject">
@@ -630,9 +574,9 @@ Thanks</Property>
     <Property Name="Publication" Type="System.String">SQL Server Central</Property>
     <Property Name="Stream" Type="System.String">Main Articles</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
-    <Property Name="PubDate" Type="System.DateTime">23/07/2013 06:00:00</Property>
+    <Property Name="PubDate" Type="System.DateTime">23/07/2013 07:00:00</Property>
     <Property Name="author" Type="" />
-    <Property Name="Ago" Type="System.String">Yesterday</Property>
+    <Property Name="Ago" Type="System.String">6 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/articles/SQL+Monitoring/100615/</Property>
   </Object>
   <Object Type="System.Management.Automation.PSCustomObject">
@@ -642,10 +586,46 @@ Thanks</Property>
     <Property Name="Publication" Type="System.String">SQL Server Central</Property>
     <Property Name="Stream" Type="System.String">Main Articles</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
-    <Property Name="PubDate" Type="System.DateTime">23/07/2013 06:00:00</Property>
+    <Property Name="PubDate" Type="System.DateTime">23/07/2013 07:00:00</Property>
     <Property Name="author" Type="" />
-    <Property Name="Ago" Type="System.String">Yesterday</Property>
+    <Property Name="Ago" Type="System.String">6 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/redirect/articles/100422/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles</Property>
+    <Property Name="Title" Type="System.String">Survey: Understanding SQL Code</Property>
+    <Property Name="Description" Type="System.String">Understanding thousands of lines of code of an existing database is very time-consuming and tedious, prone to inadvertent oversight of key logic points. We are looking at advanced ways to provide greater insight into your code base while reducing the numerous demands placed on the developer. Please help us by completing this short survey to help us define the requirements.</Property>
+    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
+    <Property Name="Stream" Type="System.String">Main Articles</Property>
+    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
+    <Property Name="PubDate" Type="System.DateTime">23/07/2013 07:00:00</Property>
+    <Property Name="author" Type="" />
+    <Property Name="Ago" Type="System.String">6 days ago</Property>
+    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/redirect/articles/100783/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles</Property>
+    <Property Name="Title" Type="System.String">Tables and Clustered Indexes Part 2</Property>
+    <Property Name="Description" Type="System.String">A table does not so much 'have' a clustered index as a table 'is' a clustered index.</Property>
+    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
+    <Property Name="Stream" Type="System.String">Main Articles</Property>
+    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
+    <Property Name="PubDate" Type="System.DateTime">22/07/2013 07:00:00</Property>
+    <Property Name="author" Type="" />
+    <Property Name="Ago" Type="System.String">7 days ago</Property>
+    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/articles/clustered+index/100477/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles</Property>
+    <Property Name="Title" Type="System.String">SQL Monitor Custom Metric: Top Buffer Cache Object</Property>
+    <Property Name="Description" Type="System.String">This metric measures the amount of memory used in the buffer cache by the largest object (based on the number of pages). It checks the sys.dm_os_buffer_descriptors to identify the object, and returns the relative percentage used. You should use this metric if you want to monitor what is in the buffer area, or if you are having performance-related disk read problems.</Property>
+    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
+    <Property Name="Stream" Type="System.String">Main Articles</Property>
+    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
+    <Property Name="PubDate" Type="System.DateTime">22/07/2013 07:00:00</Property>
+    <Property Name="author" Type="" />
+    <Property Name="Ago" Type="System.String">7 days ago</Property>
+    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/redirect/articles/100742/</Property>
   </Object>
   <Object Type="System.Management.Automation.PSCustomObject">
     <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles</Property>
@@ -654,9 +634,9 @@ Thanks</Property>
     <Property Name="Publication" Type="System.String">SQL Server Central</Property>
     <Property Name="Stream" Type="System.String">Main Articles</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
-    <Property Name="PubDate" Type="System.DateTime">22/07/2013 06:00:00</Property>
+    <Property Name="PubDate" Type="System.DateTime">22/07/2013 07:00:00</Property>
     <Property Name="author" Type="" />
-    <Property Name="Ago" Type="System.String">2 days ago</Property>
+    <Property Name="Ago" Type="System.String">7 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/redirect/articles/100374/</Property>
   </Object>
   <Object Type="System.Management.Automation.PSCustomObject">
@@ -666,83 +646,10 @@ Thanks</Property>
     <Property Name="Publication" Type="System.String">SQL Server Central</Property>
     <Property Name="Stream" Type="System.String">Editorials</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/Editorial</Property>
-    <Property Name="PubDate" Type="System.DateTime">22/07/2013 06:00:00</Property>
+    <Property Name="PubDate" Type="System.DateTime">22/07/2013 07:00:00</Property>
     <Property Name="author" Type="" />
-    <Property Name="Ago" Type="System.String">2 days ago</Property>
+    <Property Name="Ago" Type="System.String">7 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/articles/Editorial/100713/</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles</Property>
-    <Property Name="Title" Type="System.String">Tables and Clustered Indexes Part 2</Property>
-    <Property Name="Description" Type="System.String">A table does not so much 'have' a clustered index as a table 'is' a clustered index.</Property>
-    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
-    <Property Name="Stream" Type="System.String">Main Articles</Property>
-    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
-    <Property Name="PubDate" Type="System.DateTime">22/07/2013 06:00:00</Property>
-    <Property Name="author" Type="" />
-    <Property Name="Ago" Type="System.String">2 days ago</Property>
-    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/articles/clustered+index/100477/</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles</Property>
-    <Property Name="Title" Type="System.String">SQL Monitor Custom Metric: Top Buffer Cache Object</Property>
-    <Property Name="Description" Type="System.String">This metric measures the amount of memory used in the buffer cache by the largest object (based on the number of pages). It checks the sys.dm_os_buffer_descriptors to identify the object, and returns the relative percentage used. You should use this metric if you want to monitor what is in the buffer area, or if you are having performance-related disk read problems.
-                   ‘10 Tips for Efficient Disaster Recovery’Steve Jones gives the final lesson in the ‘Top 5 Hard-earned Lessons of</Property>
-    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
-    <Property Name="Stream" Type="System.String">Main Articles</Property>
-    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
-    <Property Name="PubDate" Type="System.DateTime">22/07/2013 06:00:00</Property>
-    <Property Name="author" Type="" />
-    <Property Name="Ago" Type="System.String">2 days ago</Property>
-    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/redirect/articles/100742/</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">Simple Talk RSS Feed</Property>
-    <Property Name="Title" Type="System.String">Thoughts on ASP.NET MVC Authorization and Security </Property>
-    <Property Name="Description" Type="System.String">It is only a matter of time in developing most websites that you'll need to implement a way of restricting access to parts of the site. In MVC,  the 'Authorize' attribute handles both authentication and authorization. In general, it works well, with the help of  extension to handle AJAX calls elegantly, and to distinguish between unauthorised users and those who are not loggedin.</Property>
-    <Property Name="Publication" Type="System.String">simple-talk</Property>
-    <Property Name="Stream" Type="System.String">.NET Articles</Property>
-    <Property Name="PageURL" Type="System.String">https://www.simple-talk.com/dotnet/</Property>
-    <Property Name="PubDate" Type="System.DateTime">22/07/2013 01:00:00</Property>
-    <Property Name="author" Type="System.String">Dino Esposito</Property>
-    <Property Name="Ago" Type="System.String">2 days ago</Property>
-    <Property Name="link" Type="System.String">https://www.simple-talk.com/dotnet/asp.net/thoughts-on-asp.net-mvc-authorization-and-security-/</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles</Property>
-    <Property Name="Title" Type="System.String">Telemetry basics and troubleshooting</Property>
-    <Property Name="Description" Type="System.String">From the MSDN Windows Azure blog - We recently introduced Azure CAT team series of blog posts and tech articles describing the Cloud Service Fundamentals in Windows Azure code project posted on MSDN Code Gallery. The first component we are addressing in this series is Telemetry. This has been one of the first reusable components we have built working on Windows Azure customer projects of all sizes.</Property>
-    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
-    <Property Name="Stream" Type="System.String">Main Articles</Property>
-    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
-    <Property Name="PubDate" Type="System.DateTime">19/07/2013 06:00:00</Property>
-    <Property Name="author" Type="" />
-    <Property Name="Ago" Type="System.String">5 days ago</Property>
-    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/redirect/articles/100373/</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles</Property>
-    <Property Name="Title" Type="System.String">Formatting Dates with 3 Character Months (SQL Spackle)</Property>
-    <Property Name="Description" Type="System.String">Another in the series of articles to help you &amp;quot;fill in the cracks&amp;quot; in your T-SQL knowledge.  MVP Jeff Moden shows us a super simple, high performance method to solve this timeless problem.</Property>
-    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
-    <Property Name="Stream" Type="System.String">Main Articles</Property>
-    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
-    <Property Name="PubDate" Type="System.DateTime">19/07/2013 06:00:00</Property>
-    <Property Name="author" Type="" />
-    <Property Name="Ago" Type="System.String">5 days ago</Property>
-    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/articles/formatting/72066/</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles</Property>
-    <Property Name="Title" Type="System.String">Disaster Recovery Tip #4 - Learn about partial restores! </Property>
-    <Property Name="Description" Type="System.String">Sometimes recovery simply entails rerunning a failed process.</Property>
-    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
-    <Property Name="Stream" Type="System.String">Main Articles</Property>
-    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
-    <Property Name="PubDate" Type="System.DateTime">19/07/2013 06:00:00</Property>
-    <Property Name="author" Type="" />
-    <Property Name="Ago" Type="System.String">5 days ago</Property>
-    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/redirect/articles/100750/</Property>
   </Object>
   <Object Type="System.Management.Automation.PSCustomObject">
     <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles</Property>
@@ -751,10 +658,64 @@ Thanks</Property>
     <Property Name="Publication" Type="System.String">SQL Server Central</Property>
     <Property Name="Stream" Type="System.String">Main Articles</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
-    <Property Name="PubDate" Type="System.DateTime">19/07/2013 06:00:00</Property>
+    <Property Name="PubDate" Type="System.DateTime">19/07/2013 07:00:00</Property>
     <Property Name="author" Type="" />
-    <Property Name="Ago" Type="System.String">5 days ago</Property>
+    <Property Name="Ago" Type="System.String">10 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/articles/Beginner/100729/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles</Property>
+    <Property Name="Title" Type="System.String">Disaster Recovery Tip #4 - Learn about partial restores! </Property>
+    <Property Name="Description" Type="System.String">Sometimes recovery simply entails rerunning a failed process.</Property>
+    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
+    <Property Name="Stream" Type="System.String">Main Articles</Property>
+    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
+    <Property Name="PubDate" Type="System.DateTime">19/07/2013 07:00:00</Property>
+    <Property Name="author" Type="" />
+    <Property Name="Ago" Type="System.String">10 days ago</Property>
+    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/redirect/articles/100750/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles tagged Editorial</Property>
+    <Property Name="Title" Type="System.String">DR Failovers</Property>
+    <Property Name="Description" Type="System.String">We don't often predict for disasters, which is good since we rarely have extensive plans for dealing with them. If we do, do we actually test our plans, or test the systems under full load?</Property>
+    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
+    <Property Name="Stream" Type="System.String">Editorials</Property>
+    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/Editorial</Property>
+    <Property Name="PubDate" Type="System.DateTime">19/07/2013 07:00:00</Property>
+    <Property Name="author" Type="" />
+    <Property Name="Ago" Type="System.String">10 days ago</Property>
+    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/articles/Editorial/100661/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles</Property>
+    <Property Name="Title" Type="System.String">Telemetry basics and troubleshooting</Property>
+    <Property Name="Description" Type="System.String">From the MSDN Windows Azure blog - We recently introduced Azure CAT team series of blog posts and tech articles describing the Cloud Service Fundamentals in Windows Azure code project posted on MSDN Code Gallery. The first component we are addressing in this series is Telemetry. This has been one of the first reusable components we have built working on Windows Azure customer projects of all sizes.</Property>
+    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
+    <Property Name="Stream" Type="System.String">Main Articles</Property>
+    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
+    <Property Name="PubDate" Type="System.DateTime">19/07/2013 07:00:00</Property>
+    <Property Name="author" Type="" />
+    <Property Name="Ago" Type="System.String">10 days ago</Property>
+    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/redirect/articles/100373/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles</Property>
+    <Property Name="Title" Type="System.String">Formatting Dates with 3 Character Months (SQL Spackle)</Property>
+    <Property Name="Description" Type="System.String">Another in the series of articles to help you &amp;quot;fill in the cracks&amp;quot; in your T-SQL knowledge.  MVP Jeff Moden shows us a super simple, high performance method to solve this timeless problem.
+                   Free eBook! SQL Server Transaction Log ManagementFind out how understanding how log files work makes all the difference in a crisis. Then try SQL Backup Pro to put the tips into practice.  Download your free resources now.    
+
+
+
+
+</Property>
+    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
+    <Property Name="Stream" Type="System.String">Main Articles</Property>
+    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
+    <Property Name="PubDate" Type="System.DateTime">19/07/2013 07:00:00</Property>
+    <Property Name="author" Type="" />
+    <Property Name="Ago" Type="System.String">10 days ago</Property>
+    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/articles/formatting/72066/</Property>
   </Object>
   <Object Type="System.Management.Automation.PSCustomObject">
     <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles</Property>
@@ -764,34 +725,10 @@ There is also a pre-conference session presented by Bill Pearson on Practical Se
     <Property Name="Publication" Type="System.String">SQL Server Central</Property>
     <Property Name="Stream" Type="System.String">Main Articles</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
-    <Property Name="PubDate" Type="System.DateTime">19/07/2013 06:00:00</Property>
+    <Property Name="PubDate" Type="System.DateTime">19/07/2013 07:00:00</Property>
     <Property Name="author" Type="" />
-    <Property Name="Ago" Type="System.String">5 days ago</Property>
+    <Property Name="Ago" Type="System.String">10 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/redirect/articles/100175/</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles tagged Editorial</Property>
-    <Property Name="Title" Type="System.String">DR Failovers</Property>
-    <Property Name="Description" Type="System.String">We don't often predict for disasters, which is good since we rarely have extensive plans for dealing with them. If we do, do we actually test our plans, or test the systems under full load?</Property>
-    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
-    <Property Name="Stream" Type="System.String">Editorials</Property>
-    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/Editorial</Property>
-    <Property Name="PubDate" Type="System.DateTime">19/07/2013 06:00:00</Property>
-    <Property Name="author" Type="" />
-    <Property Name="Ago" Type="System.String">5 days ago</Property>
-    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/articles/Editorial/100661/</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">Simple Talk RSS Feed</Property>
-    <Property Name="Title" Type="System.String">Software Tuned to Humanity</Property>
-    <Property Name="Description" Type="System.String">I learned a great deal from a cynical old programmer who once told me that the ideal length of time for a compiler to do its work was the same time it took to roll a cigarette. For development work, this is oh so true. After intently looking at the editing window for an hour [...]</Property>
-    <Property Name="Publication" Type="System.String">simple-talk</Property>
-    <Property Name="Stream" Type="System.String">Home Page</Property>
-    <Property Name="PageURL" Type="System.String">https://www.simple-talk.com/</Property>
-    <Property Name="PubDate" Type="System.DateTime">18/07/2013 18:26:47</Property>
-    <Property Name="author" Type="System.String">Phil Factor</Property>
-    <Property Name="Ago" Type="System.String">6 days ago</Property>
-    <Property Name="link" Type="System.String">https://www.simple-talk.com/blogs/2013/07/18/software-tuned-to-humanity/</Property>
   </Object>
   <Object Type="System.Management.Automation.PSCustomObject">
     <Property Name="Feed" Type="System.String">Simple-Talk blogs</Property>
@@ -802,8 +739,42 @@ There is also a pre-conference session presented by Bill Pearson on Practical Se
     <Property Name="PageURL" Type="System.String">https://www.simple-talk.com/blogs/</Property>
     <Property Name="PubDate" Type="System.DateTime">18/07/2013 17:26:47</Property>
     <Property Name="author" Type="System.String">Phil Factor</Property>
-    <Property Name="Ago" Type="System.String">6 days ago</Property>
+    <Property Name="Ago" Type="System.String">10 days ago</Property>
     <Property Name="link" Type="System.String">https://www.simple-talk.com/blogs/2013/07/18/software-tuned-to-humanity/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles</Property>
+    <Property Name="Title" Type="System.String">SQL Saturday #239 East Iowa</Property>
+    <Property Name="Description" Type="System.String">SQL Saturday will be in Iowa City on July 27, 2013. This free day of SQL Server Training and Networking will also have pay-for pre-conference sessions presented by Bill Pearson, Louis Davidson and Tim Mitchell.
+                   Get your SQL Server database under version control now!Version control is standard for applications, but databases haven’t caught up. So how can you bring database development up to speed? Why should you start?  Find out…   
+
+
+
+</Property>
+    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
+    <Property Name="Stream" Type="System.String">Main Articles</Property>
+    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
+    <Property Name="PubDate" Type="System.DateTime">18/07/2013 07:00:00</Property>
+    <Property Name="author" Type="" />
+    <Property Name="Ago" Type="System.String">11 days ago</Property>
+    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/redirect/articles/100377/</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles tagged Editorial</Property>
+    <Property Name="Title" Type="System.String">Password Ninjas</Property>
+    <Property Name="Description" Type="System.String">How do you keep track of passwords? A few experts out there share some of their techniques and Steve Jones adds his thoughts.
+                   Get your SQL Server database under version control now!Version control is standard for applications, but databases haven’t caught up. So how can you bring database development up to speed? Why should you start?  Find out…   
+
+
+
+</Property>
+    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
+    <Property Name="Stream" Type="System.String">Editorials</Property>
+    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/Editorial</Property>
+    <Property Name="PubDate" Type="System.DateTime">18/07/2013 07:00:00</Property>
+    <Property Name="author" Type="" />
+    <Property Name="Ago" Type="System.String">11 days ago</Property>
+    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/articles/Editorial/100709/</Property>
   </Object>
   <Object Type="System.Management.Automation.PSCustomObject">
     <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles</Property>
@@ -812,39 +783,10 @@ There is also a pre-conference session presented by Bill Pearson on Practical Se
     <Property Name="Publication" Type="System.String">SQL Server Central</Property>
     <Property Name="Stream" Type="System.String">Main Articles</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
-    <Property Name="PubDate" Type="System.DateTime">18/07/2013 06:00:00</Property>
+    <Property Name="PubDate" Type="System.DateTime">18/07/2013 07:00:00</Property>
     <Property Name="author" Type="" />
-    <Property Name="Ago" Type="System.String">6 days ago</Property>
+    <Property Name="Ago" Type="System.String">11 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/redirect/articles/100701/</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles</Property>
-    <Property Name="Title" Type="System.String">SQL Saturday #239 East Iowa</Property>
-    <Property Name="Description" Type="System.String">SQL Saturday will be in Iowa City on July 27, 2013. This free day of SQL Server Training and Networking will also have pay-for pre-conference sessions presented by Bill Pearson, Louis Davidson and Tim Mitchell.
-                   Make working with SQL a breezeSQL Prompt 5 is the effortless way to write, edit, and explore SQL. It's packed with features such as code completion, script summaries, and SQL reformatting, that make working with SQL a breeze.  Try it now.   
-
-
-
-</Property>
-    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
-    <Property Name="Stream" Type="System.String">Main Articles</Property>
-    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
-    <Property Name="PubDate" Type="System.DateTime">18/07/2013 06:00:00</Property>
-    <Property Name="author" Type="" />
-    <Property Name="Ago" Type="System.String">6 days ago</Property>
-    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/redirect/articles/100377/</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles</Property>
-    <Property Name="Title" Type="System.String"> How To Document Your PowerShell Library</Property>
-    <Property Name="Description" Type="System.String">PowerShell provides comment-based  help for functions and scripts with Get-Help, but when you want to document modues or generate a complete indexed API in HTML format, just as you can with Sandcastle for .NET or javadoc for Java, then stronger magic is required. Michael Sorens shows you how it is done, with source code.</Property>
-    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
-    <Property Name="Stream" Type="System.String">Main Articles</Property>
-    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
-    <Property Name="PubDate" Type="System.DateTime">18/07/2013 06:00:00</Property>
-    <Property Name="author" Type="" />
-    <Property Name="Ago" Type="System.String">6 days ago</Property>
-    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/redirect/articles/100368/</Property>
   </Object>
   <Object Type="System.Management.Automation.PSCustomObject">
     <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles</Property>
@@ -853,22 +795,22 @@ There is also a pre-conference session presented by Bill Pearson on Practical Se
     <Property Name="Publication" Type="System.String">SQL Server Central</Property>
     <Property Name="Stream" Type="System.String">Main Articles</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
-    <Property Name="PubDate" Type="System.DateTime">18/07/2013 06:00:00</Property>
+    <Property Name="PubDate" Type="System.DateTime">18/07/2013 07:00:00</Property>
     <Property Name="author" Type="" />
-    <Property Name="Ago" Type="System.String">6 days ago</Property>
+    <Property Name="Ago" Type="System.String">11 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/articles/Integration+Services+(SSIS)/98113/</Property>
   </Object>
   <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles tagged Editorial</Property>
-    <Property Name="Title" Type="System.String">Password Ninjas</Property>
-    <Property Name="Description" Type="System.String">How do you keep track of passwords? A few experts out there share some of their techniques and Steve Jones adds his thoughts.</Property>
+    <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles</Property>
+    <Property Name="Title" Type="System.String"> How To Document Your PowerShell Library</Property>
+    <Property Name="Description" Type="System.String">PowerShell provides comment-based  help for functions and scripts with Get-Help, but when you want to document modues or generate a complete indexed API in HTML format, just as you can with Sandcastle for .NET or javadoc for Java, then stronger magic is required. Michael Sorens shows you how it is done, with source code.</Property>
     <Property Name="Publication" Type="System.String">SQL Server Central</Property>
-    <Property Name="Stream" Type="System.String">Editorials</Property>
-    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/Editorial</Property>
-    <Property Name="PubDate" Type="System.DateTime">18/07/2013 06:00:00</Property>
+    <Property Name="Stream" Type="System.String">Main Articles</Property>
+    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
+    <Property Name="PubDate" Type="System.DateTime">18/07/2013 07:00:00</Property>
     <Property Name="author" Type="" />
-    <Property Name="Ago" Type="System.String">6 days ago</Property>
-    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/articles/Editorial/100709/</Property>
+    <Property Name="Ago" Type="System.String">11 days ago</Property>
+    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/redirect/articles/100368/</Property>
   </Object>
   <Object Type="System.Management.Automation.PSCustomObject">
     <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles tagged Editorial</Property>
@@ -877,9 +819,9 @@ There is also a pre-conference session presented by Bill Pearson on Practical Se
     <Property Name="Publication" Type="System.String">SQL Server Central</Property>
     <Property Name="Stream" Type="System.String">Editorials</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/Editorial</Property>
-    <Property Name="PubDate" Type="System.DateTime">17/07/2013 06:00:00</Property>
+    <Property Name="PubDate" Type="System.DateTime">17/07/2013 07:00:00</Property>
     <Property Name="author" Type="" />
-    <Property Name="Ago" Type="System.String">7 days ago</Property>
+    <Property Name="Ago" Type="System.String">12 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/articles/Editorial/100663/</Property>
   </Object>
   <Object Type="System.Management.Automation.PSCustomObject">
@@ -889,9 +831,9 @@ There is also a pre-conference session presented by Bill Pearson on Practical Se
     <Property Name="Publication" Type="System.String">SQL Server Central</Property>
     <Property Name="Stream" Type="System.String">Main Articles</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
-    <Property Name="PubDate" Type="System.DateTime">17/07/2013 06:00:00</Property>
+    <Property Name="PubDate" Type="System.DateTime">17/07/2013 07:00:00</Property>
     <Property Name="author" Type="" />
-    <Property Name="Ago" Type="System.String">7 days ago</Property>
+    <Property Name="Ago" Type="System.String">12 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/redirect/articles/100571/</Property>
   </Object>
   <Object Type="System.Management.Automation.PSCustomObject">
@@ -901,85 +843,10 @@ There is also a pre-conference session presented by Bill Pearson on Practical Se
     <Property Name="Publication" Type="System.String">SQL Server Central</Property>
     <Property Name="Stream" Type="System.String">Main Articles</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
-    <Property Name="PubDate" Type="System.DateTime">17/07/2013 06:00:00</Property>
+    <Property Name="PubDate" Type="System.DateTime">17/07/2013 07:00:00</Property>
     <Property Name="author" Type="" />
-    <Property Name="Ago" Type="System.String">7 days ago</Property>
+    <Property Name="Ago" Type="System.String">12 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/articles/BIML/100552/</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles</Property>
-    <Property Name="Title" Type="System.String">Free eBook: Understanding SQL Server Concurrency</Property>
-    <Property Name="Description" Type="System.String">When you can’t get to your data because another application has it locked, a thorough knowledge of SQL Server concurrency will give you the confidence to decide what to do.</Property>
-    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
-    <Property Name="Stream" Type="System.String">Main Articles</Property>
-    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
-    <Property Name="PubDate" Type="System.DateTime">17/07/2013 06:00:00</Property>
-    <Property Name="author" Type="" />
-    <Property Name="Ago" Type="System.String">7 days ago</Property>
-    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/redirect/articles/100633/</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles</Property>
-    <Property Name="Title" Type="System.String">SQL Saturday #222</Property>
-    <Property Name="Description" Type="System.String">SQL Saturday is coming to Sacramento on July 27, 2013. Join us for a free day of SQL Server training and networking. This SQL Saturday also features a paid-for full day pre-con session with Kalen Delaney</Property>
-    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
-    <Property Name="Stream" Type="System.String">Main Articles</Property>
-    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
-    <Property Name="PubDate" Type="System.DateTime">17/07/2013 06:00:00</Property>
-    <Property Name="author" Type="" />
-    <Property Name="Ago" Type="System.String">7 days ago</Property>
-    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/articles/SQL+Saturday/100376/</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles</Property>
-    <Property Name="Title" Type="System.String">SQL Server Transactions and Locking – Part 2</Property>
-    <Property Name="Description" Type="System.String">This article looks at SQL Server locking and transaction isolation levels, how to set the transaction isolation level, and how some isolation levels use locking, while others use row versioning. It also explains what type of locks data update requires.
-                   Free eBook! SQL Server Transaction Log ManagementFind out how understanding how log files work makes all the difference in a crisis. Then try SQL Backup Pro to put the tips into practice.  Download your free resources now.    
-
-</Property>
-    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
-    <Property Name="Stream" Type="System.String">Main Articles</Property>
-    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
-    <Property Name="PubDate" Type="System.DateTime">17/07/2013 06:00:00</Property>
-    <Property Name="author" Type="" />
-    <Property Name="Ago" Type="System.String">7 days ago</Property>
-    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/redirect/articles/100370/</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">Simple Talk RSS Feed</Property>
-    <Property Name="Title" Type="System.String">Data Science Laboratory System - Key/Value Pair Systems</Property>
-    <Property Name="Description" Type="System.String">Though the Key/Value pair paradigm is common to almost every computer language, there is no clear agreement yet for the definition of a Key/Value Pair database. However, Key/Value pair databases are valuable for special applications where speed of writing data is more important than searching and  general versatility. It is certainly worth experimenting with in a data science lab.</Property>
-    <Property Name="Publication" Type="System.String">simple-talk</Property>
-    <Property Name="Stream" Type="System.String">Cloud Articles</Property>
-    <Property Name="PageURL" Type="System.String">https://www.simple-talk.com/cloud/</Property>
-    <Property Name="PubDate" Type="System.DateTime">17/07/2013 01:00:00</Property>
-    <Property Name="author" Type="System.String">Buck Woody</Property>
-    <Property Name="Ago" Type="System.String">7 days ago</Property>
-    <Property Name="link" Type="System.String">https://www.simple-talk.com/cloud/data-science/data-science-laboratory-system---keyvalue-pair-systems/</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles</Property>
-    <Property Name="Title" Type="System.String">SQL Saturday #231 Cocoa Beach</Property>
-    <Property Name="Description" Type="System.String">Join us for a free day of SQL Server training and networking on July 27 in Cocoa Beach, Florida.</Property>
-    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
-    <Property Name="Stream" Type="System.String">Main Articles</Property>
-    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
-    <Property Name="PubDate" Type="System.DateTime">16/07/2013 06:00:00</Property>
-    <Property Name="author" Type="" />
-    <Property Name="Ago" Type="System.String">8 days ago</Property>
-    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/redirect/articles/100375/</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles</Property>
-    <Property Name="Title" Type="System.String">Encrypting and Decrypting SQL Server Stored Procedures, Views and User-Defined Functions</Property>
-    <Property Name="Description" Type="System.String">Some companies put business or application logic in SQL Server using stored procedures, views and functions to return values to the calling applications or perform tasks. This is not unusual in companies that use the SQL Server layer to perform business tasks, such as finance operations, or incorporate application functionality into the programmability layer. Here's a tip to preserve secrecy on some procedures, views or functions in order to maintain security.</Property>
-    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
-    <Property Name="Stream" Type="System.String">Main Articles</Property>
-    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
-    <Property Name="PubDate" Type="System.DateTime">16/07/2013 06:00:00</Property>
-    <Property Name="author" Type="" />
-    <Property Name="Ago" Type="System.String">8 days ago</Property>
-    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/redirect/articles/100369/</Property>
   </Object>
   <Object Type="System.Management.Automation.PSCustomObject">
     <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles tagged Editorial</Property>
@@ -988,82 +855,10 @@ There is also a pre-conference session presented by Bill Pearson on Practical Se
     <Property Name="Publication" Type="System.String">SQL Server Central</Property>
     <Property Name="Stream" Type="System.String">Editorials</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/Editorial</Property>
-    <Property Name="PubDate" Type="System.DateTime">16/07/2013 06:00:00</Property>
+    <Property Name="PubDate" Type="System.DateTime">16/07/2013 07:00:00</Property>
     <Property Name="author" Type="" />
-    <Property Name="Ago" Type="System.String">8 days ago</Property>
+    <Property Name="Ago" Type="System.String">13 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/articles/Editorial/100579/</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles</Property>
-    <Property Name="Title" Type="System.String">Orphaned Distribution Transactions</Property>
-    <Property Name="Description" Type="System.String">Learn about orphaned distribution transactions in SQL Server and how you can clear them.</Property>
-    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
-    <Property Name="Stream" Type="System.String">Main Articles</Property>
-    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
-    <Property Name="PubDate" Type="System.DateTime">16/07/2013 06:00:00</Property>
-    <Property Name="author" Type="" />
-    <Property Name="Ago" Type="System.String">8 days ago</Property>
-    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/articles/Administration/99299/</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">Simple Talk RSS Feed</Property>
-    <Property Name="Title" Type="System.String">Using Microsoft Excel to Retrieve SSAS Tabular Data</Property>
-    <Property Name="Description" Type="System.String">Although it is well-known how to create a tabular database in PowerPivot, it is less obvious that there are several useful options for retrieving SSAS tabular data into Excel. This provides an easy way of manipulating, visualizing and analyzing the data without needing to know the details of SSAS and the tabular model. </Property>
-    <Property Name="Publication" Type="System.String">simple-talk</Property>
-    <Property Name="Stream" Type="System.String">Home Page</Property>
-    <Property Name="PageURL" Type="System.String">https://www.simple-talk.com/</Property>
-    <Property Name="PubDate" Type="System.DateTime">16/07/2013 01:00:00</Property>
-    <Property Name="author" Type="System.String">Robert Sheldon</Property>
-    <Property Name="Ago" Type="System.String">8 days ago</Property>
-    <Property Name="link" Type="System.String">https://www.simple-talk.com/sql/reporting-services/using-microsoft-excel-to-retrieve-ssas-tabular-data/</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">Simple Talk RSS Feed</Property>
-    <Property Name="Title" Type="System.String">Using Microsoft Excel to Retrieve SSAS Tabular Data</Property>
-    <Property Name="Description" Type="System.String">Although it is well-known how to create a tabular database in PowerPivot, it is less obvious that there are several useful options for retrieving SSAS tabular data into Excel. This provides an easy way of manipulating, visualizing and analyzing the data without needing to know the details of SSAS and the tabular model. </Property>
-    <Property Name="Publication" Type="System.String">simple-talk</Property>
-    <Property Name="Stream" Type="System.String">SQL Articles</Property>
-    <Property Name="PageURL" Type="System.String">https://www.simple-talk.com/sql/</Property>
-    <Property Name="PubDate" Type="System.DateTime">16/07/2013 01:00:00</Property>
-    <Property Name="author" Type="System.String">Robert Sheldon</Property>
-    <Property Name="Ago" Type="System.String">8 days ago</Property>
-    <Property Name="link" Type="System.String">https://www.simple-talk.com/sql/reporting-services/using-microsoft-excel-to-retrieve-ssas-tabular-data/</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">Simple Talk RSS Feed</Property>
-    <Property Name="Title" Type="System.String">Keeping an Eye on Your Storage</Property>
-    <Property Name="Description" Type="System.String">There are plenty of resources that advise you about looking for signs that your storage hardware is having problems. SQL Server Alerts for 823, 824 and 825 are covered here by Paul Randall of SQL Skills: http://www.sqlskills.com/blogs/paul/a-little-known-sign-of-impending-doom-error-825/ and here by me: https://www.simple-talk.com/blogs/2011/06/27/alerts-are-good-arent-they/. Now until very recently I wasnâ€™t aware that there was a different way [...]</Property>
-    <Property Name="Publication" Type="System.String">simple-talk</Property>
-    <Property Name="Stream" Type="System.String">Home Page</Property>
-    <Property Name="PageURL" Type="System.String">https://www.simple-talk.com/</Property>
-    <Property Name="PubDate" Type="System.DateTime">15/07/2013 11:00:17</Property>
-    <Property Name="author" Type="System.String">Fatherjack</Property>
-    <Property Name="Ago" Type="System.String">9 days ago</Property>
-    <Property Name="link" Type="System.String">https://www.simple-talk.com/blogs/2013/07/15/keeping-an-eye-on-your-storage/</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">Simple-Talk blogs</Property>
-    <Property Name="Title" Type="System.String">Keeping an Eye on Your Storage</Property>
-    <Property Name="Description" Type="System.String">There are plenty of resources that advise you about looking for signs that your storage hardware is having problems. SQL Server Alerts for 823, 824 and 825 are covered here by Paul Randall of SQL Skills: http://www.sqlskills.com/blogs/paul/a-little-known-sign-of-impending-doom-error-825/ and here by me: https://www.simple-talk.com/blogs/2011/06/27/alerts-are-good-arent-they/. Now until very recently I wasnâ€™t aware that there was a different way [...]</Property>
-    <Property Name="Publication" Type="System.String">simple-talk</Property>
-    <Property Name="Stream" Type="System.String">Blogs</Property>
-    <Property Name="PageURL" Type="System.String">https://www.simple-talk.com/blogs/</Property>
-    <Property Name="PubDate" Type="System.DateTime">15/07/2013 10:00:17</Property>
-    <Property Name="author" Type="System.String">Fatherjack</Property>
-    <Property Name="Ago" Type="System.String">9 days ago</Property>
-    <Property Name="link" Type="System.String">https://www.simple-talk.com/blogs/2013/07/15/keeping-an-eye-on-your-storage/</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles</Property>
-    <Property Name="Title" Type="System.String">Parameter Sniffing and Sniffing Memory</Property>
-    <Property Name="Description" Type="System.String">This article aims to demonstrate bad parameter sniffing and its effects on memory grants.</Property>
-    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
-    <Property Name="Stream" Type="System.String">Main Articles</Property>
-    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
-    <Property Name="PubDate" Type="System.DateTime">15/07/2013 06:00:00</Property>
-    <Property Name="author" Type="" />
-    <Property Name="Ago" Type="System.String">9 days ago</Property>
-    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/articles/Parameter+Sniffing/98481/</Property>
   </Object>
   <Object Type="System.Management.Automation.PSCustomObject">
     <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles tagged Editorial</Property>
@@ -1072,9 +867,9 @@ There is also a pre-conference session presented by Bill Pearson on Practical Se
     <Property Name="Publication" Type="System.String">SQL Server Central</Property>
     <Property Name="Stream" Type="System.String">Editorials</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/Editorial</Property>
-    <Property Name="PubDate" Type="System.DateTime">15/07/2013 06:00:00</Property>
+    <Property Name="PubDate" Type="System.DateTime">15/07/2013 07:00:00</Property>
     <Property Name="author" Type="" />
-    <Property Name="Ago" Type="System.String">9 days ago</Property>
+    <Property Name="Ago" Type="System.String">14 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/articles/Editorial/100578/</Property>
   </Object>
   <Object Type="System.Management.Automation.PSCustomObject">
@@ -1084,9 +879,9 @@ There is also a pre-conference session presented by Bill Pearson on Practical Se
     <Property Name="Publication" Type="System.String">SQL Server Central</Property>
     <Property Name="Stream" Type="System.String">Editorials</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/Editorial</Property>
-    <Property Name="PubDate" Type="System.DateTime">12/07/2013 06:00:00</Property>
+    <Property Name="PubDate" Type="System.DateTime">12/07/2013 07:00:00</Property>
     <Property Name="author" Type="" />
-    <Property Name="Ago" Type="System.String">12 days ago</Property>
+    <Property Name="Ago" Type="System.String">17 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/articles/Editorial/100601/</Property>
   </Object>
   <Object Type="System.Management.Automation.PSCustomObject">
@@ -1098,32 +893,8 @@ There is also a pre-conference session presented by Bill Pearson on Practical Se
     <Property Name="PageURL" Type="System.String">https://www.simple-talk.com/blogs/</Property>
     <Property Name="PubDate" Type="System.DateTime">12/07/2013 05:20:10</Property>
     <Property Name="author" Type="System.String">Louis Davidson</Property>
-    <Property Name="Ago" Type="System.String">12 days ago</Property>
+    <Property Name="Ago" Type="System.String">17 days ago</Property>
     <Property Name="link" Type="System.String">https://www.simple-talk.com/blogs/2013/07/12/good-dbas-do-baselines/</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">Simple Talk RSS Feed</Property>
-    <Property Name="Title" Type="System.String">An Introduction to Windows Azure BLOB Storage </Property>
-    <Property Name="Description" Type="System.String">Azure BLOB storage is persistent Cloud data storage that serves a variety of purposes. Mike Wood shows the basics of  how to use it, from start through to snapshots and metadata; both from .NET, and by using the free tool, Cerebrata Azure Explorer. </Property>
-    <Property Name="Publication" Type="System.String">simple-talk</Property>
-    <Property Name="Stream" Type="System.String">Cloud Articles</Property>
-    <Property Name="PageURL" Type="System.String">https://www.simple-talk.com/cloud/</Property>
-    <Property Name="PubDate" Type="System.DateTime">12/07/2013 01:00:00</Property>
-    <Property Name="author" Type="System.String">Mike Wood</Property>
-    <Property Name="Ago" Type="System.String">12 days ago</Property>
-    <Property Name="link" Type="System.String">https://www.simple-talk.com/cloud/cloud-data/an-introduction-to-windows-azure-blob-storage-/</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">Simple Talk RSS Feed</Property>
-    <Property Name="Title" Type="System.String">An Introduction to Windows Azure BLOB Storage </Property>
-    <Property Name="Description" Type="System.String">Azure BLOB storage is persistent Cloud data storage that serves a variety of purposes. Mike Wood shows the basics of  how to use it, from start through to snapshots and metadata; both from .NET, and by using the free tool, Cerebrata Azure Explorer. </Property>
-    <Property Name="Publication" Type="System.String">simple-talk</Property>
-    <Property Name="Stream" Type="System.String">Home Page</Property>
-    <Property Name="PageURL" Type="System.String">https://www.simple-talk.com/</Property>
-    <Property Name="PubDate" Type="System.DateTime">12/07/2013 01:00:00</Property>
-    <Property Name="author" Type="System.String">Mike Wood</Property>
-    <Property Name="Ago" Type="System.String">12 days ago</Property>
-    <Property Name="link" Type="System.String">https://www.simple-talk.com/cloud/cloud-data/an-introduction-to-windows-azure-blob-storage-/</Property>
   </Object>
   <Object Type="System.Management.Automation.PSCustomObject">
     <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles tagged Editorial</Property>
@@ -1132,46 +903,10 @@ There is also a pre-conference session presented by Bill Pearson on Practical Se
     <Property Name="Publication" Type="System.String">SQL Server Central</Property>
     <Property Name="Stream" Type="System.String">Editorials</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/Editorial</Property>
-    <Property Name="PubDate" Type="System.DateTime">11/07/2013 06:00:00</Property>
+    <Property Name="PubDate" Type="System.DateTime">11/07/2013 07:00:00</Property>
     <Property Name="author" Type="" />
-    <Property Name="Ago" Type="System.String">13 days ago</Property>
+    <Property Name="Ago" Type="System.String">18 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/articles/Editorial/100580/</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">Simple Talk RSS Feed</Property>
-    <Property Name="Title" Type="System.String">Fluent Code in C#</Property>
-    <Property Name="Description" Type="System.String">In LINQ, the 'fluent' method syntax  flows logically and intuitively, and allows them to be combined simply, because each method returns the appropriate type of object for the next. Can this fluent technique be extended as an API style to make it easier to develop C# team-based applications for enterprises? </Property>
-    <Property Name="Publication" Type="System.String">simple-talk</Property>
-    <Property Name="Stream" Type="System.String">.NET Articles</Property>
-    <Property Name="PageURL" Type="System.String">https://www.simple-talk.com/dotnet/</Property>
-    <Property Name="PubDate" Type="System.DateTime">11/07/2013 01:00:00</Property>
-    <Property Name="author" Type="System.String">Tom Fischer</Property>
-    <Property Name="Ago" Type="System.String">13 days ago</Property>
-    <Property Name="link" Type="System.String">https://www.simple-talk.com/dotnet/.net-framework/fluent-code-in-c/</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">Simple Talk RSS Feed</Property>
-    <Property Name="Title" Type="System.String">Fluent Code in C#</Property>
-    <Property Name="Description" Type="System.String">In LINQ, the 'fluent' method syntax  flows logically and intuitively, and allows them to be combined simply, because each method returns the appropriate type of object for the next. Can this fluent technique be extended as an API style to make it easier to develop C# team-based applications for enterprises? </Property>
-    <Property Name="Publication" Type="System.String">simple-talk</Property>
-    <Property Name="Stream" Type="System.String">Home Page</Property>
-    <Property Name="PageURL" Type="System.String">https://www.simple-talk.com/</Property>
-    <Property Name="PubDate" Type="System.DateTime">11/07/2013 01:00:00</Property>
-    <Property Name="author" Type="System.String">Tom Fischer</Property>
-    <Property Name="Ago" Type="System.String">13 days ago</Property>
-    <Property Name="link" Type="System.String">https://www.simple-talk.com/dotnet/.net-framework/fluent-code-in-c/</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">Simple Talk RSS Feed</Property>
-    <Property Name="Title" Type="System.String">Continuous Integration for SQL Server Part III â€“ Deployment</Property>
-    <Property Name="Description" Type="System.String">In this article, I&amp;#8217;ll describe the next stage in implementing a full Continuous Integration and Deployment process for SQL Server databases: Deployment. This post follows on directly from my previous post on Continuous Integration and testing for SQL Server. Following the steps in this previous post is a pre-requisite to following the steps below, though [...]</Property>
-    <Property Name="Publication" Type="System.String">simple-talk</Property>
-    <Property Name="Stream" Type="System.String">Home Page</Property>
-    <Property Name="PageURL" Type="System.String">https://www.simple-talk.com/</Property>
-    <Property Name="PubDate" Type="System.DateTime">10/07/2013 11:51:44</Property>
-    <Property Name="author" Type="System.String">Ben Rees</Property>
-    <Property Name="Ago" Type="System.String">14 days ago</Property>
-    <Property Name="link" Type="System.String">https://www.simple-talk.com/blogs/2013/07/10/continuous-integration-for-sql-server-part-iii-deployment/</Property>
   </Object>
   <Object Type="System.Management.Automation.PSCustomObject">
     <Property Name="Feed" Type="System.String">Simple-Talk blogs</Property>
@@ -1182,144 +917,19 @@ There is also a pre-conference session presented by Bill Pearson on Practical Se
     <Property Name="PageURL" Type="System.String">https://www.simple-talk.com/blogs/</Property>
     <Property Name="PubDate" Type="System.DateTime">10/07/2013 10:51:44</Property>
     <Property Name="author" Type="System.String">Ben Rees</Property>
-    <Property Name="Ago" Type="System.String">14 days ago</Property>
+    <Property Name="Ago" Type="System.String">18 days ago</Property>
     <Property Name="link" Type="System.String">https://www.simple-talk.com/blogs/2013/07/10/continuous-integration-for-sql-server-part-iii-deployment/</Property>
   </Object>
   <Object Type="System.Management.Automation.PSCustomObject">
     <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles tagged Editorial</Property>
     <Property Name="Title" Type="System.String">Programming</Property>
-    <Property Name="Description" Type="System.String">Programming is an important skill, perhaps extremely important for the future. Steve Jones thinks that's true.
-                   Make working with SQL a breezeSQL Prompt 5 is the effortless way to write, edit, and explore SQL. It's packed with features such as code completion, script summaries, and SQL reformatting, that make working with SQL a breeze.  Try it now.   
-
-
-
-</Property>
+    <Property Name="Description" Type="System.String">Programming is an important skill, perhaps extremely important for the future. Steve Jones thinks that's true.</Property>
     <Property Name="Publication" Type="System.String">SQL Server Central</Property>
     <Property Name="Stream" Type="System.String">Editorials</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/Editorial</Property>
-    <Property Name="PubDate" Type="System.DateTime">10/07/2013 06:00:00</Property>
-    <Property Name="author" Type="" />
-    <Property Name="Ago" Type="System.String">14 days ago</Property>
-    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/articles/Editorial/100553/</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles tagged Editorial</Property>
-    <Property Name="Title" Type="System.String">Reporting on Data</Property>
-    <Property Name="Description" Type="System.String">Reporting is an important skill for many data professionals. Steve Jones has a few things you might consider working on as a data professional.</Property>
-    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
-    <Property Name="Stream" Type="System.String">Editorials</Property>
-    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/Editorial</Property>
-    <Property Name="PubDate" Type="System.DateTime">09/07/2013 06:00:00</Property>
-    <Property Name="author" Type="" />
-    <Property Name="Ago" Type="System.String">15 days ago</Property>
-    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/articles/Editorial/100032/</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">Simple Talk RSS Feed</Property>
-    <Property Name="Title" Type="System.String">SQL Server ALTER TABLE syntax diagrams</Property>
-    <Property Name="Description" Type="System.String">The words in the documentation for the ALTER TABLE syntax on MSDN are accurate with forensic precision, but the potentially-useful 'syntax diagrams' look, to the untrained eye, to be the result of someone accidentally sitting on the keyboard. The answer for ordinary mortals like us who need to understand the syntax is to have railroad diagrams as well.</Property>
-    <Property Name="Publication" Type="System.String">simple-talk</Property>
-    <Property Name="Stream" Type="System.String">SQL Articles</Property>
-    <Property Name="PageURL" Type="System.String">https://www.simple-talk.com/sql/</Property>
-    <Property Name="PubDate" Type="System.DateTime">09/07/2013 01:00:00</Property>
-    <Property Name="author" Type="System.String">Phil Factor</Property>
-    <Property Name="Ago" Type="System.String">15 days ago</Property>
-    <Property Name="link" Type="System.String">https://www.simple-talk.com/sql/t-sql-programming/sql-server-alter-table-syntax-diagrams/</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">Simple Talk RSS Feed</Property>
-    <Property Name="Title" Type="System.String">SQL Server ALTER TABLE syntax diagrams</Property>
-    <Property Name="Description" Type="System.String">The words in the documentation for the ALTER TABLE syntax on MSDN are accurate with forensic precision, but the potentially-useful 'syntax diagrams' look, to the untrained eye, to be the result of someone accidentally sitting on the keyboard. The answer for ordinary mortals like us who need to understand the syntax is to have railroad diagrams as well.</Property>
-    <Property Name="Publication" Type="System.String">simple-talk</Property>
-    <Property Name="Stream" Type="System.String">Home Page</Property>
-    <Property Name="PageURL" Type="System.String">https://www.simple-talk.com/</Property>
-    <Property Name="PubDate" Type="System.DateTime">09/07/2013 01:00:00</Property>
-    <Property Name="author" Type="System.String">Phil Factor</Property>
-    <Property Name="Ago" Type="System.String">15 days ago</Property>
-    <Property Name="link" Type="System.String">https://www.simple-talk.com/sql/t-sql-programming/sql-server-alter-table-syntax-diagrams/</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">Simple-Talk blogs</Property>
-    <Property Name="Title" Type="System.String">News From EAP Testing</Property>
-    <Property Name="Description" Type="System.String">There is a phrase that goes something like &amp;#8220;Watch the pennies and the pounds/dollars will take care of themselves&amp;#8221;, meaning that if you pay attention to the small things then the larger things are going to fare well too. I am lucky enough to be a Friend of Red Gate and once in a while [...]</Property>
-    <Property Name="Publication" Type="System.String">simple-talk</Property>
-    <Property Name="Stream" Type="System.String">Blogs</Property>
-    <Property Name="PageURL" Type="System.String">https://www.simple-talk.com/blogs/</Property>
-    <Property Name="PubDate" Type="System.DateTime">08/07/2013 15:16:23</Property>
-    <Property Name="author" Type="System.String">Fatherjack</Property>
-    <Property Name="Ago" Type="System.String">16 days ago</Property>
-    <Property Name="link" Type="System.String">https://www.simple-talk.com/blogs/2013/07/08/news-from-eap-testing/</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles tagged Editorial</Property>
-    <Property Name="Title" Type="System.String">Your Frame of Reference</Property>
-    <Property Name="Description" Type="System.String">How you examine and approach a problem might have a large impact on how you solve it. Steve Jones notes that it's important that all of us look at the problem from the point of view of the customer, as well as our own view.</Property>
-    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
-    <Property Name="Stream" Type="System.String">Editorials</Property>
-    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/Editorial</Property>
-    <Property Name="PubDate" Type="System.DateTime">08/07/2013 06:00:00</Property>
-    <Property Name="author" Type="" />
-    <Property Name="Ago" Type="System.String">16 days ago</Property>
-    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/articles/Editorial/100485/</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">Simple Talk RSS Feed</Property>
-    <Property Name="Title" Type="System.String">Creating a Business Intelligence Dashboard with R and ASP.NET MVC: Part 1</Property>
-    <Property Name="Description" Type="System.String">It is possible to  use the R statistical package to extract Business Intelligence from the data in a SQL Server database, and render graphs and tables in HTML to give you a BI Dashboard in an ASP.NET MVC website. Sergei gives you a step-by-step guide. </Property>
-    <Property Name="Publication" Type="System.String">simple-talk</Property>
-    <Property Name="Stream" Type="System.String">.NET Articles</Property>
-    <Property Name="PageURL" Type="System.String">https://www.simple-talk.com/dotnet/</Property>
-    <Property Name="PubDate" Type="System.DateTime">08/07/2013 01:00:00</Property>
-    <Property Name="author" Type="System.String">Sergei Dumnov</Property>
-    <Property Name="Ago" Type="System.String">16 days ago</Property>
-    <Property Name="link" Type="System.String">https://www.simple-talk.com/dotnet/asp.net/creating-a-business-intelligence-dashboard-with-r-and-asp.net-mvc-part-1/</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">Simple Talk RSS Feed</Property>
-    <Property Name="Title" Type="System.String">Columnstore Queries in SQL Server 2012</Property>
-    <Property Name="Description" Type="System.String">On demo, the columnstore index of SQL Server 2012 gives dazzling performance, but it is optimised for data warehouse  queries so it is by no means a universal route to high-performance queries. Once you understand the context in which they are best used, and the ways of ensuring that they work as intended, they can be extremely useful.</Property>
-    <Property Name="Publication" Type="System.String">simple-talk</Property>
-    <Property Name="Stream" Type="System.String">SQL Articles</Property>
-    <Property Name="PageURL" Type="System.String">https://www.simple-talk.com/sql/</Property>
-    <Property Name="PubDate" Type="System.DateTime">08/07/2013 01:00:00</Property>
-    <Property Name="author" Type="System.String">Roy Ernest</Property>
-    <Property Name="Ago" Type="System.String">16 days ago</Property>
-    <Property Name="link" Type="System.String">https://www.simple-talk.com/sql/t-sql-programming/columnstore-queries-in-sql-server-2012/</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">Simple Talk RSS Feed</Property>
-    <Property Name="Title" Type="System.String">Columnstore Queries in SQL Server 2012</Property>
-    <Property Name="Description" Type="System.String">On demo, the columnstore index of SQL Server 2012 gives dazzling performance, but it is optimised for data warehouse  queries so it is by no means a universal route to high-performance queries. Once you understand the context in which they are best used, and the ways of ensuring that they work as intended, they can be extremely useful.</Property>
-    <Property Name="Publication" Type="System.String">simple-talk</Property>
-    <Property Name="Stream" Type="System.String">Home Page</Property>
-    <Property Name="PageURL" Type="System.String">https://www.simple-talk.com/</Property>
-    <Property Name="PubDate" Type="System.DateTime">08/07/2013 01:00:00</Property>
-    <Property Name="author" Type="System.String">Roy Ernest</Property>
-    <Property Name="Ago" Type="System.String">16 days ago</Property>
-    <Property Name="link" Type="System.String">https://www.simple-talk.com/sql/t-sql-programming/columnstore-queries-in-sql-server-2012/</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">Simple Talk RSS Feed</Property>
-    <Property Name="Title" Type="System.String">Creating a Business Intelligence Dashboard with R and ASP.NET MVC: Part 1</Property>
-    <Property Name="Description" Type="System.String">It is possible to  use the R statistical package to extract Business Intelligence from the data in a SQL Server database, and render graphs and tables in HTML to give you a BI Dashboard in an ASP.NET MVC website. Sergei gives you a step-by-step guide. </Property>
-    <Property Name="Publication" Type="System.String">simple-talk</Property>
-    <Property Name="Stream" Type="System.String">Home Page</Property>
-    <Property Name="PageURL" Type="System.String">https://www.simple-talk.com/</Property>
-    <Property Name="PubDate" Type="System.DateTime">08/07/2013 01:00:00</Property>
-    <Property Name="author" Type="System.String">Sergei Dumnov</Property>
-    <Property Name="Ago" Type="System.String">16 days ago</Property>
-    <Property Name="link" Type="System.String">https://www.simple-talk.com/dotnet/asp.net/creating-a-business-intelligence-dashboard-with-r-and-asp.net-mvc-part-1/</Property>
-  </Object>
-  <Object Type="System.Management.Automation.PSCustomObject">
-    <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles tagged Editorial</Property>
-    <Property Name="Title" Type="System.String">A Better Conference</Property>
-    <Property Name="Description" Type="System.String">Is there a better way to put together a conference or event? Today Steve Jones speculates on how events are run and how we might change things.</Property>
-    <Property Name="Publication" Type="System.String">SQL Server Central</Property>
-    <Property Name="Stream" Type="System.String">Editorials</Property>
-    <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/Editorial</Property>
-    <Property Name="PubDate" Type="System.DateTime">05/07/2013 06:00:00</Property>
+    <Property Name="PubDate" Type="System.DateTime">10/07/2013 07:00:00</Property>
     <Property Name="author" Type="" />
     <Property Name="Ago" Type="System.String">19 days ago</Property>
-    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/articles/Editorial/100446/</Property>
+    <Property Name="link" Type="System.String">http://www.sqlservercentral.com/articles/Editorial/100553/</Property>
   </Object>
 </Objects>
