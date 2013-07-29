@@ -13,6 +13,29 @@ function truncate([string]$value, [int]$MaxLength)
     else { $value }
 }
 
+function ConvertDateFromRFC822([string]$RFC822Data)
+{
+switch -regex ($RFC822Data)
+{
+   ( '(^.*)UT' )  { $matches[1]+ 'GMT'     ; break }
+   ( '(^.*)EST' )  { $matches[1]+ '-05:00' ; break }
+   ( '(^.*)EDT' )  { $matches[1]+ '-04:00' ; break }
+   ( '(^.*)CST' )  { $matches[1]+ '-06:00' ; break }
+   ( '(^.*)CDT' )  { $matches[1]+ '-05:00' ; break }
+   ( '(^.*)MST' )  { $matches[1]+ '-07:00' ; break }
+   ( '(^.*)MDT' )  { $matches[1]+ '-06:00' ; break }
+   ( '(^.*)PST' )  { $matches[1]+ '-08:00' ; break }
+   ( '(^.*)PDT' )  { $matches[1]+ '-07:00' ; break }
+   ( '(^.*)Z' )    { $matches[1]+ 'GMT'    ; break }
+   ( '(^.*)A' )    { $matches[1]+ '-01:00' ; break }
+   ( '(^.*)M' )    { $matches[1]+ '-12:00' ; break }
+   ( '(^.*)N' )    { $matches[1]+ '+01:00' ; break }
+   ( '(^.*)Y' )    { $matches[1]+ '+12:00' ; break }
+      default         { $_ }
+}
+
+}
+
 [xml]$opml= Get-Content $MyOPMLFile # grab the OPML file of feeds
 [xml]$Output=$opml.opml.body.outline.outline | 
    select @{name="Title"; Expression={$_.title}},
@@ -57,16 +80,13 @@ But you are also likely to find ..
       @{name="Publication"; Expression={$Publication}},
       @{name="Stream"; Expression={$Stream}},
       @{name="PageURL"; Expression={$PageURL}},
-      @{name="PubDate"; Expression = {try {
-                                        $givenDate = get-date($_.PubDate -replace "UT", "+05:00")
-                                        [system.timezoneinfo]::ConvertTimeToUtc($givenDate)
-                                        } # force it into a PS date  
+      @{name="PubDate"; Expression = {try {get-date (ConvertDateFromRFC822($_.PubDate))} # force it into a PS date  
                                        catch {Get-Date '01 January 2006 00:00:00'}}}, 
+      @{name="Color"; Expression={$Color}},
       @{name="author"; Expression = {try {if ( $_.author.length -eq 0) {$_.creator} 
                                            else {$_.author}} 
                                       catch{'Unknown Author'}}},
-      @{name="Color"; Expression={$Color}},
-      @{name="Ago"; Expression={switch ($([datetime]::Now - $(get-date ($_.PubDate -replace  "UT")) ).Days)
+      @{name="Ago"; Expression={switch ($([datetime]::Now - $(get-date (ConvertDateFromRFC822 ($_.PubDate))) ).Days)
 		    { 
 		        0 {"Today"} 
 				  1 {"Yesterday"} 
