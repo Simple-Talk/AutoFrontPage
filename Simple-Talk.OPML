@@ -6,7 +6,6 @@
     </head>
     <body>
         <outline text="Simple-Talk">
-            <outline text="Home Page" title="Home Page" type="rss" xmlUrl="https://www.simple-talk.com/feed/" htmlUrl="https://www.simple-talk.com/" color="92171a"/>
             <outline text="SQL Articles" title="SQL Articles" type="rss" xmlUrl="https://www.simple-talk.com/sql/rss.aspx" htmlUrl="https://www.simple-talk.com/sql/" color="92171a"/>
             <outline text=".NET Articles" title=".NET Articles" type="rss" xmlUrl="https://www.simple-talk.com/dotnet/rss.aspx" htmlUrl="https://www.simple-talk.com/dotnet/" color="92171a"/>
             <outline text="SysAdmin Articles" title="SysAdmin Articles" type="rss" xmlUrl="https://www.simple-talk.com/sysadmin/rss.aspx" htmlUrl="https://www.simple-talk.com/sysadmin/" color="92171a"/>
