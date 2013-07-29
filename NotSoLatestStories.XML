@@ -310,8 +310,7 @@ w\:* {behavior:url(#default#VML);}
   <Object Type="System.Management.Automation.PSCustomObject">
     <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles</Property>
     <Property Name="Title" Type="System.String">PowerShell the SQL Server Way</Property>
-    <Property Name="Description" Type="System.String">Although Windows PowerShell has been available to IT professionals going on seven years, there are still many IT pros who are just now deciding to see what the fuss is all about. Depending on your job, you might find PowerShell an invaluable tool. Microsoft's plan is that PowerShell will be the management tool for all of its servers and platforms. For most IT pros, it's not a matter of if you'll be using PowerShell, only a matter of when.
-                   Get your SQL Server database under ver</Property>
+    <Property Name="Description" Type="System.String">Although Windows PowerShell has been available to IT professionals going on seven years, there are still many IT pros who are just now deciding to see what the fuss is all about. Depending on your job, you might find PowerShell an invaluable tool. Microsoft's plan is that PowerShell will be the management tool for all of its servers and platforms. For most IT pros, it's not a matter of if you'll be using PowerShell, only a matter of when.</Property>
     <Property Name="Publication" Type="System.String">SQL Server Central</Property>
     <Property Name="Stream" Type="System.String">Main Articles</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
@@ -484,8 +483,7 @@ It should only take a few minutes, and three randomly-selected people will win a
   <Object Type="System.Management.Automation.PSCustomObject">
     <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles</Property>
     <Property Name="Title" Type="System.String">AlwaysOn in SQL Server 2014 CTP1</Property>
-    <Property Name="Description" Type="System.String">AlwaysOn encompasses the SQL Server solutions for mission-critical high availability and disaster recovery. Two solutions were included under the AlwaysOn umbrella in SQL Server 2012: Availability Groups and Failover Cluster Instances. Each solution has different characteristics, making them appropriate for different scenarios, and both can be combined in the same deployment.
-                   12 essential tools for database professionalsThe SQL Developer Bundle contains 12 tools designed with </Property>
+    <Property Name="Description" Type="System.String">AlwaysOn encompasses the SQL Server solutions for mission-critical high availability and disaster recovery. Two solutions were included under the AlwaysOn umbrella in SQL Server 2012: Availability Groups and Failover Cluster Instances. Each solution has different characteristics, making them appropriate for different scenarios, and both can be combined in the same deployment.</Property>
     <Property Name="Publication" Type="System.String">SQL Server Central</Property>
     <Property Name="Stream" Type="System.String">Main Articles</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
@@ -524,7 +522,9 @@ It should only take a few minutes, and three randomly-selected people will win a
   <Object Type="System.Management.Automation.PSCustomObject">
     <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles</Property>
     <Property Name="Title" Type="System.String">Stairway to Server-side Tracing - Level 3: Creating a SQL Trace Using SQL Server Profiler</Property>
-    <Property Name="Description" Type="System.String">In this third article of our Stairway Series on tracing, Dan Guzman goes into the method of using Profiler to help you create a custom trace of the events that you need to monitor.</Property>
+    <Property Name="Description" Type="System.String">In this third article of our Stairway Series on tracing, Dan Guzman goes into the method of using Profiler to help you create a custom trace of the events that you need to monitor.
+                   Check SQL Server performance at a glanceWe consulted 1000 SQL Server professionals to make SQL Monitor’s UI as clear as possible.  Start monitoring with a free trial.   
+</Property>
     <Property Name="Publication" Type="System.String">SQL Server Central</Property>
     <Property Name="Stream" Type="System.String">Main Articles</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
@@ -680,12 +680,7 @@ It should only take a few minutes, and three randomly-selected people will win a
   <Object Type="System.Management.Automation.PSCustomObject">
     <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles tagged Editorial</Property>
     <Property Name="Title" Type="System.String">Hiring Heterogeneously</Property>
-    <Property Name="Description" Type="System.String">Hiring a diverse group of people can make your team work better. Steve Jones has a few thoughts today.
-                   ‘10 Tips for Efficient Disaster Recovery’Steve Jones gives the final lesson in the ‘Top 5 Hard-earned Lessons of a DBA’.  Read now and learn from the best.    
-
-
-
-</Property>
+    <Property Name="Description" Type="System.String">Hiring a diverse group of people can make your team work better. Steve Jones has a few thoughts today.</Property>
     <Property Name="Publication" Type="System.String">SQL Server Central</Property>
     <Property Name="Stream" Type="System.String">Editorials</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/Editorial</Property>
@@ -972,7 +967,13 @@ There is also a pre-conference session presented by Bill Pearson on Practical Se
   <Object Type="System.Management.Automation.PSCustomObject">
     <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles tagged Editorial</Property>
     <Property Name="Title" Type="System.String">Programming</Property>
-    <Property Name="Description" Type="System.String">Programming is an important skill, perhaps extremely important for the future. Steve Jones thinks that's true.</Property>
+    <Property Name="Description" Type="System.String">Programming is an important skill, perhaps extremely important for the future. Steve Jones thinks that's true.
+                   Total DeploymentEnjoy easy release management for your .NET apps, services, and databases with Deployment Manager.  Get your free Starter edition now   
+
+
+
+
+</Property>
     <Property Name="Publication" Type="System.String">SQL Server Central</Property>
     <Property Name="Stream" Type="System.String">Editorials</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/Editorial</Property>

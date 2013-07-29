@@ -13,7 +13,7 @@ function truncate([string]$value, [int]$MaxLength)
     else { $value }
 }
 
-function ConvertDateFromRFC922([string]$RFC822Data)
+function ConvertDateFromRFC822([string]$RFC822Data)
 {
 switch -regex ($RFC822Data)
 {
@@ -80,13 +80,13 @@ But you are also likely to find ..
       @{name="Publication"; Expression={$Publication}},
       @{name="Stream"; Expression={$Stream}},
       @{name="PageURL"; Expression={$PageURL}},
-      @{name="PubDate"; Expression = {try {get-date (ConvertDateFromRFC922($_.PubDate))} # force it into a PS date  
+      @{name="PubDate"; Expression = {try {get-date (ConvertDateFromRFC822($_.PubDate))} # force it into a PS date  
                                        catch {Get-Date '01 January 2006 00:00:00'}}}, 
       @{name="Color"; Expression={$Color}},
       @{name="author"; Expression = {try {if ( $_.author.length -eq 0) {$_.creator} 
                                            else {$_.author}} 
                                       catch{'Unknown Author'}}},
-      @{name="Ago"; Expression={switch ($([datetime]::Now - $(get-date (ConvertDateFromRFC922 ($_.PubDate))) ).Days)
+      @{name="Ago"; Expression={switch ($([datetime]::Now - $(get-date (ConvertDateFromRFC822 ($_.PubDate))) ).Days)
 		    { 
 		        0 {"Today"} 
 				  1 {"Yesterday"} 
