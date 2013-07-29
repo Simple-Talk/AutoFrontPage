@@ -8,6 +8,7 @@
     <Property Name="Stream" Type="System.String">Blogs</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/blogs/</Property>
     <Property Name="PubDate" Type="System.DateTime">29/07/2013 13:27:45</Property>
+    <Property Name="Color" Type="System.String">325181</Property>
     <Property Name="author" Type="" />
     <Property Name="Ago" Type="System.String">Today</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/coffee-and-sql/2013/07/29/free-ebooks-free-ebooks/</Property>
@@ -21,6 +22,7 @@ I believe itâ€™s our job to do more than just vote. If w</Property>
     <Property Name="Stream" Type="System.String">Blogs</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/blogs/</Property>
     <Property Name="PubDate" Type="System.DateTime">29/07/2013 08:07:14</Property>
+    <Property Name="Color" Type="System.String">325181</Property>
     <Property Name="author" Type="" />
     <Property Name="Ago" Type="System.String">Today</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/andy_warren/2013/07/29/encourage-someone-you-respect-to-run-for-the-pass-board-of-directors/</Property>
@@ -33,6 +35,7 @@ I believe itâ€™s our job to do more than just vote. If w</Property>
     <Property Name="Stream" Type="System.String">Main Articles</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
     <Property Name="PubDate" Type="System.DateTime">29/07/2013 07:00:00</Property>
+    <Property Name="Color" Type="System.String">325181</Property>
     <Property Name="author" Type="" />
     <Property Name="Ago" Type="System.String">Today</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/redirect/articles/100382/</Property>
@@ -45,6 +48,7 @@ I believe itâ€™s our job to do more than just vote. If w</Property>
     <Property Name="Stream" Type="System.String">Main Articles</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
     <Property Name="PubDate" Type="System.DateTime">29/07/2013 07:00:00</Property>
+    <Property Name="Color" Type="System.String">325181</Property>
     <Property Name="author" Type="" />
     <Property Name="Ago" Type="System.String">Today</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/articles/Lookup/100391/</Property>
@@ -57,6 +61,7 @@ I believe itâ€™s our job to do more than just vote. If w</Property>
     <Property Name="Stream" Type="System.String">Editorials</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/Editorial</Property>
     <Property Name="PubDate" Type="System.DateTime">29/07/2013 07:00:00</Property>
+    <Property Name="Color" Type="System.String">325181</Property>
     <Property Name="author" Type="" />
     <Property Name="Ago" Type="System.String">Today</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/articles/Editorial/100746/</Property>
@@ -72,6 +77,7 @@ After a period of fragmentation where our meetings seemed to be at random interv
     <Property Name="Stream" Type="System.String">Blogs</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/blogs/</Property>
     <Property Name="PubDate" Type="System.DateTime">29/07/2013 04:29:50</Property>
+    <Property Name="Color" Type="System.String">325181</Property>
     <Property Name="author" Type="" />
     <Property Name="Ago" Type="System.String">Today</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/martin_catherall/2013/07/28/sql-saturday-252-christchurch-new-zealand/</Property>
@@ -85,6 +91,7 @@ Yesterday I&amp;nbsp;presented two sessions&amp;nbsp;at the SQL Saturday event i
     <Property Name="Stream" Type="System.String">Blogs</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/blogs/</Property>
     <Property Name="PubDate" Type="System.DateTime">29/07/2013 00:57:15</Property>
+    <Property Name="Color" Type="System.String">325181</Property>
     <Property Name="author" Type="" />
     <Property Name="Ago" Type="System.String">Today</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/technobabble-by-klee-from-kleegeek/2013/07/28/sql-saturday-sacramento-was-terrific/</Property>
@@ -99,6 +106,7 @@ The next quest</Property>
     <Property Name="Stream" Type="System.String">Blogs</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/blogs/</Property>
     <Property Name="PubDate" Type="System.DateTime">27/07/2013 22:00:21</Property>
+    <Property Name="Color" Type="System.String">325181</Property>
     <Property Name="author" Type="" />
     <Property Name="Ago" Type="System.String">Yesterday</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/stratesql/2013/07/27/security-questions-recommended-security-book/</Property>
@@ -111,6 +119,7 @@ The next quest</Property>
     <Property Name="Stream" Type="System.String">Blogs</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/blogs/</Property>
     <Property Name="PubDate" Type="System.DateTime">27/07/2013 08:09:23</Property>
+    <Property Name="Color" Type="System.String">325181</Property>
     <Property Name="author" Type="" />
     <Property Name="Ago" Type="System.String">2 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/coffee-and-sql/2013/07/27/go-ahead-laugh/</Property>
@@ -125,6 +134,7 @@ The foundation of database performance is the underlying server hardware and sto
     <Property Name="Stream" Type="System.String">Blogs</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/blogs/</Property>
     <Property Name="PubDate" Type="System.DateTime">27/07/2013 03:43:29</Property>
+    <Property Name="Color" Type="System.String">325181</Property>
     <Property Name="author" Type="" />
     <Property Name="Ago" Type="System.String">2 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/glennberry/2013/07/26/hardware-201-selecting-and-sizing-database-hardware/</Property>
@@ -137,6 +147,7 @@ The foundation of database performance is the underlying server hardware and sto
     <Property Name="Stream" Type="System.String">Blogs</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/blogs/</Property>
     <Property Name="PubDate" Type="System.DateTime">27/07/2013 00:43:00</Property>
+    <Property Name="Color" Type="System.String">325181</Property>
     <Property Name="author" Type="" />
     <Property Name="Ago" Type="System.String">2 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/sqlballs/2013/07/26/sql-server-login-errors/</Property>
@@ -151,6 +162,7 @@ Extended events provide DBAs with a powerful tool that can be used to troublesho
     <Property Name="Stream" Type="System.String">Blogs</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/blogs/</Property>
     <Property Name="PubDate" Type="System.DateTime">27/07/2013 00:20:55</Property>
+    <Property Name="Color" Type="System.String">325181</Property>
     <Property Name="author" Type="" />
     <Property Name="Ago" Type="System.String">2 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/stratesql/2013/07/26/webcast-presentation-materials-5-amazing-reasons-dbas-need-to-love-extended-events/</Property>
@@ -163,6 +175,7 @@ Extended events provide DBAs with a powerful tool that can be used to troublesho
     <Property Name="Stream" Type="System.String">Blogs</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/blogs/</Property>
     <Property Name="PubDate" Type="System.DateTime">26/07/2013 22:24:00</Property>
+    <Property Name="Color" Type="System.String">325181</Property>
     <Property Name="author" Type="" />
     <Property Name="Ago" Type="System.String">2 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/sqlserver365/2013/07/26/disaster-recovery-part-1-possibly-almost-everything-but-the-kit/</Property>
@@ -179,6 +192,7 @@ Moving</Property>
     <Property Name="Stream" Type="System.String">Blogs</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/blogs/</Property>
     <Property Name="PubDate" Type="System.DateTime">26/07/2013 22:00:30</Property>
+    <Property Name="Color" Type="System.String">325181</Property>
     <Property Name="author" Type="" />
     <Property Name="Ago" Type="System.String">2 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/stratesql/2013/07/26/reblog-july-19-to-july-25/</Property>
@@ -192,6 +206,7 @@ Itâ€™s also the un-official end of summer for me. Kids go back to school in
     <Property Name="Stream" Type="System.String">Blogs</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/blogs/</Property>
     <Property Name="PubDate" Type="System.DateTime">26/07/2013 21:00:00</Property>
+    <Property Name="Color" Type="System.String">325181</Property>
     <Property Name="author" Type="" />
     <Property Name="Ago" Type="System.String">2 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/andy_warren/2013/07/26/headed-to-cocoa-for-sqlsaturday-231/</Property>
@@ -206,6 +221,7 @@ Donâ€™t Store Them! PCI compliance is complex and expensive. Getting hacked
     <Property Name="Stream" Type="System.String">Blogs</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/blogs/</Property>
     <Property Name="PubDate" Type="System.DateTime">26/07/2013 20:00:00</Property>
+    <Property Name="Color" Type="System.String">325181</Property>
     <Property Name="author" Type="" />
     <Property Name="Ago" Type="System.String">2 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/andy_warren/2013/07/26/the-sqlandy-rules-for-storing-credit-card-numbers/</Property>
@@ -273,6 +289,7 @@ w\:* {behavior:url(#default#VML);}
     <Property Name="Stream" Type="System.String">Blogs</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/blogs/</Property>
     <Property Name="PubDate" Type="System.DateTime">26/07/2013 19:33:00</Property>
+    <Property Name="Color" Type="System.String">325181</Property>
     <Property Name="author" Type="" />
     <Property Name="Ago" Type="System.String">2 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/pearlknows/2013/07/26/page-split-mini-series-part-ii-page-latch-contention/</Property>
@@ -285,6 +302,7 @@ w\:* {behavior:url(#default#VML);}
     <Property Name="Stream" Type="System.String">Main Articles</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
     <Property Name="PubDate" Type="System.DateTime">26/07/2013 07:00:00</Property>
+    <Property Name="Color" Type="System.String">325181</Property>
     <Property Name="author" Type="" />
     <Property Name="Ago" Type="System.String">3 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/articles/Database+Mirroring/72009/</Property>
@@ -292,11 +310,13 @@ w\:* {behavior:url(#default#VML);}
   <Object Type="System.Management.Automation.PSCustomObject">
     <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles</Property>
     <Property Name="Title" Type="System.String">PowerShell the SQL Server Way</Property>
-    <Property Name="Description" Type="System.String">Although Windows PowerShell has been available to IT professionals going on seven years, there are still many IT pros who are just now deciding to see what the fuss is all about. Depending on your job, you might find PowerShell an invaluable tool. Microsoft's plan is that PowerShell will be the management tool for all of its servers and platforms. For most IT pros, it's not a matter of if you'll be using PowerShell, only a matter of when.</Property>
+    <Property Name="Description" Type="System.String">Although Windows PowerShell has been available to IT professionals going on seven years, there are still many IT pros who are just now deciding to see what the fuss is all about. Depending on your job, you might find PowerShell an invaluable tool. Microsoft's plan is that PowerShell will be the management tool for all of its servers and platforms. For most IT pros, it's not a matter of if you'll be using PowerShell, only a matter of when.
+                   Get your SQL Server database under ver</Property>
     <Property Name="Publication" Type="System.String">SQL Server Central</Property>
     <Property Name="Stream" Type="System.String">Main Articles</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
     <Property Name="PubDate" Type="System.DateTime">26/07/2013 07:00:00</Property>
+    <Property Name="Color" Type="System.String">325181</Property>
     <Property Name="author" Type="" />
     <Property Name="Ago" Type="System.String">3 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/redirect/articles/100381/</Property>
@@ -309,6 +329,7 @@ w\:* {behavior:url(#default#VML);}
     <Property Name="Stream" Type="System.String">Editorials</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/Editorial</Property>
     <Property Name="PubDate" Type="System.DateTime">26/07/2013 07:00:00</Property>
+    <Property Name="Color" Type="System.String">325181</Property>
     <Property Name="author" Type="" />
     <Property Name="Ago" Type="System.String">3 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/articles/humor/99113/</Property>
@@ -326,6 +347,7 @@ CONVERT(VARCHAR(25), DB.name</Property>
     <Property Name="Stream" Type="System.String">Blogs</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/blogs/</Property>
     <Property Name="PubDate" Type="System.DateTime">25/07/2013 23:21:22</Property>
+    <Property Name="Color" Type="System.String">325181</Property>
     <Property Name="author" Type="" />
     <Property Name="Ago" Type="System.String">3 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/powersql-by-prashanth-jayaram/2013/07/25/sql-query-to-find-datalogtotal-size-and-other-useful-information-of-all-databases-sql-200020052008r2/</Property>
@@ -345,6 +367,7 @@ Microsoft SQL Server 2014 In-Memory OLTP: Management Deep Dive
     <Property Name="Stream" Type="System.String">Blogs</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/blogs/</Property>
     <Property Name="PubDate" Type="System.DateTime">25/07/2013 22:00:21</Property>
+    <Property Name="Color" Type="System.String">325181</Property>
     <Property Name="author" Type="" />
     <Property Name="Ago" Type="System.String">3 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/jamesserra/2013/07/25/teched-europe-2013-videos-online/</Property>
@@ -357,6 +380,7 @@ Microsoft SQL Server 2014 In-Memory OLTP: Management Deep Dive
     <Property Name="Stream" Type="System.String">Blogs</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/blogs/</Property>
     <Property Name="PubDate" Type="System.DateTime">25/07/2013 20:58:00</Property>
+    <Property Name="Color" Type="System.String">325181</Property>
     <Property Name="author" Type="" />
     <Property Name="Ago" Type="System.String">3 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/sqlserver365/2013/07/25/first-time-speaker/</Property>
@@ -370,6 +394,7 @@ Below is a capture of some of the filenames of images on my blog. The filenames 
     <Property Name="Stream" Type="System.String">Blogs</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/blogs/</Property>
     <Property Name="PubDate" Type="System.DateTime">25/07/2013 20:00:00</Property>
+    <Property Name="Color" Type="System.String">325181</Property>
     <Property Name="author" Type="" />
     <Property Name="Ago" Type="System.String">3 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/andy_warren/2013/07/25/blog-images-and-png-compression/</Property>
@@ -383,6 +408,7 @@ Location:&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; "xact.cpp":4175Expression:&amp
     <Property Name="Stream" Type="System.String">Blogs</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/blogs/</Property>
     <Property Name="PubDate" Type="System.DateTime">25/07/2013 19:43:23</Property>
+    <Property Name="Color" Type="System.String">325181</Property>
     <Property Name="author" Type="" />
     <Property Name="Ago" Type="System.String">3 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/rocks/2013/07/25/crash-when-inserting-to-a-filetable-with-a-parallel-plan/</Property>
@@ -395,6 +421,7 @@ Location:&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; "xact.cpp":4175Expression:&amp
     <Property Name="Stream" Type="System.String">Blogs</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/blogs/</Property>
     <Property Name="PubDate" Type="System.DateTime">25/07/2013 17:23:10</Property>
+    <Property Name="Color" Type="System.String">325181</Property>
     <Property Name="author" Type="" />
     <Property Name="Ago" Type="System.String">3 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/blogs/coffee-and-sql/2013/07/25/70-457-reviewer-07-resolving-concurrency-problems-in-sql-server-2012/</Property>
@@ -407,6 +434,7 @@ Location:&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; "xact.cpp":4175Expression:&amp
     <Property Name="Stream" Type="System.String">Main Articles</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
     <Property Name="PubDate" Type="System.DateTime">25/07/2013 07:00:00</Property>
+    <Property Name="Color" Type="System.String">325181</Property>
     <Property Name="author" Type="" />
     <Property Name="Ago" Type="System.String">4 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/redirect/articles/100752/</Property>
@@ -419,6 +447,7 @@ Location:&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; "xact.cpp":4175Expression:&amp
     <Property Name="Stream" Type="System.String">Editorials</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/Editorial</Property>
     <Property Name="PubDate" Type="System.DateTime">25/07/2013 07:00:00</Property>
+    <Property Name="Color" Type="System.String">325181</Property>
     <Property Name="author" Type="" />
     <Property Name="Ago" Type="System.String">4 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/articles/Editorial/64575/</Property>
@@ -431,6 +460,7 @@ Location:&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; "xact.cpp":4175Expression:&amp
     <Property Name="Stream" Type="System.String">Main Articles</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
     <Property Name="PubDate" Type="System.DateTime">25/07/2013 07:00:00</Property>
+    <Property Name="Color" Type="System.String">325181</Property>
     <Property Name="author" Type="" />
     <Property Name="Ago" Type="System.String">4 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/articles/powershell/72809/</Property>
@@ -441,12 +471,12 @@ Location:&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; "xact.cpp":4175Expression:&amp
     <Property Name="Description" Type="System.String">We want to make sure we're covering the things that are relevant to you, so we're asking for some feedback on what you use on SSC, where we need to improve, and what you'd like to see.
 
 It should only take a few minutes, and three randomly-selected people will win a $100 Amazon gift card for their efforts.
-
-                   Get your SQL Server database under version control now!Version control is standard for applications, but databases haven’t caught up. So how can you bring database developm</Property>
+</Property>
     <Property Name="Publication" Type="System.String">SQL Server Central</Property>
     <Property Name="Stream" Type="System.String">Main Articles</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
     <Property Name="PubDate" Type="System.DateTime">25/07/2013 07:00:00</Property>
+    <Property Name="Color" Type="System.String">325181</Property>
     <Property Name="author" Type="" />
     <Property Name="Ago" Type="System.String">4 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/redirect/articles/100841/</Property>
@@ -454,11 +484,13 @@ It should only take a few minutes, and three randomly-selected people will win a
   <Object Type="System.Management.Automation.PSCustomObject">
     <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles</Property>
     <Property Name="Title" Type="System.String">AlwaysOn in SQL Server 2014 CTP1</Property>
-    <Property Name="Description" Type="System.String">AlwaysOn encompasses the SQL Server solutions for mission-critical high availability and disaster recovery. Two solutions were included under the AlwaysOn umbrella in SQL Server 2012: Availability Groups and Failover Cluster Instances. Each solution has different characteristics, making them appropriate for different scenarios, and both can be combined in the same deployment.</Property>
+    <Property Name="Description" Type="System.String">AlwaysOn encompasses the SQL Server solutions for mission-critical high availability and disaster recovery. Two solutions were included under the AlwaysOn umbrella in SQL Server 2012: Availability Groups and Failover Cluster Instances. Each solution has different characteristics, making them appropriate for different scenarios, and both can be combined in the same deployment.
+                   12 essential tools for database professionalsThe SQL Developer Bundle contains 12 tools designed with </Property>
     <Property Name="Publication" Type="System.String">SQL Server Central</Property>
     <Property Name="Stream" Type="System.String">Main Articles</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
     <Property Name="PubDate" Type="System.DateTime">25/07/2013 07:00:00</Property>
+    <Property Name="Color" Type="System.String">325181</Property>
     <Property Name="author" Type="" />
     <Property Name="Ago" Type="System.String">4 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/redirect/articles/100380/</Property>
@@ -466,13 +498,12 @@ It should only take a few minutes, and three randomly-selected people will win a
   <Object Type="System.Management.Automation.PSCustomObject">
     <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles tagged Editorial</Property>
     <Property Name="Title" Type="System.String">Moving to the Heartland</Property>
-    <Property Name="Description" Type="System.String">With companies like Microsoft and Google building data centers in small towns, Steve Jones has some comments about how this might affect IT jobs.
-                   Check SQL Server performance at a glanceWe consulted 1000 SQL Server professionals to make SQL Monitor’s UI as clear as possible.  Start monitoring with a free trial.   
-</Property>
+    <Property Name="Description" Type="System.String">With companies like Microsoft and Google building data centers in small towns, Steve Jones has some comments about how this might affect IT jobs.</Property>
     <Property Name="Publication" Type="System.String">SQL Server Central</Property>
     <Property Name="Stream" Type="System.String">Editorials</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/Editorial</Property>
     <Property Name="PubDate" Type="System.DateTime">24/07/2013 07:00:00</Property>
+    <Property Name="Color" Type="System.String">325181</Property>
     <Property Name="author" Type="" />
     <Property Name="Ago" Type="System.String">5 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/articles/Editorial/64681/</Property>
@@ -485,6 +516,7 @@ It should only take a few minutes, and three randomly-selected people will win a
     <Property Name="Stream" Type="System.String">Main Articles</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
     <Property Name="PubDate" Type="System.DateTime">24/07/2013 07:00:00</Property>
+    <Property Name="Color" Type="System.String">325181</Property>
     <Property Name="author" Type="" />
     <Property Name="Ago" Type="System.String">5 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/redirect/articles/100379/</Property>
@@ -492,16 +524,12 @@ It should only take a few minutes, and three randomly-selected people will win a
   <Object Type="System.Management.Automation.PSCustomObject">
     <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles</Property>
     <Property Name="Title" Type="System.String">Stairway to Server-side Tracing - Level 3: Creating a SQL Trace Using SQL Server Profiler</Property>
-    <Property Name="Description" Type="System.String">In this third article of our Stairway Series on tracing, Dan Guzman goes into the method of using Profiler to help you create a custom trace of the events that you need to monitor.
-                   ‘10 Tips for Efficient Disaster Recovery’Steve Jones gives the final lesson in the ‘Top 5 Hard-earned Lessons of a DBA’.  Read now and learn from the best.    
-
-
-
-</Property>
+    <Property Name="Description" Type="System.String">In this third article of our Stairway Series on tracing, Dan Guzman goes into the method of using Profiler to help you create a custom trace of the events that you need to monitor.</Property>
     <Property Name="Publication" Type="System.String">SQL Server Central</Property>
     <Property Name="Stream" Type="System.String">Main Articles</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
     <Property Name="PubDate" Type="System.DateTime">24/07/2013 07:00:00</Property>
+    <Property Name="Color" Type="System.String">325181</Property>
     <Property Name="author" Type="" />
     <Property Name="Ago" Type="System.String">5 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/articles/SQL+Trace/71839/</Property>
@@ -514,6 +542,7 @@ It should only take a few minutes, and three randomly-selected people will win a
     <Property Name="Stream" Type="System.String">Main Articles</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
     <Property Name="PubDate" Type="System.DateTime">24/07/2013 07:00:00</Property>
+    <Property Name="Color" Type="System.String">325181</Property>
     <Property Name="author" Type="" />
     <Property Name="Ago" Type="System.String">5 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/redirect/articles/100634/</Property>
@@ -526,6 +555,7 @@ It should only take a few minutes, and three randomly-selected people will win a
     <Property Name="Stream" Type="System.String">Main Articles</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
     <Property Name="PubDate" Type="System.DateTime">24/07/2013 07:00:00</Property>
+    <Property Name="Color" Type="System.String">325181</Property>
     <Property Name="author" Type="" />
     <Property Name="Ago" Type="System.String">5 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/redirect/articles/99776/</Property>
@@ -534,10 +564,11 @@ It should only take a few minutes, and three randomly-selected people will win a
     <Property Name="Feed" Type="System.String">Simple-Talk blogs</Property>
     <Property Name="Title" Type="System.String">SQL Query for Determining SharePoint ACL Sizes</Property>
     <Property Name="Description" Type="System.String">When a SharePoint Access Control List (ACL) size exceeds more than 64kb for a particular URL, the contents under that URL become unsearchable due to limitations in the SharePoint search engine.&amp;#160; The error most often seen is The Parameter is Incorrect which really helps to pinpoint the problem (its difficult to convey extreme sarcasm here, [...]</Property>
-    <Property Name="Publication" Type="System.String">simple-talk</Property>
+    <Property Name="Publication" Type="System.String">Simple-Talk</Property>
     <Property Name="Stream" Type="System.String">Blogs</Property>
     <Property Name="PageURL" Type="System.String">https://www.simple-talk.com/blogs/</Property>
     <Property Name="PubDate" Type="System.DateTime">23/07/2013 13:15:39</Property>
+    <Property Name="Color" Type="System.String">92171a</Property>
     <Property Name="author" Type="System.String">Damon Armstrong</Property>
     <Property Name="Ago" Type="System.String">5 days ago</Property>
     <Property Name="link" Type="System.String">https://www.simple-talk.com/blogs/2013/07/23/sql-query-for-determining-sharepoint-acl-sizes/</Property>
@@ -545,12 +576,12 @@ It should only take a few minutes, and three randomly-selected people will win a
   <Object Type="System.Management.Automation.PSCustomObject">
     <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles</Property>
     <Property Name="Title" Type="System.String">Are my actual worker threads exceeding the sp_configure 'max worker threads' value?</Property>
-    <Property Name="Description" Type="System.String">Tom Stringer (@SQLife) was working on some HADR testing for a customer to simulate many availability groups and introduce significant load into the system to measure overhead and such. In his quest to do that he was seeing behavior that he couldn’t really explain and so worked with him to uncover what was happening under the covers. 
-                   12 essential tools for database professionalsThe SQL Developer Bundle contains 12 tools designed with the SQL Server developer and DBA in mind.  </Property>
+    <Property Name="Description" Type="System.String">Tom Stringer (@SQLife) was working on some HADR testing for a customer to simulate many availability groups and introduce significant load into the system to measure overhead and such. In his quest to do that he was seeing behavior that he couldn’t really explain and so worked with him to uncover what was happening under the covers. </Property>
     <Property Name="Publication" Type="System.String">SQL Server Central</Property>
     <Property Name="Stream" Type="System.String">Main Articles</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
     <Property Name="PubDate" Type="System.DateTime">23/07/2013 07:00:00</Property>
+    <Property Name="Color" Type="System.String">325181</Property>
     <Property Name="author" Type="" />
     <Property Name="Ago" Type="System.String">6 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/redirect/articles/100378/</Property>
@@ -563,6 +594,7 @@ It should only take a few minutes, and three randomly-selected people will win a
     <Property Name="Stream" Type="System.String">Editorials</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/Editorial</Property>
     <Property Name="PubDate" Type="System.DateTime">23/07/2013 07:00:00</Property>
+    <Property Name="Color" Type="System.String">325181</Property>
     <Property Name="author" Type="" />
     <Property Name="Ago" Type="System.String">6 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/articles/Editorial/64356/</Property>
@@ -575,6 +607,7 @@ It should only take a few minutes, and three randomly-selected people will win a
     <Property Name="Stream" Type="System.String">Main Articles</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
     <Property Name="PubDate" Type="System.DateTime">23/07/2013 07:00:00</Property>
+    <Property Name="Color" Type="System.String">325181</Property>
     <Property Name="author" Type="" />
     <Property Name="Ago" Type="System.String">6 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/articles/SQL+Monitoring/100615/</Property>
@@ -587,6 +620,7 @@ It should only take a few minutes, and three randomly-selected people will win a
     <Property Name="Stream" Type="System.String">Main Articles</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
     <Property Name="PubDate" Type="System.DateTime">23/07/2013 07:00:00</Property>
+    <Property Name="Color" Type="System.String">325181</Property>
     <Property Name="author" Type="" />
     <Property Name="Ago" Type="System.String">6 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/redirect/articles/100422/</Property>
@@ -599,6 +633,7 @@ It should only take a few minutes, and three randomly-selected people will win a
     <Property Name="Stream" Type="System.String">Main Articles</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
     <Property Name="PubDate" Type="System.DateTime">23/07/2013 07:00:00</Property>
+    <Property Name="Color" Type="System.String">325181</Property>
     <Property Name="author" Type="" />
     <Property Name="Ago" Type="System.String">6 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/redirect/articles/100783/</Property>
@@ -611,6 +646,7 @@ It should only take a few minutes, and three randomly-selected people will win a
     <Property Name="Stream" Type="System.String">Main Articles</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
     <Property Name="PubDate" Type="System.DateTime">22/07/2013 07:00:00</Property>
+    <Property Name="Color" Type="System.String">325181</Property>
     <Property Name="author" Type="" />
     <Property Name="Ago" Type="System.String">7 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/articles/clustered+index/100477/</Property>
@@ -623,6 +659,7 @@ It should only take a few minutes, and three randomly-selected people will win a
     <Property Name="Stream" Type="System.String">Main Articles</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
     <Property Name="PubDate" Type="System.DateTime">22/07/2013 07:00:00</Property>
+    <Property Name="Color" Type="System.String">325181</Property>
     <Property Name="author" Type="" />
     <Property Name="Ago" Type="System.String">7 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/redirect/articles/100742/</Property>
@@ -635,6 +672,7 @@ It should only take a few minutes, and three randomly-selected people will win a
     <Property Name="Stream" Type="System.String">Main Articles</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
     <Property Name="PubDate" Type="System.DateTime">22/07/2013 07:00:00</Property>
+    <Property Name="Color" Type="System.String">325181</Property>
     <Property Name="author" Type="" />
     <Property Name="Ago" Type="System.String">7 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/redirect/articles/100374/</Property>
@@ -642,11 +680,17 @@ It should only take a few minutes, and three randomly-selected people will win a
   <Object Type="System.Management.Automation.PSCustomObject">
     <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles tagged Editorial</Property>
     <Property Name="Title" Type="System.String">Hiring Heterogeneously</Property>
-    <Property Name="Description" Type="System.String">Hiring a diverse group of people can make your team work better. Steve Jones has a few thoughts today.</Property>
+    <Property Name="Description" Type="System.String">Hiring a diverse group of people can make your team work better. Steve Jones has a few thoughts today.
+                   ‘10 Tips for Efficient Disaster Recovery’Steve Jones gives the final lesson in the ‘Top 5 Hard-earned Lessons of a DBA’.  Read now and learn from the best.    
+
+
+
+</Property>
     <Property Name="Publication" Type="System.String">SQL Server Central</Property>
     <Property Name="Stream" Type="System.String">Editorials</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/Editorial</Property>
     <Property Name="PubDate" Type="System.DateTime">22/07/2013 07:00:00</Property>
+    <Property Name="Color" Type="System.String">325181</Property>
     <Property Name="author" Type="" />
     <Property Name="Ago" Type="System.String">7 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/articles/Editorial/100713/</Property>
@@ -659,6 +703,7 @@ It should only take a few minutes, and three randomly-selected people will win a
     <Property Name="Stream" Type="System.String">Main Articles</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
     <Property Name="PubDate" Type="System.DateTime">19/07/2013 07:00:00</Property>
+    <Property Name="Color" Type="System.String">325181</Property>
     <Property Name="author" Type="" />
     <Property Name="Ago" Type="System.String">10 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/articles/Beginner/100729/</Property>
@@ -671,6 +716,7 @@ It should only take a few minutes, and three randomly-selected people will win a
     <Property Name="Stream" Type="System.String">Main Articles</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
     <Property Name="PubDate" Type="System.DateTime">19/07/2013 07:00:00</Property>
+    <Property Name="Color" Type="System.String">325181</Property>
     <Property Name="author" Type="" />
     <Property Name="Ago" Type="System.String">10 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/redirect/articles/100750/</Property>
@@ -683,6 +729,7 @@ It should only take a few minutes, and three randomly-selected people will win a
     <Property Name="Stream" Type="System.String">Editorials</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/Editorial</Property>
     <Property Name="PubDate" Type="System.DateTime">19/07/2013 07:00:00</Property>
+    <Property Name="Color" Type="System.String">325181</Property>
     <Property Name="author" Type="" />
     <Property Name="Ago" Type="System.String">10 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/articles/Editorial/100661/</Property>
@@ -695,6 +742,7 @@ It should only take a few minutes, and three randomly-selected people will win a
     <Property Name="Stream" Type="System.String">Main Articles</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
     <Property Name="PubDate" Type="System.DateTime">19/07/2013 07:00:00</Property>
+    <Property Name="Color" Type="System.String">325181</Property>
     <Property Name="author" Type="" />
     <Property Name="Ago" Type="System.String">10 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/redirect/articles/100373/</Property>
@@ -702,17 +750,12 @@ It should only take a few minutes, and three randomly-selected people will win a
   <Object Type="System.Management.Automation.PSCustomObject">
     <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles</Property>
     <Property Name="Title" Type="System.String">Formatting Dates with 3 Character Months (SQL Spackle)</Property>
-    <Property Name="Description" Type="System.String">Another in the series of articles to help you &amp;quot;fill in the cracks&amp;quot; in your T-SQL knowledge.  MVP Jeff Moden shows us a super simple, high performance method to solve this timeless problem.
-                   Free eBook! SQL Server Transaction Log ManagementFind out how understanding how log files work makes all the difference in a crisis. Then try SQL Backup Pro to put the tips into practice.  Download your free resources now.    
-
-
-
-
-</Property>
+    <Property Name="Description" Type="System.String">Another in the series of articles to help you &amp;quot;fill in the cracks&amp;quot; in your T-SQL knowledge.  MVP Jeff Moden shows us a super simple, high performance method to solve this timeless problem.</Property>
     <Property Name="Publication" Type="System.String">SQL Server Central</Property>
     <Property Name="Stream" Type="System.String">Main Articles</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
     <Property Name="PubDate" Type="System.DateTime">19/07/2013 07:00:00</Property>
+    <Property Name="Color" Type="System.String">325181</Property>
     <Property Name="author" Type="" />
     <Property Name="Ago" Type="System.String">10 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/articles/formatting/72066/</Property>
@@ -726,6 +769,7 @@ There is also a pre-conference session presented by Bill Pearson on Practical Se
     <Property Name="Stream" Type="System.String">Main Articles</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
     <Property Name="PubDate" Type="System.DateTime">19/07/2013 07:00:00</Property>
+    <Property Name="Color" Type="System.String">325181</Property>
     <Property Name="author" Type="" />
     <Property Name="Ago" Type="System.String">10 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/redirect/articles/100175/</Property>
@@ -734,10 +778,11 @@ There is also a pre-conference session presented by Bill Pearson on Practical Se
     <Property Name="Feed" Type="System.String">Simple-Talk blogs</Property>
     <Property Name="Title" Type="System.String">Software Tuned to Humanity</Property>
     <Property Name="Description" Type="System.String">I learned a great deal from a cynical old programmer who once told me that the ideal length of time for a compiler to do its work was the same time it took to roll a cigarette. For development work, this is oh so true. After intently looking at the editing window for an hour [...]</Property>
-    <Property Name="Publication" Type="System.String">simple-talk</Property>
+    <Property Name="Publication" Type="System.String">Simple-Talk</Property>
     <Property Name="Stream" Type="System.String">Blogs</Property>
     <Property Name="PageURL" Type="System.String">https://www.simple-talk.com/blogs/</Property>
     <Property Name="PubDate" Type="System.DateTime">18/07/2013 17:26:47</Property>
+    <Property Name="Color" Type="System.String">92171a</Property>
     <Property Name="author" Type="System.String">Phil Factor</Property>
     <Property Name="Ago" Type="System.String">10 days ago</Property>
     <Property Name="link" Type="System.String">https://www.simple-talk.com/blogs/2013/07/18/software-tuned-to-humanity/</Property>
@@ -745,16 +790,12 @@ There is also a pre-conference session presented by Bill Pearson on Practical Se
   <Object Type="System.Management.Automation.PSCustomObject">
     <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles</Property>
     <Property Name="Title" Type="System.String">SQL Saturday #239 East Iowa</Property>
-    <Property Name="Description" Type="System.String">SQL Saturday will be in Iowa City on July 27, 2013. This free day of SQL Server Training and Networking will also have pay-for pre-conference sessions presented by Bill Pearson, Louis Davidson and Tim Mitchell.
-                   Get your SQL Server database under version control now!Version control is standard for applications, but databases haven’t caught up. So how can you bring database development up to speed? Why should you start?  Find out…   
-
-
-
-</Property>
+    <Property Name="Description" Type="System.String">SQL Saturday will be in Iowa City on July 27, 2013. This free day of SQL Server Training and Networking will also have pay-for pre-conference sessions presented by Bill Pearson, Louis Davidson and Tim Mitchell.</Property>
     <Property Name="Publication" Type="System.String">SQL Server Central</Property>
     <Property Name="Stream" Type="System.String">Main Articles</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
     <Property Name="PubDate" Type="System.DateTime">18/07/2013 07:00:00</Property>
+    <Property Name="Color" Type="System.String">325181</Property>
     <Property Name="author" Type="" />
     <Property Name="Ago" Type="System.String">11 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/redirect/articles/100377/</Property>
@@ -762,16 +803,12 @@ There is also a pre-conference session presented by Bill Pearson on Practical Se
   <Object Type="System.Management.Automation.PSCustomObject">
     <Property Name="Feed" Type="System.String">SQLServerCentral.com Articles tagged Editorial</Property>
     <Property Name="Title" Type="System.String">Password Ninjas</Property>
-    <Property Name="Description" Type="System.String">How do you keep track of passwords? A few experts out there share some of their techniques and Steve Jones adds his thoughts.
-                   Get your SQL Server database under version control now!Version control is standard for applications, but databases haven’t caught up. So how can you bring database development up to speed? Why should you start?  Find out…   
-
-
-
-</Property>
+    <Property Name="Description" Type="System.String">How do you keep track of passwords? A few experts out there share some of their techniques and Steve Jones adds his thoughts.</Property>
     <Property Name="Publication" Type="System.String">SQL Server Central</Property>
     <Property Name="Stream" Type="System.String">Editorials</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/Editorial</Property>
     <Property Name="PubDate" Type="System.DateTime">18/07/2013 07:00:00</Property>
+    <Property Name="Color" Type="System.String">325181</Property>
     <Property Name="author" Type="" />
     <Property Name="Ago" Type="System.String">11 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/articles/Editorial/100709/</Property>
@@ -784,6 +821,7 @@ There is also a pre-conference session presented by Bill Pearson on Practical Se
     <Property Name="Stream" Type="System.String">Main Articles</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
     <Property Name="PubDate" Type="System.DateTime">18/07/2013 07:00:00</Property>
+    <Property Name="Color" Type="System.String">325181</Property>
     <Property Name="author" Type="" />
     <Property Name="Ago" Type="System.String">11 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/redirect/articles/100701/</Property>
@@ -796,6 +834,7 @@ There is also a pre-conference session presented by Bill Pearson on Practical Se
     <Property Name="Stream" Type="System.String">Main Articles</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
     <Property Name="PubDate" Type="System.DateTime">18/07/2013 07:00:00</Property>
+    <Property Name="Color" Type="System.String">325181</Property>
     <Property Name="author" Type="" />
     <Property Name="Ago" Type="System.String">11 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/articles/Integration+Services+(SSIS)/98113/</Property>
@@ -808,6 +847,7 @@ There is also a pre-conference session presented by Bill Pearson on Practical Se
     <Property Name="Stream" Type="System.String">Main Articles</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
     <Property Name="PubDate" Type="System.DateTime">18/07/2013 07:00:00</Property>
+    <Property Name="Color" Type="System.String">325181</Property>
     <Property Name="author" Type="" />
     <Property Name="Ago" Type="System.String">11 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/redirect/articles/100368/</Property>
@@ -820,6 +860,7 @@ There is also a pre-conference session presented by Bill Pearson on Practical Se
     <Property Name="Stream" Type="System.String">Editorials</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/Editorial</Property>
     <Property Name="PubDate" Type="System.DateTime">17/07/2013 07:00:00</Property>
+    <Property Name="Color" Type="System.String">325181</Property>
     <Property Name="author" Type="" />
     <Property Name="Ago" Type="System.String">12 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/articles/Editorial/100663/</Property>
@@ -832,6 +873,7 @@ There is also a pre-conference session presented by Bill Pearson on Practical Se
     <Property Name="Stream" Type="System.String">Main Articles</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
     <Property Name="PubDate" Type="System.DateTime">17/07/2013 07:00:00</Property>
+    <Property Name="Color" Type="System.String">325181</Property>
     <Property Name="author" Type="" />
     <Property Name="Ago" Type="System.String">12 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/redirect/articles/100571/</Property>
@@ -844,6 +886,7 @@ There is also a pre-conference session presented by Bill Pearson on Practical Se
     <Property Name="Stream" Type="System.String">Main Articles</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/</Property>
     <Property Name="PubDate" Type="System.DateTime">17/07/2013 07:00:00</Property>
+    <Property Name="Color" Type="System.String">325181</Property>
     <Property Name="author" Type="" />
     <Property Name="Ago" Type="System.String">12 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/articles/BIML/100552/</Property>
@@ -856,6 +899,7 @@ There is also a pre-conference session presented by Bill Pearson on Practical Se
     <Property Name="Stream" Type="System.String">Editorials</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/Editorial</Property>
     <Property Name="PubDate" Type="System.DateTime">16/07/2013 07:00:00</Property>
+    <Property Name="Color" Type="System.String">325181</Property>
     <Property Name="author" Type="" />
     <Property Name="Ago" Type="System.String">13 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/articles/Editorial/100579/</Property>
@@ -868,6 +912,7 @@ There is also a pre-conference session presented by Bill Pearson on Practical Se
     <Property Name="Stream" Type="System.String">Editorials</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/Editorial</Property>
     <Property Name="PubDate" Type="System.DateTime">15/07/2013 07:00:00</Property>
+    <Property Name="Color" Type="System.String">325181</Property>
     <Property Name="author" Type="" />
     <Property Name="Ago" Type="System.String">14 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/articles/Editorial/100578/</Property>
@@ -880,6 +925,7 @@ There is also a pre-conference session presented by Bill Pearson on Practical Se
     <Property Name="Stream" Type="System.String">Editorials</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/Editorial</Property>
     <Property Name="PubDate" Type="System.DateTime">12/07/2013 07:00:00</Property>
+    <Property Name="Color" Type="System.String">325181</Property>
     <Property Name="author" Type="" />
     <Property Name="Ago" Type="System.String">17 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/articles/Editorial/100601/</Property>
@@ -888,10 +934,11 @@ There is also a pre-conference session presented by Bill Pearson on Practical Se
     <Property Name="Feed" Type="System.String">Simple-Talk blogs</Property>
     <Property Name="Title" Type="System.String">Good DBAs Do Baselines</Property>
     <Property Name="Description" Type="System.String">One morning, you wake up and feel funny. You can&amp;#8217;t quite put your finger on it, but something isn&amp;#8217;t quite right. What now? Unless you happen to be a hypochondriac, you likely drag yourself out of bed, get on with the day and gather more &amp;#8220;evidence&amp;#8221;. You check your symptoms over the next few days; [...]</Property>
-    <Property Name="Publication" Type="System.String">simple-talk</Property>
+    <Property Name="Publication" Type="System.String">Simple-Talk</Property>
     <Property Name="Stream" Type="System.String">Blogs</Property>
     <Property Name="PageURL" Type="System.String">https://www.simple-talk.com/blogs/</Property>
     <Property Name="PubDate" Type="System.DateTime">12/07/2013 05:20:10</Property>
+    <Property Name="Color" Type="System.String">92171a</Property>
     <Property Name="author" Type="System.String">Louis Davidson</Property>
     <Property Name="Ago" Type="System.String">17 days ago</Property>
     <Property Name="link" Type="System.String">https://www.simple-talk.com/blogs/2013/07/12/good-dbas-do-baselines/</Property>
@@ -904,6 +951,7 @@ There is also a pre-conference session presented by Bill Pearson on Practical Se
     <Property Name="Stream" Type="System.String">Editorials</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/Editorial</Property>
     <Property Name="PubDate" Type="System.DateTime">11/07/2013 07:00:00</Property>
+    <Property Name="Color" Type="System.String">325181</Property>
     <Property Name="author" Type="" />
     <Property Name="Ago" Type="System.String">18 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/articles/Editorial/100580/</Property>
@@ -912,10 +960,11 @@ There is also a pre-conference session presented by Bill Pearson on Practical Se
     <Property Name="Feed" Type="System.String">Simple-Talk blogs</Property>
     <Property Name="Title" Type="System.String">Continuous Integration for SQL Server Part III â€“ Deployment</Property>
     <Property Name="Description" Type="System.String">In this article, I&amp;#8217;ll describe the next stage in implementing a full Continuous Integration and Deployment process for SQL Server databases: Deployment. This post follows on directly from my previous post on Continuous Integration and testing for SQL Server. Following the steps in this previous post is a pre-requisite to following the steps below, though [...]</Property>
-    <Property Name="Publication" Type="System.String">simple-talk</Property>
+    <Property Name="Publication" Type="System.String">Simple-Talk</Property>
     <Property Name="Stream" Type="System.String">Blogs</Property>
     <Property Name="PageURL" Type="System.String">https://www.simple-talk.com/blogs/</Property>
     <Property Name="PubDate" Type="System.DateTime">10/07/2013 10:51:44</Property>
+    <Property Name="Color" Type="System.String">92171a</Property>
     <Property Name="author" Type="System.String">Ben Rees</Property>
     <Property Name="Ago" Type="System.String">18 days ago</Property>
     <Property Name="link" Type="System.String">https://www.simple-talk.com/blogs/2013/07/10/continuous-integration-for-sql-server-part-iii-deployment/</Property>
@@ -928,6 +977,7 @@ There is also a pre-conference session presented by Bill Pearson on Practical Se
     <Property Name="Stream" Type="System.String">Editorials</Property>
     <Property Name="PageURL" Type="System.String">http://www.sqlservercentral.com/Articles/Editorial</Property>
     <Property Name="PubDate" Type="System.DateTime">10/07/2013 07:00:00</Property>
+    <Property Name="Color" Type="System.String">325181</Property>
     <Property Name="author" Type="" />
     <Property Name="Ago" Type="System.String">19 days ago</Property>
     <Property Name="link" Type="System.String">http://www.sqlservercentral.com/articles/Editorial/100553/</Property>
