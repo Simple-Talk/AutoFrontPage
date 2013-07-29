@@ -41,6 +41,7 @@ switch -regex ($RFC822Data)
    select @{name="Title"; Expression={$_.title}},
 			 @{name="Feed"; Expression={$_.xmlUrl}},
 			 @{name="PageURL"; Expression={$_.htmlUrl}},
+            @{name="Color"; Expression={$_.color}},
           @{name="Publication"; Expression={$_.ParentNode.text}} |
 foreach-object { 
 	$successful=$true #assume the best
@@ -52,6 +53,7 @@ foreach-object {
 	$Stream=$_.Title
 	$PageURL=$_.PageURL
 	$FeedName=$xml.rss.channel.title #makes sure there is something in it
+    $Color=$_.Color
 	If ($successful)
 	 {
     $xml.rss.channel.item | # flag if an error happened
@@ -78,12 +80,24 @@ But you are also likely to find ..
       @{name="Publication"; Expression={$Publication}},
       @{name="Stream"; Expression={$Stream}},
       @{name="PageURL"; Expression={$PageURL}},
+<<<<<<< HEAD
       @{name="PubDate"; Expression = {try {get-date (ConvertDateFromRFC922($_.PubDate))} # force it into a PS date  
+=======
+      @{name="PubDate"; Expression = {try {
+                                        $givenDate = get-date($_.PubDate -replace "UT", "+05:00")
+                                        [system.timezoneinfo]::ConvertTimeToUtc($givenDate)
+                                        } # force it into a PS date  
+>>>>>>> 0449208015a57260f13f7d17458d145343434dbf
                                        catch {Get-Date '01 January 2006 00:00:00'}}}, 
       @{name="author"; Expression = {try {if ( $_.author.length -eq 0) {$_.creator} 
                                            else {$_.author}} 
                                       catch{'Unknown Author'}}},
+<<<<<<< HEAD
       @{name="Ago"; Expression={switch ($([datetime]::Now - $(get-date (ConvertDateFromRFC922 ($_.PubDate))) ).Days)
+=======
+      @{name="Color"; Expression={$Color}},
+      @{name="Ago"; Expression={switch ($([datetime]::Now - $(get-date ($_.PubDate -replace  "UT")) ).Days)
+>>>>>>> 0449208015a57260f13f7d17458d145343434dbf
 		    { 
 		        0 {"Today"} 
 				  1 {"Yesterday"} 
@@ -110,7 +124,7 @@ if (Test-Path  $MyListOfArticles) {
 		$xslt.Transform($MyListOfArticles, $MyHTMLFile) #and create the HTML
 		Copy-Item $MyListOfArticles $OldListOfArticles -force
 		"saved $MyListOfArticles to $MyHTMLFile"
-	}
+  }
 }
 'All done, master'
 

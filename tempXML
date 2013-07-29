@@ -5,185 +5,263 @@
     <link>http://ask.sqlservercentral.com/questions/index.html</link>
     <description>The latest questions</description>
     <item>
-      <title>Why does my 2008 SSIS logging provider type change automatically?</title>
-      <link>http://ask.sqlservercentral.com/questions/104725/why-does-my-2008-ssis-logging-provider-type-change.html</link>
-      <description>I am trying to set up logging within a 2008 SSIS package but the provider type changes from SSIS log provider for SQL Server to SSIS log provider for Windows Event Log. I'm selecting SSIS,Logging and completing the screens but the provider type keeps changing. Is there a setting I need to add/update/change? I have search the internet, referenced books but haven't found the answer. Any help is greatly appreciated.</description>
-      <pubDate>Wed, 24 Jul 2013 16:28:22 GMT</pubDate>
-      <author>Susan</author>
+      <title>How to optimize performance of distinct count measure group in SSAS?</title>
+      <link>http://ask.sqlservercentral.com/questions/104865/how-to-optimize-performance-of-distinct-count-meas.html</link>
+      <description>Ok so recently I created a separate measure group within my SSAS project in order to derive the distinct count of various IP addresses that various customers are hitting. 
+
+So my dimension of IP (DimIP) has nothing but the user_Session_IDs and IP addresses of each customer. But there is a many to many relationship between the customer and their IPs. So I created this separate measure group which will give me a distinct count of the IP column for each customer and it will vary by month. 
+
+So after creating this measure group and processing my cube, I have noticed that whenever I try to add it to the browser to build a query, it is very slow because of the various dimensions and calculations it has to do. 
+
+So my question is how can I better optimize this type of measure group? I know for a fact that distinct counts are an expensive operation in SSAS but if anybody can provide me with a solution to speed it up just a little that would really be appreciated!</description>
+      <pubDate>Mon, 29 Jul 2013 00:35:10 GMT</pubDate>
+      <author>Da1andonly2013</author>
     </item>
     <item>
-      <title>Creating target files in a directory created at runtime</title>
-      <link>http://ask.sqlservercentral.com/questions/104723/creating-target-files-in-a-directory-created-at-ru.html</link>
-      <description>The package has to create a new directory with current date attached and the destination files have to be created in this directory.
-I am able to create the directory but the target files are getting created from where I am getting the template files and not in the newly created directory.
-Would greatly appreciate any suggestions
-thanks a lot</description>
-      <pubDate>Wed, 24 Jul 2013 15:09:35 GMT</pubDate>
-      <author>apple</author>
+      <title>Table - increase in columns or rows ?</title>
+      <link>http://ask.sqlservercentral.com/questions/104863/table-increase-in-columns-or-rows-.html</link>
+      <description>I have to design a table, in which I have to store certain input types and corresponding values for it. Let's say, type of application and the count for it. Earlier, we were using only two fields, and insert a row for each application type. The growth of the table in this case was almost 9000 records per day. Now I am changing the design to have the types as columns, and then insert only 1/9th of the records on a daily base. My question is, will there be an advantage in doing so?</description>
+      <pubDate>Sun, 28 Jul 2013 14:00:42 GMT</pubDate>
+      <author>sougeo</author>
     </item>
     <item>
-      <title>Flagging records in SQL 2005</title>
-      <link>http://ask.sqlservercentral.com/questions/104717/flagging-records-in-sql-2005.html</link>
-      <description>I have a process that flags 3 records per segment_code based on a condition. Probably 95% of the records get flagged based on this condition but the remaining 5% do not. Say segment_code "1A" gets 3 records flagged which is exact but segment_code "2A" only gets 2 records flagged or 1 record flagged. How would I go in and flag the additional records for "2A" to make up the total of 3. Thanks!</description>
-      <pubDate>Wed, 24 Jul 2013 14:11:07 GMT</pubDate>
-      <author>red68</author>
+      <title>Remove duplicate values in FULL OUTER JOIN</title>
+      <link>http://ask.sqlservercentral.com/questions/104861/remove-duplicate-values-in-full-outer-join.html</link>
+      <description>how can remove duplicate rows in below procedure
+ 
+in TBLTicketAnswers i have some record with same TicketID and i don't want to display just one row:
+
+     SELECT  TBLTickets.TicketID ,
+                                TBLTickets.UserID ,
+                                TBLTickets.AttachFile ,
+                                TBLTickets.HasFile ,
+                                TBLTickets.Title ,
+                                TBLTickets.Question ,
+                                TBLTickets.Flag ,
+                                TBLTickets.InsertDate ,
+                                TBLTicketBranchs.BranchName ,
+                                TBLTicketAnswers.AnswerID ,
+                                TBLTicketAnswers.Answer ,
+                                TBLUsers.UserName ,
+                                TBLUsers.UserOwner ,
+                                TBLUsers.Corporation
+                        FROM    dbo.TBLTicketBranchs
+                                INNER JOIN dbo.TBLTickets ON dbo.TBLTicketBranchs.BranchID = dbo.TBLTickets.BranchID
+                                INNER JOIN dbo.TBLUsers ON dbo.TBLTickets.UserID = dbo.TBLUsers.UserID
+                                LEFT OUTER JOIN dbo.TBLTicketAnswers ON dbo.TBLTickets.TicketID = dbo.TBLTicketAnswers.TicketID
+                        WHERE   ( TBLTicketBranchs.ResellerID = @ResellerID   --without flag (@flag=0)
+                                  AND ( TBLTicketAnswers.Answer LIKE N'%'
+                                        + @Keyword + '%'
+                                        OR @Keyword IS NULL
+                                        OR TBLTickets.Title LIKE N'%' + @Keyword
+                                        + '%'
+                                        OR @Keyword IS NULL
+                                        OR TBLTickets.Question LIKE N'%'
+                                        + @Keyword + '%'
+                                        OR @Keyword IS NULL
+                                        OR TBLUsers.UserName LIKE N'%' + @Keyword
+                                        + '%'
+                                        OR @Keyword IS NULL
+                                      )
+                                )
+
+
+TBLTicketAnswers
+-----------------
+AnswerID
+Answer
+TicketID 
+....
+..</description>
+      <pubDate>Sun, 28 Jul 2013 11:45:41 GMT</pubDate>
+      <author>jiji2663</author>
     </item>
     <item>
-      <title>Different date formats into one standardize format(mm/dd/yyyy)</title>
-      <link>http://ask.sqlservercentral.com/questions/104713/different-date-formats-into-one-standardize-format.html</link>
-      <description>The following formats need to be converted in MM/DD/YYYY format in sql server
-25-May-13
-27/06/2013
-Mon 06/17/2013
-Mon 20/05/2013
-4-Jul-13
-7/6/2013
-6/19/2013
-5-Jul
-Jul-5</description>
-      <pubDate>Wed, 24 Jul 2013 12:56:06 GMT</pubDate>
-      <author>Mohan</author>
+      <title>Trying to write a SQL query to display only the “part number” with multiple warehouse “locations”</title>
+      <link>http://ask.sqlservercentral.com/questions/104846/trying-to-write-a-sql-query-to-display-only-the-pa.html</link>
+      <description>Trying to write a SQL query to display only the "part number" with multiple warehouse "locations". I want a search that will display each "partno" that has more than one "boxSize" and/or "boxLocation". There is only one table where the data that I need resides.
+
+SELECT  
+ 
+DISTINCT partno, COUNT(partno) AS MULTIPLE_PARTNO  
+
+FROM [Reports].[dbo].[Data_all]  
+
+GROUP BY partno  
+
+HAVING COUNT(partno) &lt;&gt; '1'</description>
+      <pubDate>Sat, 27 Jul 2013 01:39:04 GMT</pubDate>
+      <author>AngelSun</author>
     </item>
     <item>
-      <title>how to create a database</title>
-      <link>http://ask.sqlservercentral.com/questions/104696/how-to-create-a-database.html</link>
-      <description>Please can  you   suggest me a video that shows the hole procedure of creating  database in mysql server? it should contain table, relationships, code.. thank you</description>
-      <pubDate>Wed, 24 Jul 2013 09:28:22 GMT</pubDate>
-      <author>joana</author>
+      <title>What i need to learne as Application DBA.......?</title>
+      <link>http://ask.sqlservercentral.com/questions/104845/what-i-need-to-learne-as-application-dba.html</link>
+      <description>key points to focus,Basic things</description>
+      <pubDate>Sat, 27 Jul 2013 00:37:39 GMT</pubDate>
+      <author>Hussainpatel</author>
     </item>
     <item>
-      <title>How to get data as date wise.</title>
-      <link>http://ask.sqlservercentral.com/questions/104692/how-to-get-data-as-date-wise.html</link>
-      <description>I have a HPSM database. I have to retrieve the last 7 days open tickets count from query.
-can any one help.</description>
-      <pubDate>Wed, 24 Jul 2013 07:40:13 GMT</pubDate>
-      <author>gsiva_1985</author>
-    </item>
-    <item>
-      <title>how to start BI with visual studio 2010?</title>
-      <link>http://ask.sqlservercentral.com/questions/104691/how-to-start-bi-with-visual-studio-2010.html</link>
-      <description>I be new for BI and I want to start work BI using visual studio 2010.
-How I can configure the BI with VS2010 and sql server 2008r2.
-Please suggest me to start with BI.
-thanks</description>
-      <pubDate>Wed, 24 Jul 2013 07:32:53 GMT</pubDate>
-      <author>vishuaaryan</author>
-    </item>
-    <item>
-      <title>Credibility of Microsoft Certifications?</title>
-      <link>http://ask.sqlservercentral.com/questions/104687/credibility-of-microsoft-certifications.html</link>
-      <description>Hi All,
+      <title>PASS Summit 2013</title>
+      <link>http://ask.sqlservercentral.com/questions/104836/pass-summit-2013-1.html</link>
+      <description>Hello Everyone!
 
-I've been an ETL assistant for about the past 2 years now.  I am quickly learned the basic of using T-SQL, SSIS, and other various Microsoft tools (like Access).  I am liking this field of work and possibly want to continue on this career path through college and couple of years after I get out of college. I've met several ETL specialists and DBA's and none of which spoke positively about Microsoft Certifications.  So, for those of you have attempted or even have any of the Microsoft Certifications, here are my questions:
+I've recently heard about a SQL event called PASS Summit 2013.  I started working with SQL at 18 (currently 20 years old) as an ETL assistant. I love this field of work and would like to continue my learning.  So far, I've mostly learned from experience and from ETL Specialists that I work(ed) with. SQL and SSIS are tricky programs to learn and obviously require time and experience to get good with. Now, back to SQL Summit 2013.  Based on what I've read, this sounds like a HUGE event full of learning experience.  I wanted to get some opinions from people who have attended these Summits in the past:
 
- 1. Are they credible to employers?
- 2. Because of the fast pace changes in the IT world, is it worth getting certified on a specific area?
- 3. What are the major Pros and Cons of spending money to obtain a Microsoft Certification?
+ 1. Is this event designed for Pro DBA's, or is it beginner’s friendly?
+ 2. What is the typical age group that attends these events (Would love to meet other college students)?
+ 3. What should I expect if I decide to invest to attend this event? (Session sizes, Quality of Speakers, Learning Friendly averments)
+ 4. What are the Pros and Cons of **YOUR** SQL Summit experience.
 
-ALL opinions are welcome!
+I am only curious to know because I want to be a good stuart of my money and since I am a college, I don’t have extra cash laying around!
 
-Thank You
-
-
-
-**Additional Questions:** 
-
-Thank you all for the insight guys, I appreciate it.  This is an important topic especially for young SQL newbies like myself and it’s even more important to hear from experts like yourself who have interviewed and hired people in this line of work.  
-If none of you mined it, I have another question!  When you were and have hired DBA’s, ETL Specialists, etc., what are key skills and characteristics did you most noticed as “WOW” I want that guy on my team?
-
-Thank you again!</description>
-      <pubDate>Tue, 23 Jul 2013 20:12:24 GMT</pubDate>
+Thank You!</description>
+      <pubDate>Fri, 26 Jul 2013 15:41:42 GMT</pubDate>
       <author>eaglescout</author>
     </item>
     <item>
-      <title>DB Object Access From One Schema to another schema</title>
-      <link>http://ask.sqlservercentral.com/questions/104683/db-object-access-from-one-schema-to-another-schema.html</link>
-      <description>Scenario: I have denied permissions from table1 for USER1. DENY SELECT, INSERT, UPDATE, DELETE ON OBJECT :: dbo.table1 TO USER1
+      <title>Does loading the data actually affect the ssrs connections</title>
+      <link>http://ask.sqlservercentral.com/questions/104831/does-loading-the-data-actually-affect-the-ssrs-con.html</link>
+      <description>We load the data every month into the database and process the cubes. This data gets updated in bunch of reports and dashboards hosted on a sharepoint website. Recently the connnections to the reports and dashboards were disconnected when we looked at the website. Does the dataload actually affect the ssrs connections on the website?
 
-Instead, I have allowed access to a view(vw_table1) which will select from table1 and filter some data using where clause. The idea is, users won't be able to see entire data of the table. To support insert, update and delete, I have created instead of triggers.
+Could someone please shed some light on it.
 
-The above scenario works fine when Table1 and VW_table1 are on same schema.
-
-Now, I have a requirement to move the view only in a different schema called sec (sec.vw_table1). After moving the view, when I do "select * From sec.vw_table1" It gives access denied error when the view tries to access dbo.table1.
-
-How can we achieve this? I don't want to give access to dbo.Table1 to User1. But should work when it is called from sec.vw_table1.
-
-Any help would be highly appreciated!!</description>
-      <pubDate>Tue, 23 Jul 2013 19:14:38 GMT</pubDate>
-      <author>debkumar</author>
+Thanks in Advance.</description>
+      <pubDate>Fri, 26 Jul 2013 14:17:07 GMT</pubDate>
+      <author>vs0523</author>
     </item>
     <item>
-      <title>weekno in scripttask</title>
-      <link>http://ask.sqlservercentral.com/questions/104679/weekno-in-scripttask.html</link>
-      <description>I need to create a directory every week in the format week-mm-dd-yyyy to upload my files.
-for the first week of month it should come as week 1 
+      <title>Cluster Issue SQL 2005</title>
+      <link>http://ask.sqlservercentral.com/questions/104822/cluster-issue-sql-2005.html</link>
+      <description>Hi,
+We have a Active/Passive cluster set up with 7 instances of  SQL 2005 SP4 Enterprise(64 bit).
+Daily at 2 AM the SQL Cluster group is restarting on same node or failing over to the otehr node with errors starting with:
 
-I used a script  task and file system task to create the directory.
-I am having issues in getting the week.
-This is the .Net code I am using to get the day,month and year
- Dts.Variables("User::dir").Value = "C:\test" + Date.Today.Date.ToString + Date.Today.Year.ToString _
-       + Date.Today.Month.ToString + Date.Today.Day.ToString
+SQL Server has encountered 1 occurrence(s) of I/O requests taking longer than 15 seconds to complete on file  in database.  The OS file handle is 0x0000000000000B98.  The offset of the latest long I/O is: 0x000012b0dfe000
 
-with this code I am getting year month and day attached to the folder name
-how do I get the week no?
-Thanks a lot</description>
-      <pubDate>Tue, 23 Jul 2013 18:11:34 GMT</pubDate>
-      <author>apple</author>
+/*there are many occurences of the above message on many instances and particularly msdb database*/
+
+Event Id 4156 MSDTC - String message: ProcId = 0x2188 CSO: Maintain session; Received E_CM_SERVER_NOT_READY. 
+
+Event ID 19019
+[sqsrvres] CheckQueryProcessorAlive: sqlexecdirect failed
+
+[sqsrvres] printODBCError: sqlstate = 08S01; native error = 79; message = [Microsoft][SQL Native Client]TCP Provider: The semaphore timeout period has expired.
+
+[sqsrvres] printODBCError: sqlstate = 08S01; native error = 79; message = [Microsoft][SQL Native Client]Communication link failure
+
+[sqsrvres] OnlineThread: QP is not online.
+
+[sqsrvres] CheckQueryProcessorAlive: sqlexecdirect failed
+
+[sqsrvres] printODBCError: sqlstate = 08S01; native error = 0; message = [Microsoft][SQL Native Client]Communication link failure
+
+Above errors are logged in the system logs and all the sql cluster groups are either restarting or failing over to other node every day around 2AM.
+
+Is this due to malfunctioning storage (or) memory bottleneck.
+I have collected the performance counters and found that Page life expectancy to a value of "10" at this time with sudden increase in Buffer Manager :Pages/sec to a value of "14500",page IO Latch waits "15",%page file usage "90".
+Please tell me how i can troubleshoot this issue.</description>
+      <pubDate>Fri, 26 Jul 2013 12:02:18 GMT</pubDate>
+      <author>dba_a</author>
     </item>
     <item>
-      <title>Why does SSRS email with embedded (MHTML) report grows from 450 KB to 3+ MB when people reply or forward email?</title>
-      <link>http://ask.sqlservercentral.com/questions/104671/why-does-ssrs-email-with-embedded-mhtml-report-gro.html</link>
-      <description>Hello,
+      <title>I have one update statement. It will update, when we manually run the query.</title>
+      <link>http://ask.sqlservercentral.com/questions/104819/i-have-one-update-statement-it-will-update-when-we.html</link>
+      <description>But it will not update when we put the same statement in Job. Pls find below query.
 
-I have not been able to find a solution to this issue anywhere and its driving everyone crazy!
 
-I have several subscriptions to email embedded (MHTML) report to a set of users. The reports are fairly long , with several charts, tables, and matrices. What I don't understand is why on Outlook the original email is 450 KB, it takes just a few seconds to open it. But as soon as someone forwards or replies to the original email, it grows to 3-4 MBs, taking forever to open. I've confirmed Outlook is not loading a 'preview' of the original report, it loads everything. The issue happens when someone forwards, or replies to the original email.
-
-Please help!!</description>
-      <pubDate>Tue, 23 Jul 2013 16:59:44 GMT</pubDate>
-      <author>diegochacon</author>
+ UPDATE EXISTING_TOPUP            
+ SET [DESCRIPTION]=B.[DESCRIPTION]  
+ FROM EXISTING_TOPUP A,mis.dbo.LT_ALL B            
+ WHERE A.ACCOUNT=B.MSISDN            
+ AND B.recharge_date=convert(varchar(8),getdate()-1,112)             
+              
+ UPDATE EXISTING_TOPUP            
+ SET [DESCRIPTION]=B.[DESCRIPTION]        
+ FROM EXISTING_TOPUP A,mis.dbo.LT_ALL B            
+ WHERE A.ACCOUNT=B.MSISDN            
+ AND B.recharge_date=  convert(varchar(8),getdate()-1,112)</description>
+      <pubDate>Fri, 26 Jul 2013 10:21:15 GMT</pubDate>
+      <author>balu.arunkumar</author>
     </item>
     <item>
-      <title>How to export data onto 1 single csv with multi tab?</title>
-      <link>http://ask.sqlservercentral.com/questions/104665/how-to-export-data-onto-1-single-csv-with-multi-ta.html</link>
+      <title>Different between Excel and CSV</title>
+      <link>http://ask.sqlservercentral.com/questions/104814/different-between-excel-and-csv.html</link>
       <description>Hi,
 
-With Windows 2003 server and MS SQL 2005, I am trying to export data onto 1 single csv but different tabs. Another I am trying to create one csv file and has 4 reports/tabs.
+With Windows 2003 and SQL 2005 SSIS, I try export data to Excel file with multi sheet. It seems the file is not overwritten but append the bottom of each sheet. I cannot delete exisitng file before exporting since SSIS checks sheet;s name. Try to use CSV instead, it has 'delete exiting file' option but seems no way, like Excel' to write different sheet. Is there way to delete existing rows from Excel or csv with multi sheet? Thanks.
 
-Wonder if anyone could shed light? Thanks.
 Chris</description>
-      <pubDate>Tue, 23 Jul 2013 15:50:56 GMT</pubDate>
+      <pubDate>Thu, 25 Jul 2013 23:12:42 GMT</pubDate>
       <author>Chris 2</author>
     </item>
     <item>
-      <title>Command to load index into cache</title>
-      <link>http://ask.sqlservercentral.com/questions/104657/command-to-load-index-into-cache.html</link>
-      <description>Is there a T-SQL command to load an index into cach (pre-use in a query)?
+      <title>Snapshot replication synchronization</title>
+      <link>http://ask.sqlservercentral.com/questions/104813/snapshot-replication-synchronization.html</link>
+      <description>Hi,
+I have configured snapshot replication with the following configuration
 
-Thanks.</description>
-      <pubDate>Tue, 23 Jul 2013 13:32:53 GMT</pubDate>
-      <author>Moz</author>
+1)	Snapshot agent runs  daily at 4 pm 
+
+2)	And distribution agent is set to running continuously and set to start with SQL Server agent. 
+
+Now, my    question is how the snapshot will applied  to the subscriber?  Is it like when the snapshot is available to the distribution (after 4 pm ,after the snapshot agent job completion  ) .The distribution agent will  automatically pick the snapshot and apply to the subscriber  or Do we have to manually apply the snapshot to the subscriber?  
+Please help me understand the process. 
+,</description>
+      <pubDate>Thu, 25 Jul 2013 23:00:04 GMT</pubDate>
+      <author>manoj123</author>
     </item>
     <item>
-      <title>certification sql</title>
-      <link>http://ask.sqlservercentral.com/questions/104656/certification-sql.html</link>
-      <description>I have 3 years of SQL experience using SQL server 2005 and 2008 R2. I was wanting to know if there is a list of certification sites to get certified in SQL Server 2005 or 2008R2. I mainly write queries. I do not deal with Database Administration or anything higher that that, just writing queries. I know that Microsoft has a certification and Brainbench also. I looked at Comptia but i did not see a certification for any sql. I looked at sql-ex.ru but i do not feel comfortable giving them information since it is in another country.</description>
-      <pubDate>Tue, 23 Jul 2013 13:23:17 GMT</pubDate>
-      <author>cdurham</author>
+      <title>directory gets created twice</title>
+      <link>http://ask.sqlservercentral.com/questions/104809/directory-gets-created-twice.html</link>
+      <description>I am trying to create a directory with year-month-day
+so I defined a variable dir(value `C:\TESTFOLDER`) and evaluated to the expression
+
+    @[User::dir] + "\\"+ (DT_WSTR,4)YEAR(GETDATE()) + "-" + RIGHT("0" + (DT_WSTR,2)MONTH(GETDATE()), 2) + "-" + RIGHT("0" + (DT_WSTR,2)DAY(GETDATE()), 2)
+
+when I execute it creates `C:\TESTFOLDER\2013-07-25\2013-07-25`
+
+I cannot understand why it is getting created twice any ideas greatly appreciated
+
+Thanks a lot</description>
+      <pubDate>Thu, 25 Jul 2013 20:38:59 GMT</pubDate>
+      <author>apple</author>
     </item>
     <item>
-      <title>Server DDL trigger history</title>
-      <link>http://ask.sqlservercentral.com/questions/104651/server-ddl-trigger-history.html</link>
-      <description>Hi all
+      <title>Changing Publisher and Subscriber Roles</title>
+      <link>http://ask.sqlservercentral.com/questions/104804/changing-publisher-and-subscriber-roles.html</link>
+      <description>I have Publisher Server P and Subscriber Server S. I want to change server P to become the subscriber and Server S to become  the publisher. how do i change the role for each server without having to create a new Publication/subscription ?</description>
+      <pubDate>Thu, 25 Jul 2013 19:37:58 GMT</pubDate>
+      <author>marqueluis</author>
+    </item>
+    <item>
+      <title>The 'OraOLEDB.Oracle.1' provider is not registered on the local machine</title>
+      <link>http://ask.sqlservercentral.com/questions/104801/the-oraoledboracle1-provider-is-not-registered-on.html</link>
+      <description>I have a SSIS (2005) package which was developed on a 32 bit machine. The Package connects to the oracle database and have 2 connections (1 using the MS provider for Oracle and other being Oracle Provider for Oracle).
 
-Is it possible to see when and by whom a Server DDL trigger was enabled/disabled? SQL does not store this info in the logs.
+This works fine on my machine but when deployed on Production server which is a 64-bit machine and executed through a SQL server agent job it gives an error "The 'OraOLEDB.Oracle.1' provider is not registered on the local machine".
 
-I have queried sys.triggers with no luck, any ideas?
+I have also installed 32 bit oracle client on this machine.
 
+Inputs needed...</description>
+      <pubDate>Thu, 25 Jul 2013 19:20:39 GMT</pubDate>
+      <author>saketchouksey</author>
+    </item>
+    <item>
+      <title>SSRS How do I divide column group totals of two matrices that use different datasets?</title>
+      <link>http://ask.sqlservercentral.com/questions/104798/ssrs-how-do-i-divide-column-group-totals-of-two-ma.html</link>
+      <description>I have an SSRS Report that has two matrices with a different dataset in each matrix.  I have a total column in each matrix.   I want to perform a calculation on the values in the totals columns.
 
-Thanks</description>
-      <pubDate>Tue, 23 Jul 2013 10:36:30 GMT</pubDate>
-      <author>ruancra</author>
+Here is what I want to do:
+
+MatrixA.TotalColumn.Value divided by MatrixB.TotalColumn.Value
+
+So I want to see a column of values showing the calculation between the two.
+
+MatrixA uses a different dataset than MatrixB.
+Both MatrixA and MatrixB have the same number of rows and columns.  
+There is a total column on the column group for each matrices.  I want to see a column of values of the division of the total columns.</description>
+      <pubDate>Thu, 25 Jul 2013 18:46:51 GMT</pubDate>
+      <author>ckmst11</author>
     </item>
   </channel>
 </rss>

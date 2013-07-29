@@ -4,6 +4,8 @@
   version="1.0"
   xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
+  <xsl:output method="xml" indent="yes" omit-xml-declaration="yes" />
+  
   <xsl:template match="/">
     <div class="RootNode">
       <xsl:apply-templates select="Objects/Object" />
@@ -12,7 +14,7 @@
 
   <xsl:template match="Objects/Object">
     <div class="item-box">
-      <xsl:apply-templates select="Property[@Name='Feed']" />
+      <xsl:apply-templates select="Property[@Name='Publication']" />
       <xsl:apply-templates select="Property[@Name='Title']" />
       <xsl:apply-templates select="Property[@Name='Description']" />
       <xsl:apply-templates select="Property[@Name='author']" />
@@ -20,12 +22,20 @@
     </div>
   </xsl:template>
 
-  <xsl:template match="Property[@Name='Feed']">
-    <div class="item-header-bar simple-talk">
-      <xsl:value-of select="." disable-output-escaping="yes"/>
+  <xsl:template match="Property[@Name='Publication']">
+    <div class="item-header-bar">
+      <xsl:attribute name="style">color: white; background-color: #<xsl:value-of select="../Property[@Name='Color']" />
+      </xsl:attribute>
+      <xsl:value-of select="." disable-output-escaping="yes"/> 
+      - 
+      <xsl:apply-templates select="../Property[@Name='Stream']" />
     </div>
   </xsl:template>
 
+  <xsl:template match="Property[@Name='Stream']">
+    <xsl:value-of select="." disable-output-escaping="yes"/>
+  </xsl:template>
+  
   <xsl:template match="Property[@Name='Title']">
     <div class="item-title">
       <a>
