@@ -71,12 +71,12 @@ But you are also likely to find ..
      Select @{name="Feed"; Expression={$FeedName}}, 
 		@{name="Title"; Expression = {try {$_.title} catch {'Unknown title'}}}, 
       @{name="Description"; # this isn't manatory, but you can get the content
-         Expression ={try { if ($_.SelectSingleNode('description') -eq $null) 
+         Expression ={ &{try { if ($_.SelectSingleNode('description') -eq $null) 
                                  { truncate ($_.encoded.'#cdata-section' -replace "<.*?>") 500} 
                             elseif ( $_.description.ToString() -eq 'description') 
                                  {truncate ($_.description.'#cdata-section'  -replace "<.*?>") 500 } 
                             else {truncate ($_.description  -replace "<.*?>") 500 }} 
-                      catch {'error'}}},
+                      catch {'error'}} -replace '&amp;#8217;', '&apos;'},
       @{name="Publication"; Expression={$Publication}},
       @{name="Stream"; Expression={$Stream}},
       @{name="PageURL"; Expression={$PageURL}},
