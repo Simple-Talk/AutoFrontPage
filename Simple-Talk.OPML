@@ -15,10 +15,13 @@
             <outline text="Blogs" title="Blogs" type="rss" xmlUrl="https://www.simple-talk.com/blogs/feed/" htmlUrl="https://www.simple-talk.com/blogs/" color="92171a"/>
         </outline>
         <outline text="SQL Server Central">
-            <outline title="Editorials" text="http://www.sqlservercentral.com/Xml/Rss/Articles/Editorial/" type="rss" xmlUrl="http://www.sqlservercentral.com/Xml/Rss/Articles/Editorial/" htmlUrl="http://www.sqlservercentral.com/Articles/Editorial" color="325181"/>
-            <outline title="Main Articles" text="http://www.sqlservercentral.com/Xml/Rss/articles" type="rss" xmlUrl="http://www.sqlservercentral.com/Xml/Rss/articles" htmlUrl="http://www.sqlservercentral.com/Articles/" color="325181"/>
-            <outline title="Blogs" text="www.sqlservercentral.com/blogs/feed/" type="rss" xmlUrl="http://www.sqlservercentral.com/blogs/feed/" htmlUrl="http://www.sqlservercentral.com/blogs/" color="325181"/>
-            <outline title="Questions" text="ask.sqlservercentral.com/feed/questions.rss" type="rss" xmlUrl="http://ask.sqlservercentral.com/feed/questions.rss" htmlUrl="http://ask.sqlservercentral.com/index.html" color="325181"/>
+            <outline title="Editorials" text="http://www.sqlservercentral.com/Xml/Rss/Articles/Editorial/" type="rss" xmlUrl="http://www.sqlservercentral.com/Xml/Rss/Articles/Editorial/" htmlUrl="http://www.sqlservercentral.com/Articles/Editorial" color="003366"/>
+            <outline title="Main Articles" text="http://www.sqlservercentral.com/Xml/Rss/articles" type="rss" xmlUrl="http://www.sqlservercentral.com/Xml/Rss/articles" htmlUrl="http://www.sqlservercentral.com/Articles/" color="003366"/>
+            <outline title="Blogs" text="www.sqlservercentral.com/blogs/feed/" type="rss" xmlUrl="http://www.sqlservercentral.com/blogs/feed/" htmlUrl="http://www.sqlservercentral.com/blogs/" color="003366"/>
+            <outline title="Questions" text="ask.sqlservercentral.com/feed/questions.rss" type="rss" xmlUrl="http://ask.sqlservercentral.com/feed/questions.rss" htmlUrl="http://ask.sqlservercentral.com/index.html" color="003366"/>
+        </outline>
+        <outline text="Database Weekly">
+            <outline title="Newsletter" text="Database Weekly Newsletter" type="rss" xmlUrl="http://dev-jessn.red-gate.com:51392/dynamicpage/DbwNewsletterFeed.aspx" htmlUrl="http://dev-jessn.red-gate.com:51392/dynamicpage/NewsletterItems.aspx" color="325181"/>
         </outline>
         <outline text="Twitter feeds">
         </outline>
